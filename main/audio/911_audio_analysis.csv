@@ -1,0 +1,711 @@
+Call_ID,Transcript,Extracted_Event,Location,Sentiment,Urgency_Score
+C001,My mom is. You're over now.,Medical emergency,Michigan,Concerned,0.53
+C002,"Hello, hello, is everything okay?",Homicide / death investigation,"Volusia County, Florida",Distressed,0.66
+C003,"Yes, I need a police officer over here at 7. What's going on?",Domestic disturbance,Texas,Concerned,0.42
+C004,"Man, my pickup was stolen. I had to go find it.",Traffic collision,"Omaha, Nebraska",Concerned,0.49
+C005,"I don't have an emergency too, can you self-it or just off my house just now?",Non-emergency / misuse of 911,"Aloha, Oregon",Concerned,0.19
+C006,I don't want to get back to sleep.,Homicide / death investigation,"Rowlett, Texas",Distressed,0.66
+C007,"We can see we need a police at one of our parts of two streets. What's going on there, man? We were two.",Homicide / death investigation,Colorado,Distressed,0.66
+C008,"I'm don't, Pearson, and that is killed two people.",Stabbing / assault,Washington,Concerned,0.59
+C009,"So I'm your ambulance, please officer. Okay, you need a police officer? Yeah.",Homicide / death investigation,South Carolina,Distressed,0.66
+C010,Here we've got a far down here at around 7. Right here to have it.,Building fire,"Abingdon, Maryland",Concerned,0.59
+C011,"your heart is changing. I'm a little boy 7, I'm a little gay. I'm a little gay. I'm a still hangover.",Medical emergency,Texas,Concerned,0.53
+C012,I don't know but you're not far enough and disappointed you guys. Let me take the left at that light.,Traffic collision,Colorado,Concerned,0.49
+C013,"Are you out of the house yet? No. Or I get out of the house. We can't, thank you.",Building fire,"Kensington, Maryland",Concerned,0.59
+C014,"Yes, there's a police return. Yes, it is. They help you. Okay, I put this as ridiculous, but...",Rescue / person trapped,"Port Huron, Michigan",Concerned,0.55
+C015,"And 563, shall I hear a road?",Non-emergency / misuse of 911,Wisconsin,Calm,0.06
+C016,"Can you please send us to you? Uh, to... I think I'm heading...",Domestic disturbance,Michigan,Concerned,0.42
+C017,"Okay, this is county it's a matter",Water emergency / drowning,"Columbus, Ohio",Concerned,0.59
+C018,"Oh my god, somebody's shooting at this sheriff's department. At the sheriff's department. Yes, somebody.",Shooting / gun violence,"Latah County, Idaho",Concerned,0.63
+C019,"Okay, calm down a little bit, okay? What's he at?",Medical emergency,California,Concerned,0.53
+C020,"Um, there was just a semi going, what is that? Red arrow going down.",Traffic collision,"Paw Paw, Michigan",Concerned,0.49
+C021,"I'm a quality breakthrough, and I'm a",Traffic collision,DC,Concerned,0.49
+C022,You can see the,Medical emergency,California,Concerned,0.53
+C023,"Yes, I live at 90301 South Texas Street. Mm-hmm. I've got a gentle...",Homicide / death investigation,"90301 South Texas Street, Wisconsin",Distressed,0.66
+C024,"where's your emergency? Any ambulance to 101, colony. Okay, what's the reason to leave? What's going on? One thing.",Stabbing / assault,"Fairfield, Connecticut",Concerned,0.59
+C025,"Hi, I'm speaking to my boyfriend as he was entering his home and I heard loud screaming and now be good",Shooting / gun violence,New Jersey,Concerned,0.63
+C026,"Yeah, this is from, I had a little girl that fell on the ball and...",Water emergency / drowning,Colorado,Concerned,0.59
+C027,"Yep. Hi, I'm trying to save up your family and I'm asking them all in those alternatives to my health.",Stabbing / assault,"Before Broward County, Florida",Concerned,0.59
+C028,I'm out here right here and I lost my keys in my car. Is there any way that someone can imagine?,Non-emergency / misuse of 911,Location not provided in source data,Calm,0.06
+C029,It's not an emergency. The only way I know how I get in touch with this woman is...,Non-emergency / misuse of 911,Location not provided in source data,Concerned,0.19
+C030,What's going on there? Does he hide?,Non-emergency / misuse of 911,Location not provided in source data,Calm,0.06
+C031,Now one one where is your emergency?,Non-emergency / misuse of 911,Location not provided in source data,Concerned,0.19
+C032,I hear you.,Non-emergency / misuse of 911,Location not provided in source data,Calm,0.06
+C033,I'm sorry but the farm works bill on. I'm sorry you cannot call 911 for that.,Non-emergency / misuse of 911,Location not provided in source data,Concerned,0.11
+C034,"Please, thank you. Yes. No. I want to report a drug overdose. A drug overdose.",Stabbing / assault,Florida,Concerned,0.59
+C035,"emergency. Uh, five. Zero zero one. Here's man. We'll be in gun. Five zero.",Shooting / gun violence,Wisconsin,Concerned,0.63
+C036,I'm going to want somebody to just walk into our house while they're going to be focused. That's what I'm going to have now.,Burglary / robbery / intruder,Florida,Concerned,0.47
+C037,floor. You're going to cover up. Sure be on the floor. Okay. I'm going to tell you how to help deliver the baby. Okay.,Medical emergency,Texas,Concerned,0.53
+C038,It's already about going to a house. But I don't know.,Homicide / death investigation,"Rineyville, Kentucky",Distressed,0.66
+C039,"Hello, I'm going down to the back one with my baby. Okay, where are you?",Missing person / abduction,Ohio,Concerned,0.56
+C040,all night long. Let alone one one in the future. Perhaps one in this early winter camp.,Water emergency / drowning,Minnesota,Concerned,0.59
+C041,The address is 1160 Ray Road. We have a baby missing out of a crib.,Missing person / abduction,"Spring Lake, North Carolina",Concerned,0.56
+C042,"See, uh, Bartlett was breaking into a house next door. What's the address there, sir? 74.",Burglary / robbery / intruder,Texas,Concerned,0.47
+C043,I think it's an Indian director after the period during the current purple winter space after he took down or something. I don't know.,Medical emergency,"Morristown, Tennessee",Concerned,0.53
+C044,"Hello, my Royal One.",Shooting / gun violence,"Omaha, Nebraska",Concerned,0.63
+C045,I don't know if the gun cannot wait.,Threat / suspicious activity,"Hernando County, Florida",Concerned,0.45
+C046,"Yes, this guy is following us with shotgun and he's trying to run us off the road. We're standing up.",Shooting / gun violence,Colorado,Concerned,0.63
+C047,"Hey, let's go on a cross street from the new Deaf Trail, you know, people in jail. Go go go.",Medical emergency,"a cross street, Florida",Concerned,0.53
+C048,"Please. You just have further to get that breath. Give me address first, ma'am. Now.",Medical emergency,California,Concerned,0.53
+C049,What's going on man?,Homicide / death investigation,Texas,Distressed,0.66
+C050,I think I'm also going to follow me all because somebody thinks she's a finger and can't drive all straight.,Traffic collision,Wisconsin,Concerned,0.49
+C051,and we found air cream just went down awesome in Corona. An airplane.,Traffic collision,"Corona, California",Concerned,0.49
+C052,"I'm gonna be able to go jump down the road and jump, and I'm gonna cry. At the end of the car, I can't hear you.",Rescue / person trapped,Pennsylvania,Concerned,0.55
+C053,"Yes, she's a bitch. Because she wanted to know me. I don't know where you are.",Missing person / abduction,Texas,Concerned,0.56
+C054,"There's a killing over here, pardon? And what's going...",Shooting / gun violence,California,Concerned,0.63
+C055,"Hey, I just thought of God fired two shots after...",Traffic collision,North Carolina,Concerned,0.49
+C056,"Okay, I got a female shot, one set in a 831, some avenue apartment.",Shooting / gun violence,Florida,Concerned,0.63
+C057,Hello sir. Yeah. Did you dial 911 a little while ago?,Threat / suspicious activity,Connecticut,Concerned,0.45
+C058,"Yeah, for me. I'm glad you're here. How's what's going on? What's going on? I want to put my vehicle ahead of me.",Public safety / unusual incident,Arizona,Calm,0.27
+C059,"Yeah, we just I need a report. Okay, nothing we can't nothing what happened",Missing person / abduction,California,Concerned,0.56
+C060,"Hi, I called a little guy, I believe I talked to you, Stacy.",Homicide / death investigation,Wisconsin,Distressed,0.66
+C061,I'm working.,Shooting / gun violence,"Warren County, New York",Concerned,0.63
+C062,"Yes, ma'am. Any somebody that come to Penicryklandin? Okay.",Water emergency / drowning,"Charleston County, South Carolina",Concerned,0.59
+C063,My name is Mary Lyons. I'm the banking center manager at Bank of America at 185 Highland,Homicide / death investigation,"185 Highland, Connecticut",Distressed,0.66
+C064,"You mean somebody can still ask it on my mom? Yeah, I don't even, she just pulled out.",Stabbing / assault,Arizona,Concerned,0.59
+C065,This is the hospital at where am I at? I'm at dog,Shooting / gun violence,Maryland,Concerned,0.63
+C066,The Old North Shore Road and my husband's been at Skye Bear.,Animal attack,"Lake Wenatchee, Washington",Concerned,0.49
+C067,"Somebody, somebody just pulled up and saw our shoe, and they left us shot by two pieces. Okay, we're getting some up.",Shooting / gun violence,Florida,Concerned,0.63
+C068,"Oh my gosh, the flag. Hello? You're up at where inside.",Building fire,Ohio,Concerned,0.59
+C069,on 21st Street. This is Tony Guzman on the staffer and he was overhead towards,Shooting / gun violence,"21st Street, Texas",Concerned,0.63
+C070,"High, a little airplane, a little one engineer plane took off on the airport at 83rd Street in Kress.",Traffic collision,"the airport at 83rd Street, Illinois",Concerned,0.49
+C071,"I'm sorry. I'm sorry. I'm sorry. I'm sorry. Get out of order. Things? Yes, ma'am.",Missing person / abduction,"Hickory, North Carolina",Concerned,0.56
+C072,"and they can. Okay, what do you need to play?",Homicide / death investigation,Louisiana,Distressed,0.66
+C073,"Yes, I need to please, please, at my house. Flatt us. I think we need an ambulance.",Homicide / death investigation,Utah,Distressed,0.66
+C074,Okay. We need a person back in the meat department to get out of the meat.,Shooting / gun violence,Iowa,Concerned,0.63
+C075,What do you need? You need the police? You need the police.,Medical emergency,"Barnstable County, Massachusetts",Concerned,0.53
+C076,"Somebody go into my house, there's a house there. What's your address? Yeah, but...",Burglary / robbery / intruder,Washington,Concerned,0.47
+C077,We just got a lot of to come apart. I'm making it with a gun. Shot one of our employees. And uh...,Shooting / gun violence,North Carolina,Distressed,0.65
+C078,My dad is fell in the floor and his visor is in,Building fire,"Henderson County, North Carolina",Concerned,0.59
+C079,"Oh, my mom's actually doctor. You're not at the doctor. Are you there alone?",Rescue / person trapped,"Volusia County, Florida",Concerned,0.55
+C080,I'm not going to want to miss that show right up. I'm going to take a look and I'm going to wipe them.,Public safety / unusual incident,"Orange County, California",Calm,0.27
+C081,"Oh, that's a thing. I'm assuming. Who's been shot, man? I'll be right.",Homicide / death investigation,Florida,Distressed,0.66
+C082,one.,Traffic collision,Indiana,Concerned,0.49
+C083,This is the book will be a bank of 1302 with the I should have seen my clothes on. We're being robbed.,Burglary / robbery / intruder,"Volusia County, Florida",Concerned,0.47
+C084,"Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh",Stabbing / assault,Wisconsin,Concerned,0.59
+C085,"Yes, we're at the Nelson building and there's some men here with the dogs to do the same into the board meeting. Okay, you're at the...",Shooting / gun violence,Florida,Concerned,0.63
+C086,"Listen, will we be in the room? Okay, so come on, pass my seatbelt. You gotta attack my seatbelt.",Domestic disturbance,Connecticut,Concerned,0.42
+C087,See? Thank you.,Domestic disturbance,Connecticut,Concerned,0.42
+C088,"I'm locked in the field, I don't know if I can't. You're walking in the field, okay, I need to just stop, okay, I'm gonna try to decide.",Rescue / person trapped,"Green Lake County, Wisconsin",Concerned,0.55
+C089,"I'm going to get the emergency. Somebody just set the police up at the... I'll put the address, ma'am.",Shooting / gun violence,"Orange County, California",Concerned,0.63
+C090,I've got to almost a wee shot down here. I'll put on...,Shooting / gun violence,"Orange County, California",Concerned,0.63
+C091,"If you're out to the big county, we'll go to the fort.",Shooting / gun violence,"Orange County, California",Concerned,0.63
+C092,"Yes, there's two subs here that's being on the ground. Okay, he just got stopped.",Shooting / gun violence,"Orange County, California",Concerned,0.63
+C093,"I mean, I wait on the car, there's a wire turn off.",Traffic collision,Hawaii,Concerned,0.49
+C094,"On the heretic, I'm heretic of police vision and a recall.",Homicide / death investigation,Ohio,Distressed,0.66
+C095,"Yes, I need to please quickly, gently. So, change.",Shooting / gun violence,"Williamsburg County, South Carolina",Concerned,0.63
+C096,Hello? Hello? Hello? Hello?,Homicide / death investigation,Arizona,Distressed,0.66
+C097,"Um, of course, 4709, 4709. Do you want to have our energy catching pads?",Building fire,"Hyattsville, Maryland",Concerned,0.59
+C098,"Hi, I need somebody escorted out of my store right away. He's causing problems.",Shooting / gun violence,California,Concerned,0.63
+C099,Hello? Hello 911?,Medical emergency,Oregon,Concerned,0.53
+C100,"I got three pit balls, the second people. Thank you. You're attacking kids? Yes, sir.",Animal attack,"Arizona City, Arizona",Concerned,0.49
+C101,"Hey, um, they just broke into my house. They had guns. They told us to just be on the floor. There's pounds in my...",Burglary / robbery / intruder,Florida,Concerned,0.47
+C102,"Um, I took some pills and I'm the pills when I made my mad mom.",Homicide / death investigation,"Catawba County, North Carolina",Distressed,0.66
+C103,"Alright, well the thing is, I was just playing with my buddy. You were sliding? Slide.",Traffic collision,"Lafayette, Indiana",Concerned,0.49
+C104,"There's somebody who's a guy at home alone and he's talking to my daughter, she's Anybody here quick?",Rescue / person trapped,"Hialeah, Florida",Concerned,0.55
+C105,My house is on fire. I don't know how to sleep in and I'll go home and do them and I'll go home.,Building fire,Iowa,Concerned,0.59
+C106,"Hi, my name is Maria. I'm calling because my teacher, Mr. Haines,",Public safety / unusual incident,California,Calm,0.27
+C107,"Yes, I have a gun and I don't swim out like I loaded and some of the shots.",Shooting / gun violence,Florida,Concerned,0.63
+C108,"I have a friend who's been drinking, I've been trying to call him since, and today he is now loading several weapons in a box.",Homicide / death investigation,South Carolina,Distressed,0.66
+C109,"I need police at, uh, with a heck of a 291 water town street immediately. We just said bullet.",Shooting / gun violence,Massachusetts,Concerned,0.63
+C110,I'm not sure my friend has called and basically told me she's going to kill herself and I can probably will.,Building fire,"Provo, Utah",Concerned,0.59
+C111,What's the address? 750 south of Tippie West.,Building fire,"Provo, Utah",Concerned,0.59
+C112,emergency files. Put some locations.,Building fire,"Provo, Utah",Concerned,0.59
+C113,"It's been a while, I believe I haven't made it as possible. Everyone over goes.",Medical emergency,"Georgetown, Ohio",Concerned,0.53
+C114,"Yeah man, I'm up there next to the end. We're going to roll. We're going to see the gap.",Shooting / gun violence,"Athens-Clarke County, Georgia",Concerned,0.63
+C115,something that's 29 and a comeback would fall just and I can bring a card just coming down the wrong lane.,Traffic collision,"Campbell County, Virginia",Concerned,0.49
+C116,"I was a good woman, and I was a good woman.",Burglary / robbery / intruder,"Livingston, Michigan",Concerned,0.47
+C117,Please come out here. What's your... I don't know where I dress. You're gonna have to be in the dress.,Shooting / gun violence,"Sylva, North Carolina",Concerned,0.63
+C118,"What could we get out of play? No one down in my computer. A plane going down, months in part. We got out.",Traffic collision,"Monroe County, Ohio",Concerned,0.49
+C119,"I saw somebody in the middle, and someone helped. What are you doing here?",Homicide / death investigation,Texas,Distressed,0.66
+C120,"somebody trying to rob us who got Tigret now we're holding your doubt. Okay, what address you at?",Shooting / gun violence,"Oakland County, Michigan",Concerned,0.63
+C121,"Hello? Hello, I'm floating down the river in my car. Okay, what river are you on?",Traffic collision,"Waynesville, Ohio",Concerned,0.49
+C122,"Yes, I need an ambulance on my heart sound. Okay, we can't hear. We can't hear.",Medical emergency,"Ridge Manor, Florida",Concerned,0.53
+C123,"with that little boy missing. Have you had any reports on one? No, I'm sure have it.",Water emergency / drowning,"Cushing, Oklahoma",Concerned,0.59
+C124,"May it please help me. I'm in County Road, 96600 will be on the TV and",Threat / suspicious activity,"County Road, Texas",Concerned,0.61
+C125,I'm going to be right here at the mirror. I don't need to log just my big.,Shooting / gun violence,"Miramar, Florida",Concerned,0.63
+C126,"I'm not a suspect but I need to have somebody go to my brother, my house.",Homicide / death investigation,"Arlington Heights, Illinois",Distressed,0.66
+C127,"Come on, run. Stay. My friend has had a better feature. Going out.",Medical emergency,"Seminole, Oklahoma",Concerned,0.53
+C128,Hello? Yes. Maybe just be wrong. We're at... He's 22.,Burglary / robbery / intruder,Oklahoma,Concerned,0.47
+C129,Hi friends community school I called my one on a few minutes ago we have I heard several time shots outside.,Shooting / gun violence,Florida,Concerned,0.63
+C130,"Yeah, I need a name to go to 12-mark in South Reno. Okay, let's go on.",Medical emergency,"South Reno, Oklahoma",Concerned,0.53
+C131,I believe it is dangerous to the cold view. That's what is the address. And not cold view.,Medical emergency,Tennessee,Concerned,0.53
+C132,49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49,Burglary / robbery / intruder,"Westminster, Colorado",Concerned,0.47
+C133,It's been a demolicing of a half in there. He's a woman inside and we need the one to come,Public safety / unusual incident,Georgia,Calm,0.27
+C134,"I hope you. Hi, this is LaTisha from Store Big Five on Green Valley. I have a person that is robbing me.",Shooting / gun violence,"Watsonville, California",Concerned,0.63
+C135,"Yes ma'am, my neighbor just ran over so it's saying so I tried to kill her in her house. I don't know what?",Traffic collision,Georgia,Concerned,0.49
+C136,I don't want my dad here to bring us since he threw me in the motion when he abused me,Stabbing / assault,"Arlington Heights, Illinois",Concerned,0.59
+C137,"Yeah, I got kind of like my father don't leave the little bit of head. He's 79 years old.",Building fire,"Volusia County, Florida",Concerned,0.59
+C138,"Oh, my husband is up in the attic and he's not responding.",Building fire,"Volusia County, Florida",Concerned,0.59
+C139,"I need to report a murder. Okay, where is that sir? 157 red scum.",Homicide / death investigation,Pennsylvania,Distressed,0.66
+C140,"Yes, it's doing my bed in the back. I just don't know where you are.",Shooting / gun violence,Florida,Concerned,0.63
+C141,"Hey, I told her some valley. We've got a medical a bird that's 4500.",Medical emergency,"Salt Lake City, Utah",Concerned,0.53
+C142,I just got about four. I'm going to target. I'm going to three three.,Homicide / death investigation,North Carolina,Distressed,0.66
+C143,"Yes, we need an ambulance. We're at Westport Shopping Center right outside.",Medical emergency,Kentucky,Concerned,0.53
+C144,"Yeah! Yeah, yeah, yeah!",Shooting / gun violence,Florida,Concerned,0.63
+C145,"Yes, excuse me, so I'm sending a couple of these cameras down. How would a copter came down?",Traffic collision,"South Brunswick, New Jersey",Concerned,0.49
+C146,"Yes, I will helicopter just crash. A helicopter just crash? Yes, sir. Okay.",Traffic collision,"South Brunswick, New Jersey",Concerned,0.49
+C147,"Good enough, Aben. Someone is running around the neighborhood shooting a gun. Okay, they're all in a car.",Homicide / death investigation,"Copley, Ohio",Distressed,0.66
+C148,"Hey, where's it? Sure, Thomas, can I help you? Yeah, this is Ben, he was it.",Stabbing / assault,"Lorain County, Ohio",Concerned,0.59
+C149,"of your emergency. I want to open to my office and let's find a tight face. Please come ahead. Okay, what's your address?",Missing person / abduction,"Aurora, Colorado",Concerned,0.56
+C150,"Oh my god, I'm on third avenue to railroad track. Somebody just tried to jump on the train and seven for late.",Traffic collision,"third avenue, Colorado",Concerned,0.49
+C151,"Ah, there's a curtain going on. Ah, we're shooting. We're shooting, we're shooting, we're shooting, we're shooting.",Shooting / gun violence,Nevada,Concerned,0.63
+C152,I think this is how you are to see it.,Shooting / gun violence,North Carolina,Concerned,0.63
+C153,I have just some other eye-w,Homicide / death investigation,Canada,Distressed,0.66
+C154,"We're on the boat right now. Our spring says, God, they're five sharks. We're also made.",Animal attack,"A-shift Manatee County, Florida",Concerned,0.49
+C155,"Yes, I got I just shot someone in my business. I'm at 59 31",Shooting / gun violence,"59 31, Washington",Concerned,0.63
+C156,"We got some shootings over here in Still Beach. OK, where? It's a salon in the Meritosh.",Shooting / gun violence,"Still Beach, California",Concerned,0.63
+C157,"I just hope someone 100, around 40.",Shooting / gun violence,New York,Concerned,0.63
+C158,"Okay, yes, there would be a transferring searching in the city of La Criceta as her accelerator specs he kept up the vehicle.",Traffic collision,"Los Angeles County, California",Concerned,0.49
+C159,"I got to report the shooting. Okay, where? Lehigh Hanson from an entity.",Shooting / gun violence,California,Concerned,0.63
+C160,"We need to believe here. Okay, what's the address of the emergency? Yeah.",Shooting / gun violence,California,Concerned,0.63
+C161,I want to tell you what's happening first. I just killed my wife.,Homicide / death investigation,"Elyria, New York",Distressed,0.66
+C162,"What do we say? What happens? Um, something. I think what about that?",Homicide / death investigation,Idaho,Distressed,0.66
+C163,We have been shot at a house and book and into we have three children and we leave somebody here now.,Shooting / gun violence,"Charleston, South Carolina",Concerned,0.63
+C164,"Yes, I can get from the concert.",Stabbing / assault,Illinois,Concerned,0.59
+C165,"And I'm behind a notes and wheel for VAD-U, like in plate C-E-G-A-1-4-8, and we've been all over the road.",Traffic collision,"Jacksonville, Florida",Concerned,0.49
+C166,for 202-molar circle. Two men have just cost my 10th of track.,Burglary / robbery / intruder,Colorado,Concerned,0.47
+C167,What city are you in?,Shooting / gun violence,"Orlando, Florida",Concerned,0.63
+C168,of mine going eastbound on I-10 between LA30 and LA40. Cool.,Traffic collision,"New Orleans, Louisiana",Concerned,0.49
+C169,"Yes, we'd also right now there's a man's children at the stage. We need a cop. We're at. We're at.",Homicide / death investigation,Texas,Distressed,0.66
+C170,"Yes, ma'am. This is a joke. Hold on. You can read a great story. Just tell yourself.",Shooting / gun violence,"Irwindale, California",Concerned,0.63
+C171,"Okay, I called this one and I already came back. Alright, so I'll be gone.",Traffic collision,"Orange County, Florida",Concerned,0.49
+C172,"Yeah, I'm turning myself in for my husband, the number.",Homicide / death investigation,"Hernando County, Florida",Distressed,0.66
+C173,"I'm almost pregnant in my house. Wish I'd read. Sausage 6, Sethland, May 3. Sile what?",Shooting / gun violence,"Vance County, North Carolina",Concerned,0.63
+C174,"I know, I'm sorry, brother. I don't want to miss you, shut doors. I can go...",Shooting / gun violence,"Norton, Massachusetts",Concerned,0.63
+C175,I am sorry I have missed middle school where the students are done to help us out please. We will call BSE Police also.,Shooting / gun violence,"Brownsville, Texas",Concerned,0.63
+C176,I'm on your own with your bike train. Why was your tip by train? My train. Where are you?,Homicide / death investigation,"Stark County, Ohio",Distressed,0.66
+C177,an ambulance to the south side Walmart immediately. What's going on? I have a man shot.,Shooting / gun violence,Wisconsin,Concerned,0.63
+C178,"Remember to go to the office right now, and see you next time. Bye bye. You shot?",Shooting / gun violence,"Ypsilanti County, Michigan",Distressed,0.65
+C179,I'm happy. I didn't do that one day and I think someone's trying to come in.,Burglary / robbery / intruder,"Valinda, California",Concerned,0.47
+C180,I need a new grade bill to please I don't care. The 15 to 6 12.,Homicide / death investigation,"Romulus, Michigan",Distressed,0.66
+C181,"We have a, I think we have a dead person in here. Okay. I don't know what happens.",Stabbing / assault,Illinois,Concerned,0.59
+C182,I'm just the one that brought the US bank and I just need to be sure to turn myself in.,Burglary / robbery / intruder,Ohio,Concerned,0.47
+C183,Why you? I'm the emergency hotline. Who are you?,Child welfare / unattended child,"Hartford, Connecticut",Concerned,0.42
+C184,It's a business. I believe it's been robbed. What's the name of the business? Flying Biscuits.,Domestic disturbance,North Carolina,Concerned,0.42
+C185,"What is your emergency? Hi, my name is Nikki. I'm the manager of the McDonalds. I'm very intrigued. Yeah. There's a woman here so she has a-",Shooting / gun violence,Ohio,Concerned,0.63
+C186,"I think we are in the 75th, I 75th. Yes, I do.",Traffic collision,"Gainesville, Florida",Concerned,0.49
+C187,Something is going on. Do you know the house number?,Shooting / gun violence,North Carolina,Concerned,0.63
+C188,"One. Thank you. Blue drone. We have blue. Okay, I'm sorry you have white.",Stabbing / assault,Illinois,Concerned,0.59
+C189,emergency. My focus is on the address. What's the area.,Burglary / robbery / intruder,Florida,Concerned,0.47
+C190,We're going to be home. We're just like told us all about the health.,Homicide / death investigation,"Sarasota County, Florida",Distressed,0.66
+C191,Have you gone? I rock somebody downtown.,Shooting / gun violence,Oregon,Concerned,0.63
+C192,"Um, we have somebody. Sorry. Sorry.",Burglary / robbery / intruder,Utah,Concerned,0.47
+C193,I think somebody is working in the house. We just came home from school and put our jobs on. We really scared.,Burglary / robbery / intruder,Michigan,Concerned,0.47
+C194,I always offer guys my mom's on the board.,Medical emergency,Ohio,Concerned,0.53
+C195,emergency. I'll just shot my wife. Can you tell me the address that you're at?,Shooting / gun violence,"Hillsborough County, Florida",Concerned,0.63
+C196,I think we need to place at the Walmart Super Center on campus Kobe. That's what we got.,Shooting / gun violence,Oklahoma,Concerned,0.63
+C197,"Yeah, I need to pull it with a 963 history six tree or somebody in the house of a for a blow.",Burglary / robbery / intruder,Oklahoma,Concerned,0.47
+C198,I'm one 19 and counting on one we just saw a plane go down.,Traffic collision,Colorado,Concerned,0.49
+C199,"I'll plain just, uh, clash. Okay, you said three miles south of Union Reservoir?",Traffic collision,Colorado,Concerned,0.49
+C200,I know there's an umbrella on the TV for this look boy. Okay. And there is a young man.,Missing person / abduction,Ohio,Concerned,0.56
+C201,I will just witness the collection and on the in the talk down.,Traffic collision,"Raymond, Wisconsin",Concerned,0.49
+C202,There's a horrible accident on 7 mile fair in Highway 94.,Traffic collision,"7 mile fair in Highway, Wisconsin",Concerned,0.49
+C203,"Hi, there was a accident. Are we just witnessed three cars just in slow motion?",Traffic collision,"Raymond, Wisconsin",Concerned,0.49
+C204,I was told to call when my dad did tell whatever I had.,Traffic collision,"Oxford, Iowa",Concerned,0.49
+C205,"He only found his dad's tortoises, but I don't know, I don't.",Shooting / gun violence,"Magna, Utah",Concerned,0.63
+C206,Hello?,Shooting / gun violence,Washington,Concerned,0.63
+C207,There has been a murder suicide. There is no survivors. Please send a phone. What's going on?,Homicide / death investigation,Michigan,Distressed,0.66
+C208,"Yeah, then you gotta put these in there. What? I bet you can put these in there. Please, please.",Suicide / self-harm,"Allegan County, Michigan",Distressed,0.65
+C209,"Yeah, so I'd like to report a shooting please. Okay. See you tomorrow, sir.",Shooting / gun violence,"Sunset Beach, North Carolina",Concerned,0.63
+C210,"I just shot my wife. Okay, and what's your address?",Shooting / gun violence,"Mason County, Washington",Concerned,0.63
+C211,He's got it out! Please! That's a good one. Please! Please!,Homicide / death investigation,Illinois,Distressed,0.66
+C212,a woman came in her with a child screaming that her son had shot for her husband.,Homicide / death investigation,"Dalton, Georgia",Distressed,0.66
+C213,"Hi, my girlfriend just pulled up and there's a guy that pull up and truck behind her. We think he has a gun.",Homicide / death investigation,"Jessup, Iowa",Distressed,0.66
+C214,"Hi, I'm done, Chats. We're all in the forest. You do what? They think I'm Chats.",Shooting / gun violence,"Jacksonville, Florida",Concerned,0.63
+C215,"I'm not crying, I'm coming in here and I'm going to be there.",Building fire,"Midwest City, Oklahoma",Concerned,0.59
+C216,"Someone was murdered, I think. Where are you? I'm not sleeping, I'm not sleeping. I'm not sleeping.",Homicide / death investigation,Connecticut,Distressed,0.66
+C217,"But it was good, just and my mom and my niece and my sister-in-law. What would I be sure to-",Homicide / death investigation,"Gilbert, Arizona",Distressed,0.66
+C218,"I have a gun shop victim here. Okay, tell me that.",Burglary / robbery / intruder,"Todd, North Carolina",Concerned,0.47
+C219,I just come in and pick it out my trash and my manager's in and out of these idiots. I've got a new...,Homicide / death investigation,Florida,Distressed,0.66
+C220,to person.,Burglary / robbery / intruder,Canada,Concerned,0.47
+C221,I'm going to go to the park.,Shooting / gun violence,"Brevard County, Florida",Concerned,0.63
+C222,I would like state police.,Shooting / gun violence,"Bucks County, Pennsylvania",Concerned,0.63
+C223,I had a guy kicking in my door or trying to kick in my front door. I don't know what his problem was,Burglary / robbery / intruder,"The Polk County, Florida",Concerned,0.47
+C224,and 59 to Kathy Rases. There's been a shooting. Somebody came in and shot a bunch of people. I'm hiding in a bit after a month.,Shooting / gun violence,Washington,Distressed,0.65
+C225,exit of this game coming from the beach. There's a guy that's completely naked through his clothes all over.,Stabbing / assault,Florida,Concerned,0.59
+C226,there's a naked man or the MacArthur's car's ring at the end of the car's way coming towards this case.,Stabbing / assault,Florida,Concerned,0.59
+C227,"So hi, I'm Maria C. I'm just a photographer. I'm my great-for-delly.",Non-emergency / misuse of 911,"East Hartford, Connecticut",Calm,0.06
+C228,"I have a boy that was underwater and he's not breathing. How old is the boy? Ah, four.",Medical emergency,"Racine County, Wisconsin",Concerned,0.53
+C229,Are you inside the house? Yeah. Are you alone inside the house? Yes.,Rescue / person trapped,"Hollywood, Florida",Concerned,0.55
+C230,someone on my back or to black man. And what is your address? 3 6 1 3 8 little.,Burglary / robbery / intruder,North Carolina,Concerned,0.47
+C231,"Thank you, like I'm putting. How the power of this kid. I'm rolling for the ripple of the nose.",Burglary / robbery / intruder,Texas,Concerned,0.47
+C232,I'm going to come with us. Where are you at? I'm on end.,Shooting / gun violence,"Sanger, California",Concerned,0.63
+C233,Look in my parents are shocked. You know what? My parents were shocked. You panicked with shots.,Homicide / death investigation,Florida,Distressed,0.66
+C234,We had several police hire earlier and did a report based on...,Burglary / robbery / intruder,North Carolina,Concerned,0.47
+C235,"Oh, my brother is having a great time to note that. Okay.",Shooting / gun violence,Colorado,Concerned,0.63
+C236,"Well, I just strangled my girlfriend. You strangled your girlfriend? Yep. What's your name?",Stabbing / assault,"Alliance, Ohio",Concerned,0.59
+C237,We had an airboat accident. I'm not sure if they're all in trees. I don't know.,Stabbing / assault,"Moore Haven, Florida",Concerned,0.59
+C238,"Hey, I think I may have found",Homicide / death investigation,"Dare County, Ohio",Distressed,0.66
+C239,I felt this is a lot of... ...and... drink.,Fall / accidental injury,"Palatine, Illinois",Concerned,0.48
+C240,"I'm going to make a bomb. Okay, you said the hospital? Yes. Did you ever see now?",Shooting / gun violence,Ohio,Concerned,0.63
+C241,"how some guys shooting their gun, some temple or something.",Homicide / death investigation,"Milwaukee County, Wisconsin",Distressed,0.66
+C242,I was just going to 6th temple and there was a house in the parking lot and there was a bunch.,Homicide / death investigation,"Milwaukee County, Wisconsin",Distressed,0.66
+C243,"I'm always learning to sing. Um, yes. Somebody just said my baby. Please be there. They just did what? Say my baby.",Stabbing / assault,New Jersey,Concerned,0.59
+C244,"All this, it looks like a dead man in the car. I'm gonna put him in here.",Homicide / death investigation,Kentucky,Distressed,0.66
+C245,Can I help you? Somebody who broke with our daughter's train to break into my bedroom. What's your address?,Burglary / robbery / intruder,"Clark County, Washington",Concerned,0.47
+C246,"Please, please work. I'll get there for the maturity here. They're hearing, we're aware and they're shooting.",Shooting / gun violence,New Jersey,Concerned,0.63
+C247,"Please, Farron. 911, this man's been having a hard attack. Brooke, we're going to start CPR on the hem, okay? I'm going to jump.",Medical emergency,"Washington County, Oregon",Concerned,0.53
+C248,you. I'll be good you off at the shot. What agency sir?,Shooting / gun violence,Florida,Concerned,0.63
+C249,I just killed my mom and my sister. What? I just killed my mom and my sister.,Homicide / death investigation,"Parker County, Texas",Distressed,0.66
+C250,I'll call them me because I'm at a party. My son is fit. What park are you at?,Traffic collision,Ohio,Concerned,0.49
+C251,We have two boards. Two boards. We have one. We have one. We have one. We have two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards.,Traffic collision,"Westchester County, New York",Concerned,0.49
+C252,"that then with gardens and cinnings possible in the ladies at the moment. But yeah, I think that it had a hard problem. What is a mad address?",Medical emergency,"Bakersfield, California",Concerned,0.53
+C253,I just committed a father's worst thing. Okay. I just shot my daughter.,Shooting / gun violence,Washington,Concerned,0.63
+C254,"Yes, I have a three-year-old who's not breathing. To address, ma'am. 1-6-097 North Walgher.",Medical emergency,"Ector County, Texas",Concerned,0.53
+C255,I have an emergency. I have three dead people up on top of cold. Here we sweat a wolf tent. My name is,Building fire,"Kanawha County, West Virginia",Concerned,0.59
+C256,"Those penetrating. Okay, who is shot?",Homicide / death investigation,Utah,Distressed,0.66
+C257,"I don't, a guy standing here, I think his wife is, is, is, strong with his wife.",Medical emergency,"Macomb County, Michigan",Concerned,0.53
+C258,We need help! We need help! Hasn't just happened at my son. I'm trying to figure it out. Please!,Shooting / gun violence,"Newaygo County, Michigan",Concerned,0.63
+C259,late this is a day of war back record to eleven or seven by call the budget or then my shop to eleven or seven,Shooting / gun violence,Oklahoma,Concerned,0.63
+C260,"I'm not a good guy. What's in my vehicle, man? Nobody wants you to know where you're at. Where are you?",Homicide / death investigation,Colorado,Distressed,0.66
+C261,"have you got any reports of a building exposure? Yes, we have. It's going to be Jerry Maswick in North Rock.",Building fire,"North Rock, Texas",Concerned,0.59
+C262,"I like the movie, I like the movie, I like the movie, I like the movie, I like the movie,",Building fire,"West, Texas",Concerned,0.59
+C263,We just have the explosion and the fire. Yes sir. The,Building fire,"West, Texas",Concerned,0.59
+C264,"Gary Marcia, grab all the house blew up. Not the windshield out of my pickup.",Building fire,"West, Texas",Concerned,0.59
+C265,"Yes, we're West Texas. Our fertilizer plant is blown up and our waste hole.",Building fire,"West, Texas",Concerned,0.59
+C266,"Look, I'm out! Blow it! Okay, what's the end like? 1879!",Building fire,"West, Texas",Concerned,0.59
+C267,"Oh, do the guy with the costume of the new gear ball right now. Do the chum go with the balls right now. Okay, hand right.",Shooting / gun violence,Virginia,Concerned,0.63
+C268,My name is Hans Walters. I work for a lot to take as much upon a police department.,Homicide / death investigation,California,Distressed,0.66
+C269,"I'm out with the high school, losing everything on. It's very thankful. Lots of fun.",Shooting / gun violence,"La Salle High School, Ohio",Concerned,0.63
+C270,You need police fire ambulance.,Missing person / abduction,Ohio,Concerned,0.56
+C271,We have a tutor in the store. Okay. Do you know if anybody's injured? I'm not sure. I'm not sure.,Shooting / gun violence,Oregon,Concerned,0.63
+C272,"Okay, I need to get yourself to a safe location.",Shooting / gun violence,Oregon,Concerned,0.63
+C273,Okay. We're at the town center. We're at me. We're at me. We're at me. We're at me.,Shooting / gun violence,Oregon,Concerned,0.63
+C274,"by one one. Crackham-and-town center for the Cappella Woods fired in the mask. OK, they'll be on her way.",Shooting / gun violence,Oregon,Concerned,0.63
+C275,"Hi, I'm a suicidal teenager at House 503 Night Hawkeye. I need an ambulance immediately.",Stabbing / assault,"New Hanover County, North Carolina",Concerned,0.59
+C276,"500 feet, roll the cough, throw an ambulance, shot fired, a baby's been hit in the head.",Shooting / gun violence,Utah,Concerned,0.63
+C277,"Can you get an ambulance in a cop? Go up the over to 59, older would drive. 59, what? Older.",Shooting / gun violence,"Stafford County, Virginia",Concerned,0.63
+C278,"Hi, Madenah",Burglary / robbery / intruder,"Richland County, Wisconsin",Concerned,0.47
+C279,So hurry up because it's a five-way happen. This is a five-way he came from on to my door earlier.,Burglary / robbery / intruder,"Manatee County, Florida",Concerned,0.47
+C280,"We went to the quails on the minute. In the last night, the spring of mine here looks like you hit it head.",Medical emergency,"St. Clair County, Illinois",Concerned,0.53
+C281,"Here at the empty over here, someone's been shot. 1220 photograph, Avenue. 1220.",Shooting / gun violence,California,Concerned,0.63
+C282,"I'm a 69, 69 East Main. My son did shot his wife.",Shooting / gun violence,"Kalamazoo County, Michigan",Concerned,0.63
+C283,I'm going to go to the floor. I'll just go right now. 5-4-8-3. 5-4-1.,Traffic collision,Georgia,Concerned,0.49
+C284,"Yes, Sam. Shots fired, St. James.",Shooting / gun violence,"Weber County, Utah",Concerned,0.63
+C285,"Yeah, I just attempted to kill my mother and my father. Okay, where are you at?",Stabbing / assault,"Trumbull County, Ohio",Concerned,0.59
+C286,"Yes, we're at a pool and I have a little girl that keeps down and she's not breathing. Trying to keep you all right now.",Medical emergency,"Delaware County, Oklahoma",Concerned,0.59
+C287,"My neighbors helped us bring down at 312 Washington Avenue. We're on our way, is anybody inside?",Building fire,"312 Washington Avenue, California",Concerned,0.59
+C288,I can see why I knew that I was happy with you. I love you.,Medical emergency,"Davis County, Utah",Concerned,0.53
+C289,I'm reporting an airplane crash at the phone. An airplane crash at the phone? Yeah.,Building fire,California,Concerned,0.59
+C290,"Hi, we just, where's the camp in Cisco Airport in our airplane just crashed upon landing.",Building fire,"Cisco Airport, California",Concerned,0.59
+C291,I'm going to have a number one way to work through them.,Medical emergency,"Palm Coast, Florida",Concerned,0.53
+C292,"Yeah, this is the emergency, I'm a cab driver, this guy. He's saying...",Homicide / death investigation,Kansas,Distressed,0.66
+C293,"Can't believe. Can't believe. What happened to me, son? I don't know. I'm anywhere. Please.",Shooting / gun violence,Utah,Concerned,0.63
+C294,Help me help me quick. I'll be at the end of the conversation.,Threat / suspicious activity,Illinois,Concerned,0.47
+C295,I want to merge anybody right now.,Building fire,California,Concerned,0.59
+C296,There's a fire on the Famicel Bridge if the one was ready. And on the Famicel.,Building fire,California,Concerned,0.59
+C297,"Yes ma'am, I'm on second avenue in the school and the gentleman said tell them to hold down to police officer.",Shooting / gun violence,"second avenue, Georgia",Concerned,0.63
+C298,He's in the house. He's in the house. He's in the house. He's in the house. He's in the house. He's in the house.,Shooting / gun violence,Iowa,Concerned,0.63
+C299,"Yes, I'm using the help. I'm trapped in the backside of this forest fire.",Rescue / person trapped,"Monticello County, Arkansas",Concerned,0.63
+C300,I'm working at Mike Donald up here in our overnight seven bro,Non-emergency / misuse of 911,Georgia,Calm,0.06
+C301,"Yes, I didn't tact by a man in the woods while I was hunting. Please send the police to my location.",Shooting / gun violence,"Washington County, Oregon",Concerned,0.63
+C302,We're going to stop with the radio lighting and electric supply building. Rainier lighting and electric.,Stabbing / assault,"Joint Base Lewis-McChord, Washington",Concerned,0.59
+C303,"Yes, this is a treasure. It's really a huge and sweet to you, school. I will. I'll hear you.",Shooting / gun violence,Nevada,Concerned,0.63
+C304,Here seems to be a bad fight. Next door.,Traffic collision,"York County, North Carolina",Concerned,0.49
+C305,I am thinking of that and we are being followed. It's the honey we kill me.,Missing person / abduction,"South Daytona, Florida",Concerned,0.56
+C306,"I think some people are shooting. Okay, and this is text. Okay.",Shooting / gun violence,North Carolina,Concerned,0.63
+C307,"I'm about to kill people. You're about to kill people? Yes. I had a deadly weapon, I...",Shooting / gun violence,Canada,Concerned,0.63
+C308,"Oh, hello. Hello.",Stabbing / assault,"Orange County, Florida",Concerned,0.59
+C309,"Um, my friend, it was my very first trip through and out to now.",Stabbing / assault,Ohio,Concerned,0.59
+C310,"I'm going to have to go on my side with a good nap. What's your address, ma'am? I'm glad you're...",Missing person / abduction,"Washtenaw County, Michigan",Concerned,0.56
+C311,"Oh, I'm just very about.",Suicide / self-harm,"Greenwood, South Carolina",Distressed,0.65
+C312,"I guess it was a long-distance workout and the way you come running out fods and some man is in there, it's eating everywhere.",Shooting / gun violence,North Carolina,Concerned,0.63
+C313,"Okay, I met a wild cat who's in. We've had a one of our keepers.",Animal attack,Oregon,Concerned,0.49
+C314,This might go to five weeks after. I got the peak with my yard and the dog is in my yard.,Shooting / gun violence,Arizona,Concerned,0.63
+C315,"I've been called over to my father-in-law, because he ought to fall with my mother-in-law. He's been flacing up himself.",Shooting / gun violence,"Prescott, Arizona",Concerned,0.63
+C316,"My girlfriend is right and I think she's dead. I need someone here now. Okay, she breathing.",Homicide / death investigation,"Clarksville, Indiana",Distressed,0.66
+C317,"I'm sorry. Anyhoc's cool. I think there's somebody shooting in here. Anyhoc's cool. Okay, what makes you...",Shooting / gun violence,Connecticut,Concerned,0.63
+C318,"Hey, look at all the magic school. 12 Bickets and Drive. Yeah, I've got that. What's going on down there? I believe that you...",Shooting / gun violence,Connecticut,Concerned,0.63
+C319,"I'm a teacher in the school. Okay, where are you in the school?",Shooting / gun violence,Connecticut,Concerned,0.63
+C320,"Yes, my husband's on phone. There's a car here within a cell rifle shooting it's police and they've never had a house",Shooting / gun violence,Iowa,Concerned,0.63
+C321,"Oh, please, please. This is one nine Wind him court with",Shooting / gun violence,Illinois,Concerned,0.63
+C322,"by the door. If anybody comes down here, I'm sure you're here. Okay, don't. We don't want to shoot anybody else, okay?",Shooting / gun violence,Illinois,Concerned,0.63
+C323,We got a two-and-a-half wait on the court moaning.,Medical emergency,"the court, Washington",Concerned,0.53
+C324,I have a nine week old infant and he just stopped breathing. Okay.,Medical emergency,"Barnstable, Massachusetts",Concerned,0.53
+C325,We believe that there is a shooter. We are looking to stop.,Shooting / gun violence,Nevada,Concerned,0.63
+C326,I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera.,Shooting / gun violence,Nevada,Concerned,0.63
+C327,The gunshot wound to the chest. Thank you.,Shooting / gun violence,Arizona,Concerned,0.63
+C328,Can you hold for just a second? I just saw somebody run into the Compass Bank on Thomas in 20.,Shooting / gun violence,Arizona,Concerned,0.63
+C329,"no railroad tracks, you've got to train that key rail to the National Fire.",Building fire,"Casselton, North Dakota",Concerned,0.59
+C330,"I have a baby who is sleeping. My everything is done. I have a hooded, I have a coffee TV. She's a big head.",Medical emergency,"Reedsburg, Wisconsin",Concerned,0.53
+C331,"And the emergency. Yes, there's no word to see us. I'm going to go down to the small parking lot. I'm going to go down to the parking lot. I'm going to go down to the parking lot.",Shooting / gun violence,New Jersey,Concerned,0.63
+C332,"I'm going to have a water to see the band out. Alright, hold on, first you're a self-esteem. I'm going to hold.",Stabbing / assault,South Carolina,Concerned,0.59
+C333,"So there's when it goes shot at the Comse Theater, Burry Theater, Cobb and West Chapel Gunshots are checked.",Shooting / gun violence,"Pasco County, Florida",Concerned,0.63
+C334,I'm gonna come over with what is your name? What is your name? I'm gonna have you! I'm gonna have you!,Shooting / gun violence,Maryland,Concerned,0.63
+C335,"Look right here. He's been stabbed really bad. Okay, if he breathe a man",Stabbing / assault,North Carolina,Concerned,0.59
+C336,"I'm going to go for a party, a party, a party, a party, a party, a party.",Burglary / robbery / intruder,Illinois,Concerned,0.47
+C337,"My daughter took a hand-out-bouncy ball. Okay, and you're at 25, 25 North 10th Street? Yes.",Stabbing / assault,Wisconsin,Concerned,0.59
+C338,"Well, I'm 41 going south and I'm going to do a cross-street right now.",Homicide / death investigation,Florida,Distressed,0.66
+C339,I have a dream to do better! Where's the fire at? I'm not. Where's not?,Building fire,"Livingston County, Michigan",Concerned,0.59
+C340,a bad police chief with having a vehicle pulled across the street in the resident. Come out and shot it.,Shooting / gun violence,Michigan,Concerned,0.63
+C341,"I've been taken out of my house at gunpoint. I'm going to head to this, I'm going to head to the police station.",Homicide / death investigation,Florida,Distressed,0.66
+C342,"and my neighbor is not from my door. And our husband's mission, we went down to where the mail box is.",Homicide / death investigation,Kentucky,Distressed,0.66
+C343,"I'm gonna go just to out of my arms or watch me with me. But I'm gonna cry, I'm shocking to die and be stupid.",Shooting / gun violence,North Carolina,Concerned,0.63
+C344,on. Land is on the ground. I didn't go and check you. At Mel is on the ground? Yes.,Medical emergency,Texas,Concerned,0.53
+C345,this is Kaller with a transfer at your best western. I'm a one-shot can someone has been shot in the next. Go to the next one.,Shooting / gun violence,"Roanoke, Texas",Concerned,0.63
+C346,We're missing a child. Three years old. You're missing a three year old.,Missing person / abduction,North Carolina,Concerned,0.56
+C347,What happened? My wife's pregnant. She's an excuse to make the hospital. She said she can't read the word.,Medical emergency,"Sarasota County, Florida",Concerned,0.53
+C348,emergency yes I am on top road I am in water and it's taken me away yay ma'am we're on the,Weather / environmental emergency,"top road, Missouri",Concerned,0.49
+C349,"Okay, 134, transferring it was shooting within three, that fixed seven, few, okay. Yeah, I'm not.",Shooting / gun violence,Florida,Concerned,0.63
+C350,My walk up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up,Homicide / death investigation,"Boise, Idaho",Distressed,0.66
+C351,color on the line she's uh... gotta be quiet somebody just broken to our support thirty six low-,Burglary / robbery / intruder,Massachusetts,Concerned,0.47
+C352,"Hello, my mom and dad. Okay, so it's medical. Is it medical, sir?",Shooting / gun violence,"Seminole County, Florida",Concerned,0.63
+C353,I've got a woman in my bank pointing a rifle at all of us and all of our customers. I need police now,Burglary / robbery / intruder,Florida,Concerned,0.47
+C354,We want contact with two carriers with a carrier and come out.,Weather / environmental emergency,"Allegan County, Michigan",Concerned,0.49
+C355,We need an evidence we're going on. My mom is...,Medical emergency,"Tarrant County, Texas",Concerned,0.53
+C356,"Okay, what's the problem on rolling all the stuff? What? Something rolling all the stuff, believe it. What do you mean, something?",Homicide / death investigation,"Concord, North Carolina",Distressed,0.66
+C357,"Our little boy stop breathing. Is he breathing now? No, he's not.",Medical emergency,Edgecombe County,Concerned,0.53
+C358,"Yes, I'll pass off the map. You put on 10 straight on there for the court. OK, you did.",Shooting / gun violence,Indiana,Concerned,0.63
+C359,"And then mother said that. Okay, your mama fell down. Yeah. Okay, where are you at?",Medical emergency,Oklahoma,Concerned,0.53
+C360,"My kids have their Mrs. 3 o'clock today, my 7-year-old and my 3-year-old, giving it the",Homicide / death investigation,Texas,Distressed,0.66
+C361,And has been missing since 7 o'clock this morning.,Missing person / abduction,North Carolina,Concerned,0.56
+C362,I have someone here that I need to be arrested in my home.,Burglary / robbery / intruder,"Orange County, Florida",Concerned,0.47
+C363,Thank you everyone. And I'll... We'll get in the morning.,Non-emergency / misuse of 911,Florida,Calm,0.06
+C364,Thank you everyone. And I'll... We'll get in the morning.,Public safety / unusual incident,"Fulton County, Florida",Calm,0.27
+C365,Thank you everyone. And I'll... We'll get in the morning.,Non-emergency / misuse of 911,Florida,Calm,0.06
+C366,Thank you everyone. And I'll... We'll get in the morning.,Public safety / unusual incident,"Fulton County, Florida",Calm,0.27
+C367,Thank you. Thank you. Thank you. Thank you. Thank you. Thank you.,Building fire,Florida,Concerned,0.59
+C368,"Oh, my wife, go for you in the dance club and I think she gets.",Water emergency / drowning,"Lebanon, Ohio",Concerned,0.59
+C369,But we have a bear mauling. I am out on the trail. I just am fortunate to start.,Animal attack,"Anchorage, Alaska",Concerned,0.49
+C370,And then I want to show you what I'm saying.,Stabbing / assault,Texas,Concerned,0.59
+C371,This is American squad Mike. I'm a local hot guy. Can I get to it?,Medical emergency,Washington,Concerned,0.53
+C372,"North-on figure star looks like we have aircraft, so I'm going to lay down and turn the there's",Traffic collision,Nevada,Concerned,0.49
+C373,23-13 what? 23-13 Cab This is 23-13 Cambridge Yes,Traffic collision,Nevada,Concerned,0.49
+C374,"Oh, I'm sorry, I've got to remember.",Public safety / unusual incident,"Jefferson County, Tennessee",Calm,0.27
+C375,"Yes, I walked in my car and you're not in your car out of your car. Yes, in my car.",Non-emergency / misuse of 911,"King County, Washington",Calm,0.06
+C376,It's a little far from here to come. Hello. You get me to come.,Stabbing / assault,Nevada,Concerned,0.59
+C377,"So, child has been left on my doorstep. Okay. What's your address?",Child welfare / unattended child,Massachusetts,Concerned,0.42
+C378,I'm going to be in the room.,Medical emergency,Arizona,Concerned,0.53
+C379,"There's a big crew of plaques, maybe. So it's connoza pole of art in the 180.",Traffic collision,California,Concerned,0.49
+C380,It was a train just quite outside of our metro link.,Traffic collision,California,Concerned,0.49
+C381,"Yes, my am one name is Special Aegas Richard A. Smith, badge number zero time.",Rescue / person trapped,Tennessee,Concerned,0.55
+C382,"We'll be in the office, I'll drive on now. Please, please. We're all bleeding.",Burglary / robbery / intruder,"Tarrant County, Texas",Concerned,0.55
+C383,"Well, it's a staple piece in the channel. Let's go for this having a baby right now. Okay, sir.",Medical emergency,Massachusetts,Concerned,0.53
+C384,I don't know if I'll make it. I'm trying to...,Medical emergency,"Central County, Missouri",Concerned,0.53
+C385,My book runs outside. He's been stabbed. Okay. And he's...,Stabbing / assault,Florida,Concerned,0.59
+C386,I'm the guy that's in a big trouble right now. You're in pretty big trouble? What's your name?,Shooting / gun violence,California,Concerned,0.63
+C387,"Yes, I think somebody's breaking into my house. Please, okay, stay on the phone. Why did you think someone's trying to break it?",Burglary / robbery / intruder,Indiana,Concerned,0.47
+C388,I like going to the fabric where I got land over by the rail going.,Traffic collision,Texas,Concerned,0.49
+C389,I think my son's been looking. We're at. We're in the Evergrip.,Burglary / robbery / intruder,"Stark County, Ohio",Concerned,0.47
+C390,"be not very as warm, crazy. I think you're going to try to tell yourself. I need an aim.",Shooting / gun violence,North Carolina,Concerned,0.63
+C391,"Well, I sent an emergency computer wide on one leg on one side at the cam drawbridge on 95.",Rescue / person trapped,Virginia,Concerned,0.55
+C392,Come on. Yeah! More now! Yeah! Nothing more about it!,Public safety / unusual incident,"Milwaukee County, Wisconsin",Calm,0.27
+C393,or you into the TFA agent that looked like you're giving a heart attack or stroke or something is just rushing.,Medical emergency,Texas,Concerned,0.53
+C394,"Well, I just got a phone call saying that my friend, she was in a basement apartment in that house. And apparently the bl-",Shooting / gun violence,Colorado,Concerned,0.63
+C395,There's a fire way here off of Broadway. Broadway and Poyce.,Stabbing / assault,California,Concerned,0.59
+C396,on there. We just came in to my sister's house and she's on the floor for the girl's image.,Homicide / death investigation,Utah,Distressed,0.66
+C397,My girlfriend went left last night. We were at the Stephen Ball and Stephen Hill.,Homicide / death investigation,"Carlsbad, New Mexico",Distressed,0.66
+C398,My cat attacked our seven-month-old child.,Stabbing / assault,Oregon,Concerned,0.59
+C399,and my friend is out with drinking and she woke me up and she sick and now she's not responding.,Medical emergency,Florida,Concerned,0.53
+C400,and it's a fire at somebody else called the show. I'm going to go to the Avenue. It's not very alumnus.,Building fire,"Jersey City, New Jersey",Concerned,0.59
+C401,"28 grand. We need for money from all you'd need to find you at the house. We need a grand in any apartment or... Yes, please, please.",Building fire,"Jersey City, New Jersey",Concerned,0.59
+C402,"We've seen somebody just, I've seen one by following, showing just a little bit.",Homicide / death investigation,"Anderson, South Carolina",Distressed,0.66
+C403,I am very very happy to be here. I am very very happy to be here. I am very very happy to be here.,Water emergency / drowning,California,Concerned,0.59
+C404,It's somebody got shot at? Somebody got shot at?,Building fire,"Washington County, Oregon",Concerned,0.59
+C405,"You want daughter or not, please. Okay, what's the address? System of 40.",Medical emergency,"Cleveland, Ohio",Concerned,0.53
+C406,"The bedroom is on fire. My house is going fast. Okay, we're on the way.",Building fire,"An Orange County, California",Concerned,0.59
+C407,"How are you doing? I'd like to report like a double motor in Cambridge, Orange. Okay, do you know that?",Homicide / death investigation,"Cambridge, North Carolina",Distressed,0.66
+C408,1-6-25 air bore road on the inside. 1-75 air bore road.,Shooting / gun violence,"the inside. 1-75 air bore road, Georgia",Concerned,0.63
+C409,I work. I work on the bed. Let me come up and shoot me. Ah?,Homicide / death investigation,New York,Distressed,0.66
+C410,I need them help. What's going on?,Medical emergency,"Deltona, Florida",Concerned,0.53
+C411,If there's a fire. Give a fire what address man?,Building fire,New York,Concerned,0.59
+C412,I something just exploded at the end of say that okay is here any,Traffic collision,"Hanscom Airport, Massachusetts",Concerned,0.49
+C413,I think I'm just trying to break into my home.,Burglary / robbery / intruder,Florida,Concerned,0.47
+C414,"Oh, my famous grandmother has been a lot of help from. He's unconscious and a fool. Okay, man.",Medical emergency,"Gaston County, North Carolina",Concerned,0.53
+C415,I just shot my mother and my... You shot your mother?,Homicide / death investigation,"Clackamas County, Oregon",Distressed,0.66
+C416,I guess we'll just ask a shooting on third avenue and Nickerson.,Shooting / gun violence,"third avenue, Washington",Concerned,0.63
+C417,"Hi, I'm not going to see you right now. You're so glad I made you. I'm going to blow from you.",Weather / environmental emergency,Florida,Concerned,0.49
+C418,Airport. We have an aircraft declaring an emergency that's going to land on the beach at Venice. Close to the airport. I'm not sure it got...,Traffic collision,Florida,Concerned,0.49
+C419,I want to show I think someone's in. Can you hear the front door? I'm hearing those front door.,Rescue / person trapped,"Rossmoor, California",Concerned,0.55
+C420,"We heard them looked in, the garage door was up. I thought the gentleman was backing out and I went back.",Homicide / death investigation,Florida,Distressed,0.66
+C421,all the bars we've been robbed we've been beaten and the family dollars I'm bleeding,Burglary / robbery / intruder,"Wilmington, North Carolina",Concerned,0.47
+C422,I have a gun range officer that got shot in the head. We're at a temperature to point,Shooting / gun violence,Nevada,Distressed,0.65
+C423,"I need a 10 minutes right now for you. Okay, what's the address?",Shooting / gun violence,"Charleston County, South Carolina",Concerned,0.63
+C424,"We go up to this lady, she's laying in the road. I think she would hit by a car. You got to head in, Dree.",Traffic collision,"Muskegon, Michigan",Concerned,0.49
+C425,"I don't really know where I'm at, but more on my crew, this guy Rob, did he got shot? Okay. Fun.",Shooting / gun violence,"Guilford County, North Carolina",Concerned,0.63
+C426,She's got me. Who got you? There's home now. Hold on.,Stabbing / assault,Colorado,Concerned,0.59
+C427,"Please have me, please try to get my house. I wonder what are they doing? They've tied my fund on my schedule right now.",Shooting / gun violence,Arizona,Concerned,0.63
+C428,"There's been a shooting on the shot in the end of the cat. It will be... Stop, stop, okay. It's the enders.",Shooting / gun violence,New Mexico,Distressed,0.65
+C429,"I love me, I do have a lawyer. Are you at a house? Where's the house? Are you?",Missing person / abduction,"Bountiful, Utah",Concerned,0.56
+C430,"Yes, man, I just shot my daughter and shot all my grandkids.",Homicide / death investigation,"Gilchrist County, Florida",Distressed,0.66
+C431,I'm not finding ways to work on Northbound on Redwood Road.,Shooting / gun violence,"Northbound on Redwood Road, Utah",Concerned,0.63
+C432,I don't want to be here.,Shooting / gun violence,California,Concerned,0.63
+C433,I've got a ride from someone with teeth for a cold. My 35-7.,Building fire,Oklahoma,Concerned,0.59
+C434,"And there was a guy and it was a pesto, you know, it was probably a friend, but he's like pointing at everybody.",Shooting / gun violence,Ohio,Concerned,0.63
+C435,"I'll shut my husband. Please fill the shots with me. Okay, hold on for me. Okay.",Shooting / gun violence,North Carolina,Concerned,0.63
+C436,"I'm sorry, there's a situation here. We have residents that I think they store a car.",Missing person / abduction,"Seminole County, Florida",Concerned,0.56
+C437,I'm in a glowing lake where I look away.,Water emergency / drowning,"Cherokee County, Georgia",Concerned,0.59
+C438,I think it's murder. What makes you think that? Because,Homicide / death investigation,Arizona,Distressed,0.66
+C439,So under in my husband's head eyes are rolling back. He is just not breathing.,Medical emergency,California,Concerned,0.53
+C440,I just received a call for a few minutes ago from one of our VP's who states that he's,Burglary / robbery / intruder,"New Britain, Connecticut",Concerned,0.47
+C441,There's a Dig Man at the park 31st Avenue in Valmont.,Animal attack,"the park 31st Avenue, Arizona",Concerned,0.49
+C442,"Yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes",Shooting / gun violence,"Riverside County, California",Concerned,0.63
+C443,There has been four done for us. Close to a second. And it doesn't fail.,Shooting / gun violence,North Carolina,Concerned,0.63
+C444,"Oh, and I cut my wife. Oh, we're gonna dance up and I think she gets. I want you at the address.",Homicide / death investigation,"Warren County, New Jersey",Distressed,0.66
+C445,"We just found the body of a baby, my grandson.",Missing person / abduction,North Carolina,Concerned,0.56
+C446,I would have brought behind him and his brother-in-law went off and I called down there because I was saying this.,Shooting / gun violence,"Lincoln County, North Carolina",Concerned,0.63
+C447,We have a different us counting utilities emergency this back we found a human skull. Oh my gosh.,Missing person / abduction,"Orange County, Florida",Concerned,0.56
+C448,I don't want to want to emergency. I need a police to come to my...,Shooting / gun violence,"West Palm Beach, Florida",Concerned,0.63
+C449,Hello? Like that in my uncle just got shot. Okay. I don't know how to let go. Two people shot it this time.,Shooting / gun violence,Florida,Concerned,0.63
+C450,"on the side of the dive. And you can tell my little cousin right now. Okay, can you tell us?",Building fire,California,Concerned,0.59
+C451,We're gonna be my brother. He was playing like gluten. I went this gun and he ain't...,Shooting / gun violence,North Carolina,Concerned,0.63
+C452,My brother's drowning. Where are you at? I don't have a hat.,Medical emergency,Kansas,Concerned,0.53
+C453,"My god, my girlfriend is here today. Call him out, sir. He'll breathe it.",Homicide / death investigation,"Putnam County, Florida",Distressed,0.66
+C454,"We have a gunshot wound accidental in the household. Okay, how old?",Shooting / gun violence,"LaPorte County, Indiana",Concerned,0.63
+C455,Somebody's a- somebody's a kid in my house. What did I get her in the head with? I- I don't wanna-,Stabbing / assault,"Onslow County, North Carolina",Concerned,0.59
+C456,There's a cleaning out of rock your road at 9.6.,Shooting / gun violence,"Walton County, Florida",Concerned,0.63
+C457,"I don't know what this kid has done, she's like going into a seizure or something, and I don't know, magic.",Medical emergency,Ohio,Concerned,0.53
+C458,"I got my gun out. There's somebody trying to get him on home. Okay, alright, let's go.",Shooting / gun violence,"Portage County, Indiana",Concerned,0.63
+C459,I can hear your screen.,Fall / accidental injury,"English. Volusia County, Florida",Concerned,0.48
+C460,"I'm going to bathe the orange boulder creek. We need to get the sutter. Okay, what's problem? Something exactly what happened?",Medical emergency,California,Concerned,0.53
+C461,"Where's your emergency? I'll get a fire, a sewer-ring or a fire-ring toy. Hold on just a second. Slow down. What's the address?",Building fire,"Woods Cross, Utah",Concerned,0.59
+C462,I just came home the door was busted in and my girlfriend's in shock.,Domestic disturbance,"Dane County, Wisconsin",Concerned,0.42
+C463,"It just flashed into the Hudson River, a U.S. there.",Traffic collision,New York,Concerned,0.49
+C464,I have the guy he just sees. He's really interested in him. It was screaming in the details. He's a monster. Okay.,Public safety / unusual incident,Florida,Concerned,0.27
+C465,I've got a burger. A burger. Yes I am. Hand the burger.,Shooting / gun violence,Tennessee,Concerned,0.63
+C466,"Okay, here's the baby. We're not going to be on the damn alien cabin move. 12-80 Island.",Public safety / unusual incident,"Sarasota County, Florida",Calm,0.27
+C467,"Can I help you? Sir, we have a couple of people who've kicked over in the great sult-lake. I've got them on the line.",Water emergency / drowning,Utah,Concerned,0.59
+C468,"and I am not a student, I am a bad student and in she can't.",Building fire,"Contra Costa County, California",Concerned,0.59
+C469,"I'm coming here to write something. I listen to that. When I get that, I'm in the window.",Non-emergency / misuse of 911,Florida,Calm,0.06
+C470,"Yeah, I will try to find out if I need to bring like any chick stubs or a",Threat / suspicious activity,Texas,Concerned,0.45
+C471,"I see some activity going on in the car and I don't think it's proper. Okay, well, for that activity, is it, sir? It looks like...",Shooting / gun violence,Maryland,Concerned,0.63
+C472,It's the emergency 911 emergency 340 oil.,Building fire,"Buck County, Pennsylvania",Concerned,0.59
+C473,You saw this door. Someone what? We just got this office door.,Burglary / robbery / intruder,"Columbus, Ohio",Concerned,0.47
+C474,What's wrong with me? What's wrong with me?,Stabbing / assault,"Stamford, Connecticut",Concerned,0.59
+C475,It does crash. What plane? A plane crashed on 17th and Lincoln in houses.,Traffic collision,"Marshfield, Wisconsin",Concerned,0.49
+C476,like gunshots being fired. Okay. I don't know where they're coming from. It was too-,Homicide / death investigation,"Forest County, Wisconsin",Distressed,0.66
+C477,"My girlfriend, she has a sex boyfriend and she's been talking to hell out of her. Okay, just talking, I'll be-",Shooting / gun violence,"Wheatridge, Colorado",Concerned,0.63
+C478,"We just got to call back somebody at shock, somebody in the health of Moses.",Building fire,"Cushing, Oklahoma",Concerned,0.59
+C479,"with me, all of a kid nothing from my kids. So, we'll get that.",Homicide / death investigation,"Pearland, Texas",Distressed,0.66
+C480,of gentlemen in the center room. I think a big epox allowed it to go through.,Shooting / gun violence,Indiana,Concerned,0.63
+C481,"I have been doing the same at the end of the day, two thousand million gas at a five-year.",Homicide / death investigation,Massachusetts,Distressed,0.66
+C482,But then the man lying on the highway. He's lying down at the area of the blood on his arm.,Homicide / death investigation,"the highway, Texas",Distressed,0.66
+C483,He's coming! He's coming! He's coming!,Shooting / gun violence,Florida,Concerned,0.63
+C484,I am a bamboo jap for your new neck and a broken neck and I am sick here. What? I am king.,Stabbing / assault,"Kent County, Michigan",Concerned,0.59
+C485,I ordered a stupid chicken leg at the wooden floor by.,Non-emergency / misuse of 911,Florida,Calm,0.06
+C486,somebody just somebody just come in and put us out of the car and put us on the car. Somebody needs all on each day.,Burglary / robbery / intruder,Texas,Concerned,0.47
+C487,Help me. I was by me. My son is my thing. I'm going crazy. So I'm going crazy.,Threat / suspicious activity,California,Concerned,0.45
+C488,"I'm getting into cop. I'm doing shot. Two, four, two, one, go. Give a shot. We're back up.",Homicide / death investigation,South Carolina,Distressed,0.66
+C489,Brian Tessen's 7-1 back form circle and he is wrestling us to get in my house.,Shooting / gun violence,"Berkeley County, South Carolina",Concerned,0.63
+C490,"I can't make a belief like that, I'm not happy. Yes, man, we just got, we just got to avoid breaking in our corner.",Shooting / gun violence,Tennessee,Concerned,0.63
+C491,My boyfriend just stabbed the hell out of me and started in my head and my nerve in my head.,Stabbing / assault,Florida,Concerned,0.59
+C492,"My apartment is on fire, you can't hear it! Okay, stay on the line with me, don't leave it. Don't leave it!",Building fire,Oklahoma,Concerned,0.59
+C493,"I'm a March American fan. Oh, this is going to come! It doesn't take no doubt.",Building fire,"Parsippany, New Jersey",Concerned,0.59
+C494,"talking them. Yes, I am playing just with them. I think he had a parachute on him, a I'd like to take care of students.",Traffic collision,"Gaithersburg, Maryland",Concerned,0.49
+C495,"What's the problem there? There's a fire on pregnant. There's a fire on the house. There's a fire on the house. Yes, please. Okay, get outside.",Building fire,New York,Concerned,0.59
+C496,My wife has now...,Stabbing / assault,Connecticut,Concerned,0.59
+C497,I have a quick story for a co-worker. She just called in and sounded very...,Homicide / death investigation,Florida,Distressed,0.66
+C498,"a wide female pastor pass out on one of our vehicles, which was 2122.",Medical emergency,Florida,Concerned,0.53
+C499,"I'm going to turn this to a 25-hour bus here. I'll just hit the 2-hour bus, so I'll tell you something.",Non-emergency / misuse of 911,"Haltom City, Texas",Calm,0.06
+C500,"I don't know there's a lady laying out here on the sidewalk. Okay, are you with the lady?",Homicide / death investigation,California,Distressed,0.66
+C501,"Hi, my name is Gene Thomas. I'm watching my home online monitor and there's a black man in my house and he's robbing",Burglary / robbery / intruder,"Palm Beach County, Florida",Concerned,0.47
+C502,"I'm going to start getting them out and out and be funny black. I'm going to get them away and what's me, are you with them now?",Medical emergency,"Collier County, Florida",Concerned,0.53
+C503,There is a strange man outside our home and he's taller.,Shooting / gun violence,"Botetourt County, Virginia",Concerned,0.63
+C504,"We're ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready",Stabbing / assault,"Prescott, Arizona",Concerned,0.59
+C505,"man, my wife is in the bathroom, she's bleeding over the place, she thinks she's having a",Medical emergency,"Montcalm County, Michigan",Concerned,0.53
+C506,"and since they didn't read and we just got robbed. Okay, what do you look like?",Shooting / gun violence,Ohio,Concerned,0.63
+C507,I've got a person here who is not fit to drive and needs to be taken faster.,Public safety / unusual incident,California,Calm,0.27
+C508,"because my chain of lady, she was yelling for half. It looked like she had a blood all over.",Shooting / gun violence,"Temecula, California",Concerned,0.63
+C509,"There's somebody killed someone. Okay, ask her where the suspect is.",Shooting / gun violence,"Temecula, California",Concerned,0.63
+C510,He said that shot the gunfire. Where are we? Can you go out to my east?,Shooting / gun violence,Wisconsin,Concerned,0.63
+C511,I need an ambulance to do it. Somebody just come and click to have a test.,Domestic disturbance,"Hoffman Estates, Illinois",Concerned,0.42
+C512,It is confirmed rotation on the ground. It's run a warehouse off of three quits.,Weather / environmental emergency,Tennessee,Concerned,0.49
+C513,way into the north I've seen a funnel cloud just reporting my first exciting driving.,Weather / environmental emergency,Tennessee,Concerned,0.49
+C514,We just got in the tornado and the chorus list and the windows were seen and we're bleeding.,Weather / environmental emergency,Tennessee,Concerned,0.49
+C515,"I told you this camera crows, they're safe 24. Thank you.",Weather / environmental emergency,Tennessee,Concerned,0.49
+C516,"Yeah, I have a rotating cloud coming in the southwest of Regis Eap Park.",Weather / environmental emergency,Tennessee,Concerned,0.49
+C517,Are you a little bit tornadoes down off the broad and moral are you heart-car now? I'm looking at,Weather / environmental emergency,Tennessee,Concerned,0.49
+C518,We can see a tornado we're at 914-year-old Chris. We have about five adults.,Weather / environmental emergency,Tennessee,Concerned,0.49
+C519,I'm my mom. She's sick and she's telling us that. She can't wake up.,Medical emergency,"Ada County, Idaho",Concerned,0.53
+C520,We stand up and eat the meals to the college. We're out of the green people. We're out of the green people. We're out of the green people. We're out of the green people.,Traffic collision,"Rochester, New York",Concerned,0.49
+C521,Where's the guy with a gun in the case of the range? Which case is the Lincoln Y one?,Shooting / gun violence,Iowa,Concerned,0.63
+C522,I just wanted to sit in this house like this. You can't even hear this. Who is that? That's the course to be my side.,Shooting / gun violence,New York,Concerned,0.63
+C523,[No intelligible speech detected],Missing person / abduction,Florida,Concerned,0.56
+C524,"Okay, so I might be fine. Okay, six, one, five. Okay. Okay.",Stabbing / assault,Wisconsin,Concerned,0.59
+C525,"and then Warren there's a fire back here at someone's front porch. Okay, where you need the fire department ma'am.",Building fire,Ohio,Concerned,0.59
+C526,We just saw a big airliner to see if it could have had two hard planes and bullets.,Public safety / unusual incident,"Jersey City, New Jersey",Calm,0.27
+C527,"So we'll we'll we'll we'll turn. Okay, thank you.",Public safety / unusual incident,"Jersey City, New Jersey",Calm,0.27
+C528,emergency. Oh that's the F-18 chasing a big commercial plane around and around almost downtown Jersey. Yeah.,Public safety / unusual incident,"Jersey City, New Jersey",Concerned,0.27
+C529,"Yes, I just had two unusual aircraft fly really close.",Public safety / unusual incident,"Jersey City, New Jersey",Calm,0.27
+C530,I am Mrs. Anna and I'm Mrs. Anna and I'm Mrs. Anna and I'm Mrs. Anna What are your address? What are you address?,Shooting / gun violence,"Santa Clara County, California",Concerned,0.63
+C531,I'm by the way the dog doesn't know in the water. And we can't get out. Oh my God.,Building fire,Wisconsin,Concerned,0.59
+C532,just walk up and then we're several done job. Okay sir. Stay with me okay?,Shooting / gun violence,Georgia,Concerned,0.63
+C533,"If not, I'm calling from the Sheraton Gulf of Wernher. Yes, sir. We have a dead body in one of our roosians.",Homicide / death investigation,Maryland,Distressed,0.66
+C534,"because they just jumped back 13-year-old the water, and it's about to be on a 4-week-old one.",Stabbing / assault,"Rochester, New York",Concerned,0.59
+C535,We got off the dam. What do you mean you have an old- I don't have a whole bunch off the dam. What do you-,Shooting / gun violence,Texas,Concerned,0.63
+C536,We got a motherfucker.,Shooting / gun violence,Texas,Concerned,0.63
+C537,"you know, love you to shut down. You heard what? I think love you is quite down.",Shooting / gun violence,Texas,Concerned,0.63
+C538,It's too late. And the high-range head...,Shooting / gun violence,"Sandusky, Ohio",Concerned,0.63
+C539,we have a dead body right out in front of our school on the grassy area but we're at the John C. Dorothy B. Johnson location,Homicide / death investigation,North Carolina,Distressed,0.66
+C540,[No intelligible speech detected],Shooting / gun violence,New York,Concerned,0.63
+C541,I just called over to my sister's house and I have a felon.,Homicide / death investigation,"Cascade County, Montana",Distressed,0.66
+C542,The one man followed me from the adaptation. Sam? Did he show the gun to you?,Shooting / gun violence,"Madison County, Illinois",Concerned,0.63
+C543,I'm somebody just coming and shot my daughter and my husband. They shot them? Please let me check. I love my kids.,Burglary / robbery / intruder,"Pima County, Arizona",Concerned,0.61
+C544,I'm watching TV in a heard five shots and there's only an MITRE on yard. A woman's seat.,Shooting / gun violence,Wisconsin,Concerned,0.63
+C545,I just killed my family. Looks nice. All over me. What's your name? Michael Miller.,Stabbing / assault,Arizona,Concerned,0.59
+C546,"Why not? Sorry, let me get down here, Jesus. Where are you? No, no, God, I'm dead.",Medical emergency,Florida,Concerned,0.53
+C547,I'm going to need to increase my ambulance. I need to decrease my brother's trunk and eat to accrue my whole face.,Shooting / gun violence,Florida,Concerned,0.63
+C548,"I'm pulled over in the road, my husband's in the middle of the road having a serious like cycle.",Shooting / gun violence,Utah,Concerned,0.63
+C549,"Well, my husband's not, I can't seem to wake him up.",Medical emergency,Nevada,Concerned,0.53
+C550,Now listen here. I've got two people here help us to do it. Okay. Now you know,Threat / suspicious activity,Texas,Concerned,0.45
+C551,"She made, we have a Burmese high-tard, and she's about 12 foot long, she got out of the cage last night and got into",Stabbing / assault,Florida,Concerned,0.59
+C552,"We were just said and talking my wife feel a problem and then she fell on the floor. Okay, what?",Domestic disturbance,"Charleston County, South Carolina",Concerned,0.42
+C553,I'm going to put out a million streets up here by one of our kitcheners. Where are you at?,Homicide / death investigation,North Carolina,Distressed,0.66
+C554,"So, that's been shot. I'm not the head that I have to check the vinyls.",Homicide / death investigation,Tennessee,Distressed,0.66
+C555,"There's a guy there with a gun. Yeah. A black and white, a black and white.",Shooting / gun violence,"Jeffersontown, Kentucky",Concerned,0.63
+C556,plant that drats and guys walk around I'm talking about looking from the work that I've done he's just I can make some money to get my address please,Shooting / gun violence,"Jeffersontown, Kentucky",Concerned,0.63
+C557,The man on the phone says there's a man on his property with a gun. Okay. And that's where the person is supposed to be.,Shooting / gun violence,"Jeffersontown, Kentucky",Concerned,0.63
+C558,I just have been bitten by a red tail fox up in red reef park.,Animal attack,Florida,Concerned,0.49
+C559,"We had a, I think a student right now on those bus born on the high school.",Homicide / death investigation,"Butler County, Iowa",Distressed,0.66
+C560,out. Maybe not working. It's not working. My babies are in there. Oh my god. I'm going to get it.,Homicide / death investigation,Wisconsin,Distressed,0.66
+C561,I'm putting this pin in front of my daughter and my husband. They shot them? They shot them? What's your act of like a...,Burglary / robbery / intruder,Arizona,Concerned,0.47
+C562,"If it's cold, it's not breathing. If it's trying to get it to CPR. Okay. Is there any way you can get...",Medical emergency,North Carolina,Concerned,0.53
+C563,"Yeah, there's been a bunch of guns out to my house. I think a bunch of people were shot. We're at 21 12 years",Shooting / gun violence,"21 12 years, Washington",Concerned,0.63
+C564,I am going to go to the hospital. I am going to go to the hospital. I am going to go to the hospital.,Medical emergency,"Spanish., Texas",Concerned,0.53
+C565,I want to be your host of all the hands. We'll go to the place of the craft aid. So go and jump in after it.,Water emergency / drowning,Utah,Concerned,0.59
+C566,I think I just tried to get out of his car and he tried in my truck.,Traffic collision,"Bumcombe County, North Carolina",Concerned,0.49
+C567,"but he's been shot by calling the police and an ambulance. Yeah, does he let the horse you?",Burglary / robbery / intruder,"Santa Fe County, New Mexico",Concerned,0.63
+C568,happening. I just had an older woman standing there and she had noticed two gentlemen trying to get in a house.,Public safety / unusual incident,"Cambridge, Massachusetts",Calm,0.27
+C569,I'm not my sister! I'm not my sister! I'm not my sister!,Stabbing / assault,Texas,Concerned,0.59
+C570,I have been in the news recently about being on in a hotel naked.,Sexual assault / stalking,Tennessee,Concerned,0.59
+C571,There's a armed robbery going right on right now. I've been shot in the back and I believe you've been shot in the back Okay,Shooting / gun violence,Wisconsin,Distressed,0.65
+C572,My father stabbed me. He just stabbed me.,Stabbing / assault,"Maitland, Florida",Concerned,0.59
+C573,emergency. I grew up and just jumped off the back of our hotel room.,Homicide / death investigation,"Orange County, Oklahoma",Distressed,0.66
+C574,"Yes, other guys in the shot. Okay, right here on Bird Naut Avenue and I wanted to see if the animal",Shooting / gun violence,"Bird Naut Avenue, North Carolina",Concerned,0.63
+C575,"No, there's people trying to break in my house. Okay, they're there right now. Right now, they just spoke a basement window.",Burglary / robbery / intruder,"Livingston County, Michigan",Concerned,0.47
+C576,I told my girlfriend. Excuse me. Did you hear me? I want you to read.,Building fire,Ohio,Concerned,0.59
+C577,three black men in the middle of Russell Boulevard and one of them has like a,Shooting / gun violence,Tennessee,Concerned,0.63
+C578,"Let me see. Okay, I'm right. It's right, my wife.",Shooting / gun violence,Tennessee,Concerned,0.63
+C579,We've already got some money on the way. Can you give me any kind of description?,Shooting / gun violence,Tennessee,Concerned,0.63
+C580,"There are three black gentlemen that are there. Her last in the women, Aptie.",Shooting / gun violence,"Clackamas County, Oregon",Concerned,0.63
+C581,I was at a late title. I picked $10 and these guys gave me one burger and a fries,Shooting / gun violence,"Clackamas County, Oregon",Concerned,0.63
+C582,I gave you guys 10 hours and they gave me 1 burger and a fry and told me that it's hard.,Shooting / gun violence,"Clackamas County, Oregon",Concerned,0.63
+C583,"I've been running over. I've been running over. Oh, they only use real chat for...",Traffic collision,Iowa,Concerned,0.49
+C584,"Yes, my husband is a Batman, I stabbed him. Okay, what's your address? 94.95.",Stabbing / assault,Ohio,Concerned,0.59
+C585,I'm driving and I have somebody chasing me and they just hit my car.,Traffic collision,"Sarasota, Florida",Concerned,0.49
+C586,"Well, I'm Jeremy Drom now, I'm just trying to figure out a thing when you get...",Shooting / gun violence,North Carolina,Concerned,0.63
+C587,Why don't you see what's the matter? I meant the court. I got to...,Fall / accidental injury,Idaho,Concerned,0.48
+C588,I have a quick story for a co-worker. She just called in and sounded very...,Homicide / death investigation,Florida,Distressed,0.66
+C589,"I can't stand problem, you can't stand where he is at that. He's trying to himself, so I can't understand. I have a song over there.",Homicide / death investigation,"Glynn County, Georgia",Distressed,0.66
+C590,"That's been part of it and so many things out. So I'm gonna shout out. Yeah, you can shout out to her over.",Shooting / gun violence,Utah,Concerned,0.63
+C591,Someone is getting my house within the summer.,Shooting / gun violence,Ohio,Concerned,0.63
+C592,I just saw a guy go into a room.,Missing person / abduction,"Ogden, Utah",Concerned,0.56
+C593,Uh-huh. It looks good. I'm sorry? I'm sorry. I like how I just stuck. Wow.,Traffic collision,California,Concerned,0.49
+C594,just been shot through in my parents. You've been shot? Just right. Where have you been shot at? I'm in my leg.,Homicide / death investigation,"Boone County, Kentucky",Distressed,0.66
+C595,Nobody just broke into a house with the address. They have to miss with the address. Shut up. You shy out?,Shooting / gun violence,Wisconsin,Concerned,0.63
+C596,I had just fed my daughters and myself. You just did one? I found my daughters. You stopped.,Stabbing / assault,California,Concerned,0.59
+C597,"Wish 10 people in the house, do they have weapons? Huh? Yes. We'll catch the water.",Shooting / gun violence,Kentucky,Concerned,0.63
+C598,"Hi, my name is Steven Rodwold and I just heard a few of my dad.",Shooting / gun violence,"Huron County, Ohio",Concerned,0.63
+C599,The baby was breathing the mother. I had...,Medical emergency,"Seminole County, Florida",Concerned,0.53
+C600,My name is Casey and I'm driving toward Don Carrio and a car went off into the media at mile marker 22.,Traffic collision,"Canyon County, Idaho",Concerned,0.49
+C601,"I just can't come back to the window. It's not too close. Is anybody hurting your house? I don't know yet, but...",Shooting / gun violence,Arizona,Concerned,0.63
+C602,Do you see that? I was breathing. It was no cold. Yes.,Medical emergency,"Sedona, Arizona",Concerned,0.53
+C603,What's going on? I don't know somebody put the window on now. And your house or your car?,Shooting / gun violence,"Harris County, Texas",Concerned,0.63
+C604,I'm going to tell you what's going on. I'm going to tell you what's going on. I'm going to tell you what's going on.,Burglary / robbery / intruder,Wisconsin,Concerned,0.47
+C605,and there were some kids over here around just another kid who found another kid in all of that,Building fire,Florida,Concerned,0.59
+C606,So we'll break this car on fire and you jump inside of the swimming pool. Go see address.,Building fire,Florida,Concerned,0.59
+C607,"Oh, and I cut my wife. Oh, we're gonna dance up and I think she gets. I want you at the address.",Homicide / death investigation,"Warren County, Ohio",Distressed,0.66
+C608,"that's right now. She does gone and I need them all. It's itself. Okay, what do we mean shooting?",Shooting / gun violence,Minnesota,Concerned,0.63
+C609,I just killed my father anyway. You just did one?,Shooting / gun violence,Utah,Concerned,0.63
+C610,"Yeah, I have a black guy and he says it's gonna rub the store and anyone says to give him he says he has a gun on him",Shooting / gun violence,Iowa,Concerned,0.63
+C611,Hello? Anybody else have to? Hello? Anybody who has to have to have to?,Non-emergency / misuse of 911,Florida,Calm,0.06
+C612,"I'm so sorry for the shooting, there's people running out of my building at work, where",Shooting / gun violence,Florida,Concerned,0.63
+C613,"Yes ma'am, I'm having a shot. Aaaaah! Aaaaah! Please! I'm sorry, words.",Shooting / gun violence,Florida,Distressed,0.7
+C614,"and say. Thank you, everybody. I'm watching today, everybody. I'm watching an Avenue.",Stabbing / assault,New Jersey,Concerned,0.59
+C615,I'm bringing a teacher max right now. I work at Sweet Bay and a couple of ladies who work there just ran down here telling me.,Burglary / robbery / intruder,"Venice, Florida",Concerned,0.47
+C616,"We were closing with Laura and his guy, Jamie, were mad at John. I think...",Burglary / robbery / intruder,"Venice, Florida",Concerned,0.47
+C617,"No, sir, my neighbor came. You understand her? What's inside the baby out fire? I don't know, the lady's...",Building fire,Connecticut,Concerned,0.59
+C618,"People just broken my neighbor's house. I see address, but see address.",Burglary / robbery / intruder,Florida,Concerned,0.47
+C619,"I think I got shot. Damn me, he repair 4203 Lake Avenue with Humbie.",Shooting / gun violence,"West Palm Beach, Florida",Concerned,0.63
+C620,"The old black one behind, shoulders with the guard. Run towards the...",Shooting / gun violence,Ohio,Concerned,0.63
+C621,"Mommy's full. If your mommy's sick, does she need a damn deal in? Mommy.",Medical emergency,"Charles County, Maryland",Concerned,0.53
+C622,I woke up this morning and my daughter was not in the house. I don't know if she woke up.,Missing person / abduction,North Carolina,Concerned,0.56
+C623,I just killed my daughter. You what? I just killed my daughter. I just killed my daughter.,Shooting / gun violence,New Mexico,Concerned,0.63
+C624,"Mr. Schumer, thank you. Man, man, man, man, man, man, man, man, man, man.",Stabbing / assault,Texas,Concerned,0.59
+C625,I need to honor anyone quickly and honor fire fire inclusion,Building fire,"Palm Bay, Florida",Concerned,0.59
+C626,"The house is on fire, the house is blowing up. Can you dial me? Listen, we've already got a car. Is it on a lap?",Building fire,"Palm Bay, Florida",Concerned,0.59
+C627,There's a man at my back door he's trying to get in.,Burglary / robbery / intruder,"Lincoln County, Oklahoma",Concerned,0.47
+C628,We're going to eat!,Shooting / gun violence,Ohio,Concerned,0.63
+C629,He's trying to get his friends and coaches. He's trying to get his friends and coaches. He's trying to get his friends and coaches.,Building fire,"Naples, Florida",Concerned,0.59
+C630,"that's heading south on 951. Yeah, it's a new model truck. Looks like a Dodge or a Ford.",Building fire,"Naples, Florida",Concerned,0.59
+C631,"We've found an elephant walking down the street near the community center, the right 20.",Public safety / unusual incident,Canada,Calm,0.27
+C632,"Oh, somebody's passed out! Somebody what? Somebody's passed out!",Homicide / death investigation,California,Distressed,0.66
+C633,radio I have in there in the lobby with the gun. Alright is everybody okay everybody away from them?,Shooting / gun violence,Oklahoma,Concerned,0.63
+C634,"Can we meet a police assistance for this student? Okay, what's going on?",Non-emergency / misuse of 911,"Livingston County, Michigan",Calm,0.13
+C635,"My mom and her boyfriend, and her boyfriend, so can I have a warm up.",Domestic disturbance,"Lawton, Oklahoma",Concerned,0.42
+C636,"accidentally shot my husband. You accidentally shot your husband? Yeah. Okay, see breathing.",Shooting / gun violence,"Shephersville, Kentucky",Concerned,0.63
+C637,[No intelligible speech detected],Medical emergency,"Reno, Nevada",Concerned,0.53
+C638,"These came up for a bit when I made her father's father. And I said, there were not many people.",Homicide / death investigation,"Payson, Utah",Distressed,0.66
+C639,"and they're coming across to me at gunpoint and the 3,400 block that high would drive southeast.",Shooting / gun violence,DC,Concerned,0.63
+C640,"I think someone came in and started shooting. I don't know where I'm at, one winter's drawing. It works really long.",Homicide / death investigation,"Brooksville, Florida",Distressed,0.66
+C641,We got a baby that's not responsive. We're at 3301 West Noelle Drive.,Medical emergency,"3301 West Noelle Drive, Indiana",Concerned,0.53
+C642,"I'm not many things right now, but it's all urgent. These people, they came through my door.",Rescue / person trapped,"Warren, Ohio",Concerned,0.55
+C643,I'd like to call it the central robbery and my mother's a missing perk. I don't know. Yeah.,Homicide / death investigation,"Linvingston County, Michigan",Distressed,0.66
+C644,"Okay, let's do it.",Homicide / death investigation,"Kent County, Michigan",Distressed,0.66
+C645,"I went up the road, I'm in a retention pond right now. You're in the retention pond? Yeah.",Traffic collision,"Winter Garden, Florida",Concerned,0.49
+C646,your emergency? I've got a gentleman in quarantine with a gun. I need someone here right now on the So many.,Shooting / gun violence,"Macomb, Illinois",Distressed,0.73
+C647,I need to file a proof leave your board to be sent off to my house.,Stabbing / assault,Iowa,Concerned,0.59
+C648,and quickly help me from my turn to a moment and quickly hurry with your address.,Threat / suspicious activity,Oklahoma,Concerned,0.63
+C649,"shooting out, come to the fucking house! That's a way!",Shooting / gun violence,"Brevard County, Florida",Concerned,0.63
+C650,"I just killed my teachers. What's your name, Mel? Julia Murray. What is it?",Homicide / death investigation,"Glynn County, Georgia",Distressed,0.66
+C651,the building on 30 turn 4 stops with 8 clues on fire. Report of a house fire. House fire.,Building fire,"30 turn 4 stops with 8 clues, Illinois",Concerned,0.59
+C652,"There's a house on fire. There's a house on fire? 30 seconds, 48 seconds.",Building fire,Illinois,Concerned,0.59
+C653,"I think they should be the murder. Okay, and where is the person out that is the victim?",Homicide / death investigation,"Brevard County, Florida",Distressed,0.66
+C654,I'm going to call him. Whoa.,Burglary / robbery / intruder,"Daytona Beach, Florida",Concerned,0.47
+C655,"The former Flickr store, there's a fight workout and the liquor store. Here's a customer folding him back. You guys need to...",Shooting / gun violence,Ohio,Concerned,0.63
+C656,and just stop me. Your husband shot you where at man. And there's some links if you,Shooting / gun violence,"Edgewater, Florida",Concerned,0.63
+C657,I've got a black man here that's so good in our house. Your band is...,Traffic collision,"Livingston, Louisiana",Concerned,0.49
+C658,We have a trainer in the water with one of our whales. The whale that's been up to be in the water with. Okay.,Stabbing / assault,"Seaworld Orlando, Florida",Concerned,0.59
+C659,"Oh, there's some call. There's some guy. There's a guy with a human mom and dad. Can you close?",Burglary / robbery / intruder,"Norwalk, California",Concerned,0.47
+C660,"I think the house is on fire. Okay, what name where is it? 1, 2, 2, 1, 8.",Building fire,"Spotsylvania County, Virginia",Concerned,0.59
+C661,I just killed somebody. You what? I just killed somebody. You killed somebody? Yeah.,Homicide / death investigation,"Vineland, New Jersey",Distressed,0.66
+C662,"and shock, which has fired at the public's forever orange in the high lock.",Homicide / death investigation,Florida,Distressed,0.66
+C663,"or in Canada there's somebody in the store. Okay, or in Canada anywhere.",Homicide / death investigation,"Canada, Florida",Distressed,0.66
+C664,the media leader the guy with a knife for me is on my own brown token don't run nay,Missing person / abduction,Florida,Concerned,0.56
+C665,"I've been wearing a breeze. Okay, you've got a single family home or an apartment, man.",Building fire,Florida,Concerned,0.59
+C666,"I'm not playing that shot. Alright, Santa, I'm going to come in with three and three over the rescue.",Shooting / gun violence,Florida,Concerned,0.63
+C667,"I'm gonna go to the pool hall. If you wouldn't be there, this is doing...",Shooting / gun violence,"Orangeburg County, South Carolina",Concerned,0.63
+C668,"I don't have money inside this thing. So, so, so. I don't have...",Burglary / robbery / intruder,"Palm Beach Gardens, Florida",Concerned,0.47
+C669,This is my one one. Do you need police or medicine?,Homicide / death investigation,Arizona,Distressed,0.66
+C670,"Okay, I'm in the middle.",Missing person / abduction,"Winter Springs, Florida",Concerned,0.56
+C671,"I'm not staring my arm, mom, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm,",Shooting / gun violence,"Liberty, Ohio",Concerned,0.63
+C672,there's been an explosion on I-30 on the sorry 183 research.,Traffic collision,Texas,Concerned,0.49
+C673,"a plane just crashed. Okay, what kind of plane was it? How big was it, sir? It looked like a decina, like a prop.",Traffic collision,Texas,Concerned,0.49
+C674,"I know it's less evident I'm getting ready to kill somebody. No, it's less rare. Evertons. Evertons.",Shooting / gun violence,"Platte County, Missouri",Concerned,0.63
+C675,"No, everyone be on Broadway. College town, we're a mystery. By the way, we forget what we do. And we're going to school. We have a high school.",Burglary / robbery / intruder,Georgia,Concerned,0.47
+C676,I just saw my best friend on the second hand. Just go on my car. I just saw your best friend had it. Where is it?,Shooting / gun violence,Florida,Concerned,0.63
+C677,"And then for Coyote's file with me. Okay, okay. I love that.",Sexual assault / stalking,Florida,Concerned,0.59
+C678,"My dad calls in a duck. Here, here dad.",Fall / accidental injury,"Port Richey, Florida",Concerned,0.48
+C679,I went out broke. I'll see what that person I was getting here is. See what I get.,Domestic disturbance,"Clark County, Ohio",Concerned,0.42
+C680,I can't see anything that I was shook with a bottle and I'm a police...,Stabbing / assault,"Harford County, Maryland",Concerned,0.59
+C681,"I'll bring you in with that. Okay, are you?",Traffic collision,"Yavapai County, Arizona",Concerned,0.49
+C682,We had someone come in and ask them for down 911 that they're a woman yelling.,Stabbing / assault,North Carolina,Concerned,0.59
+C683,"Okay, it's a mind. Ma'am? Yes. What's the emergency? I...",Sexual assault / stalking,"Saratoga Springs, Utah",Concerned,0.59
+C684,There's someone on my door and he keeps on knocking on the door and he tried opening it.,Rescue / person trapped,Oregon,Concerned,0.55
+C685,I just killed my children. Excuse me? I just killed my children. Where are you?,Homicide / death investigation,"The Hill County, Texas",Distressed,0.66
+C686,you about. I got the ordered food which is totally really Good to listen again.,Non-emergency / misuse of 911,Florida,Calm,0.06
+C687,It sounded like gunshot behind the door.,Domestic disturbance,Colorado,Concerned,0.42
+C688,"This is the American Sea. My car is in the water right off the chest, the Mullins car.",Traffic collision,Florida,Concerned,0.49
+C689,I'd like to report gunshot wound. Someone got a shot where?,Homicide / death investigation,"Pierce County, Washington",Distressed,0.66
+C690,I just came home and my girlfriend's and her mother's somebody hurt them and I know who to have that simple adherp.,Homicide / death investigation,New Jersey,Distressed,0.66
+C691,Awardable congratulations about how to be okay,Medical emergency,"Hillsborough County, Florida",Concerned,0.53
+C692,"My brother killed my brother. I heard this street name, but you guys are side in somewhere second.",Homicide / death investigation,"Spring Hill, Florida",Distressed,0.66
+C693,"the guy laying on the road and bleeding. Okay, ma'am, is even hit by a car? I don't know.",Traffic collision,"the road, Florida",Concerned,0.49
+C694,I can't play my son. I'll tell you what is your address.,Child welfare / unattended child,Arizona,Concerned,0.42
+C695,"Yeah, I feel my birthday. I'm sorry. I feel my birthday. They are dying. I",Stabbing / assault,Texas,Concerned,0.59
+C696,There's a report of somebody shooting you. I don't know where. You know if anybody's hurt right now? Yeah.,Domestic disturbance,New Mexico,Concerned,0.59
+C697,"Where's your emergency? We're at. We're at. We're at here in 1600. 1,600.",Domestic disturbance,New Mexico,Concerned,0.42
+C698,"We're at our house and trying to break into our house. Okay, where's your mom at? She got one.",Burglary / robbery / intruder,California,Concerned,0.47
+C699,The shoe over there. That's why you're surfing. I'm in the boat.,Building fire,"Hartford, Connecticut",Concerned,0.59
+C700,There are bees like hundreds swarming around a guy who can't get up off the ground thousand.,Animal attack,Texas,Concerned,0.49
+C701,20 feet underwater. They don't really need to get out of here. Out of here. It's 9.0.,Water emergency / drowning,Iowa,Concerned,0.59
+C702,"Alright, so we can fit By an even more",Animal attack,"Lorain, Ohio",Concerned,0.49
+C703,"I do need to be right down. Alright, we will be right up.",Stabbing / assault,Ohio,Concerned,0.59
+C704,One of the kids who met them from South India on the van will see I wear a wear ton of chitok here,Child welfare / unattended child,"Del Ray Beach, Florida",Concerned,0.42
+C705,"I'm fine, this is smoking away. You say Green Park and Dogwood?",Building fire,South Carolina,Concerned,0.59
+C706,She's not waking up. Okay. What's her address?,Shooting / gun violence,"Los Angeles County, California",Concerned,0.63
+C707,"I just shot the morning vision over here until area. You did? Yes, it is. Your name is...",Homicide / death investigation,"Visalia, California",Distressed,0.66
+C708,And this guy has a gun in my head. I need the car. The guy has got a gun in the car.,Domestic disturbance,"Murray County, Georgia",Concerned,0.42
+C709,"So, I reach a lot of times before the part of the road. Out there. And come on.",Homicide / death investigation,Arizona,Distressed,0.66
+C710,"I'm going to see the black animals by a loose, okay? And if you can't just in breathing.",Medical emergency,"Grand Lake, Colorado",Concerned,0.53
