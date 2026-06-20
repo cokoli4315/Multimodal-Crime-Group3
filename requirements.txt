@@ -1,0 +1,6 @@
+pandas
+opencv-python
+pytesseract
+ultralytics
+inference-sdk
+python-dotenv
