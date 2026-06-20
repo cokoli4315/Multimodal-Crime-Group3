@@ -1,0 +1,103 @@
+Image_ID,Scene_Type,Objects_Detected,Text_Extracted,Confidence_Score
+IMG_001,Smoke Scene,smoke:1.00,N/A,1
+IMG_002,Smoke Scene,smoke:1.00,N/A,1
+IMG_003,Smoke Scene,smoke:1.00,N/A,1
+IMG_004,Fire and Smoke Scene,fire:1.00; smoke:1.00,N/A,1
+IMG_005,No-fire / Unknown Scene,N/A,N/A,0
+IMG_006,No-fire / Unknown Scene,N/A,N/A,0
+IMG_007,No-fire / Unknown Scene,N/A,N/A,0
+IMG_008,No-fire / Unknown Scene,N/A,N/A,0
+IMG_009,No-fire / Unknown Scene,N/A,N/A,0
+IMG_010,No-fire / Unknown Scene,N/A,N/A,0
+IMG_011,No-fire / Unknown Scene,N/A,N/A,0
+IMG_012,No-fire / Unknown Scene,N/A,N/A,0
+IMG_013,No-fire / Unknown Scene,N/A,N/A,0
+IMG_014,No-fire / Unknown Scene,N/A,N/A,0
+IMG_015,No-fire / Unknown Scene,N/A,N/A,0
+IMG_016,No-fire / Unknown Scene,N/A,N/A,0
+IMG_017,No-fire / Unknown Scene,N/A,N/A,0
+IMG_018,No-fire / Unknown Scene,N/A,N/A,0
+IMG_019,No-fire / Unknown Scene,N/A,N/A,0
+IMG_020,No-fire / Unknown Scene,N/A,N/A,0
+IMG_021,No-fire / Unknown Scene,N/A,N/A,0
+IMG_022,No-fire / Unknown Scene,N/A,N/A,0
+IMG_023,No-fire / Unknown Scene,N/A,N/A,0
+IMG_024,No-fire / Unknown Scene,N/A,N/A,0
+IMG_025,No-fire / Unknown Scene,N/A,N/A,0
+IMG_026,No-fire / Unknown Scene,N/A,N/A,0
+IMG_027,No-fire / Unknown Scene,N/A,N/A,0
+IMG_028,No-fire / Unknown Scene,N/A,N/A,0
+IMG_029,No-fire / Unknown Scene,N/A,N/A,0
+IMG_030,No-fire / Unknown Scene,N/A,N/A,0
+IMG_031,No-fire / Unknown Scene,N/A,N/A,0
+IMG_032,No-fire / Unknown Scene,N/A,N/A,0
+IMG_033,No-fire / Unknown Scene,N/A,N/A,0
+IMG_034,No-fire / Unknown Scene,N/A,N/A,0
+IMG_035,No-fire / Unknown Scene,N/A,N/A,0
+IMG_036,No-fire / Unknown Scene,N/A,N/A,0
+IMG_037,No-fire / Unknown Scene,N/A,N/A,0
+IMG_038,No-fire / Unknown Scene,N/A,N/A,0
+IMG_039,No-fire / Unknown Scene,N/A,N/A,0
+IMG_040,No-fire / Unknown Scene,N/A,N/A,0
+IMG_041,No-fire / Unknown Scene,N/A,N/A,0
+IMG_042,No-fire / Unknown Scene,N/A,N/A,0
+IMG_043,No-fire / Unknown Scene,N/A,N/A,0
+IMG_044,No-fire / Unknown Scene,N/A,N/A,0
+IMG_045,No-fire / Unknown Scene,N/A,N/A,0
+IMG_046,No-fire / Unknown Scene,N/A,N/A,0
+IMG_047,No-fire / Unknown Scene,N/A,N/A,0
+IMG_048,No-fire / Unknown Scene,N/A,N/A,0
+IMG_049,No-fire / Unknown Scene,N/A,N/A,0
+IMG_050,No-fire / Unknown Scene,N/A,N/A,0
+IMG_051,No-fire / Unknown Scene,N/A,N/A,0
+IMG_052,No-fire / Unknown Scene,N/A,N/A,0
+IMG_053,No-fire / Unknown Scene,N/A,N/A,0
+IMG_054,No-fire / Unknown Scene,N/A,N/A,0
+IMG_055,No-fire / Unknown Scene,N/A,N/A,0
+IMG_056,No-fire / Unknown Scene,N/A,N/A,0
+IMG_057,No-fire / Unknown Scene,N/A,N/A,0
+IMG_058,No-fire / Unknown Scene,N/A,N/A,0
+IMG_059,No-fire / Unknown Scene,N/A,N/A,0
+IMG_060,No-fire / Unknown Scene,N/A,N/A,0
+IMG_061,No-fire / Unknown Scene,N/A,N/A,0
+IMG_062,No-fire / Unknown Scene,N/A,N/A,0
+IMG_063,No-fire / Unknown Scene,N/A,N/A,0
+IMG_064,No-fire / Unknown Scene,N/A,N/A,0
+IMG_065,No-fire / Unknown Scene,N/A,N/A,0
+IMG_066,No-fire / Unknown Scene,N/A,N/A,0
+IMG_067,No-fire / Unknown Scene,N/A,N/A,0
+IMG_068,No-fire / Unknown Scene,N/A,N/A,0
+IMG_069,No-fire / Unknown Scene,N/A,N/A,0
+IMG_070,No-fire / Unknown Scene,N/A,N/A,0
+IMG_071,No-fire / Unknown Scene,N/A,N/A,0
+IMG_072,Fire Scene,fire:1.00,N/A,1
+IMG_073,Fire and Smoke Scene,bus:0.30; fire:1.00; person:0.72; smoke:0.99; truck:0.32,N/A,1
+IMG_074,Fire and Smoke Scene,fire:1.00; person:0.66; smoke:1.00,N/A,1
+IMG_075,Fire Scene,car:0.29; fire:1.00,N/A,1
+IMG_076,Fire and Smoke Scene,fire:1.00; smoke:1.00,N/A,1
+IMG_077,Fire and Smoke Scene,fire:1.00; person:0.79; smoke:1.00,N/A,1
+IMG_078,Fire Scene,fire:1.00; person:0.38,N/A,1
+IMG_079,Fire and Smoke Scene,fire:1.00; person:0.90; smoke:1.00,N/A,1
+IMG_080,Fire Scene,fire:1.00,N/A,1
+IMG_081,Smoke Scene,car:0.39; smoke:1.00,N/A,1
+IMG_082,Fire and Smoke Scene,car:0.33; fire:1.00; smoke:1.00; truck:0.48,N/A,1
+IMG_083,Smoke Scene,smoke:1.00; truck:0.82,N/A,1
+IMG_084,Fire Scene,fire:1.00,N/A,1
+IMG_085,Smoke Scene,smoke:1.00,N/A,1
+IMG_086,Smoke Scene,smoke:1.00,N/A,1
+IMG_087,Smoke Scene,car:0.50; person:0.73; smoke:1.00; truck:0.62,N/A,1
+IMG_088,Fire and Smoke Scene,car:0.59; fire:1.00; smoke:1.00,N/A,1
+IMG_089,Smoke Scene,car:0.75; person:0.92; smoke:1.00,N/A,1
+IMG_090,Fire Scene,fire:1.00; truck:0.72,N/A,1
+IMG_091,Smoke Scene,smoke:1.00,N/A,1
+IMG_092,Fire Scene,car:0.80; fire:1.00; truck:0.41,N/A,1
+IMG_093,Smoke Scene,smoke:1.00,N/A,1
+IMG_094,Fire Scene,fire:1.00; person:0.90,N/A,1
+IMG_095,Fire Scene,car:0.41; fire:1.00,N/A,1
+IMG_096,Smoke Scene,car:0.28; smoke:1.00; truck:0.32,N/A,1
+IMG_097,Fire and Smoke Scene,fire:1.00; smoke:1.00,N/A,1
+IMG_098,Fire Scene,fire:1.00; person:0.88,N/A,1
+IMG_099,Smoke Scene,person:0.75; smoke:1.00,N/A,1
+IMG_100,Smoke Scene,car:0.52; person:0.65; smoke:1.00; truck:0.46,N/A,1
+IMG_101,Fire and Smoke Scene,fire:1.00; smoke:1.00,N/A,1
+IMG_102,Smoke Scene,person:0.76; smoke:1.00,N/A,1
