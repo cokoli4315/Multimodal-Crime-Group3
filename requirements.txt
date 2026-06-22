@@ -1,4 +1,4 @@
-# Image Analyst (main/images)
+# Image Analyst (main/images/)
 pandas
 opencv-python
 pytesseract
