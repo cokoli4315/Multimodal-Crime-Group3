@@ -4,3 +4,8 @@ pytesseract
 ultralytics
 inference-sdk
 python-dotenv
+
+# Integration & dashboard (main/integration/)
+streamlit>=1.32.0
+plotly>=5.18.0
+pytest>=8.0.0

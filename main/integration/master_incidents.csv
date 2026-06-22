@@ -1,0 +1,1017 @@
+Incident_ID,Source,Event,Location,Time,Severity,Source_Record_ID,Detail
+AUD-001,Audio,Medical emergency,Michigan,Unknown,High,C001,My mom is. You're over now.
+AUD-002,Audio,Homicide / death investigation,"Volusia County, Florida",Unknown,High,C002,"Hello, hello, is everything okay?"
+AUD-003,Audio,Domestic disturbance,Texas,Unknown,Medium,C003,"Yes, I need a police officer over here at 7. What's going on?"
+AUD-004,Audio,Traffic collision,"Omaha, Nebraska",Unknown,Medium,C004,"Man, my pickup was stolen. I had to go find it."
+AUD-005,Audio,Non-emergency / misuse of 911,"Aloha, Oregon",Unknown,Low,C005,"I don't have an emergency too, can you self-it or just off my house just now?"
+AUD-006,Audio,Homicide / death investigation,"Rowlett, Texas",Unknown,High,C006,I don't want to get back to sleep.
+AUD-007,Audio,Homicide / death investigation,Colorado,Unknown,High,C007,"We can see we need a police at one of our parts of two streets. What's going on there, man? We were two."
+AUD-008,Audio,Stabbing / assault,Washington,Unknown,High,C008,"I'm don't, Pearson, and that is killed two people."
+AUD-009,Audio,Homicide / death investigation,South Carolina,Unknown,High,C009,"So I'm your ambulance, please officer. Okay, you need a police officer? Yeah."
+AUD-010,Audio,Building fire,"Abingdon, Maryland",Unknown,High,C010,Here we've got a far down here at around 7. Right here to have it.
+AUD-011,Audio,Medical emergency,Texas,Unknown,High,C011,"your heart is changing. I'm a little boy 7, I'm a little gay. I'm a little gay. I'm a still hangover."
+AUD-012,Audio,Traffic collision,Colorado,Unknown,Medium,C012,I don't know but you're not far enough and disappointed you guys. Let me take the left at that light.
+AUD-013,Audio,Building fire,"Kensington, Maryland",Unknown,High,C013,"Are you out of the house yet? No. Or I get out of the house. We can't, thank you."
+AUD-014,Audio,Rescue / person trapped,"Port Huron, Michigan",Unknown,High,C014,"Yes, there's a police return. Yes, it is. They help you. Okay, I put this as ridiculous, but..."
+AUD-015,Audio,Non-emergency / misuse of 911,Wisconsin,Unknown,Low,C015,"And 563, shall I hear a road?"
+AUD-016,Audio,Domestic disturbance,Michigan,Unknown,Medium,C016,"Can you please send us to you? Uh, to... I think I'm heading..."
+AUD-017,Audio,Water emergency / drowning,"Columbus, Ohio",Unknown,High,C017,"Okay, this is county it's a matter"
+AUD-018,Audio,Shooting / gun violence,"Latah County, Idaho",Unknown,High,C018,"Oh my god, somebody's shooting at this sheriff's department. At the sheriff's department. Yes, somebody."
+AUD-019,Audio,Medical emergency,California,Unknown,High,C019,"Okay, calm down a little bit, okay? What's he at?"
+AUD-020,Audio,Traffic collision,"Paw Paw, Michigan",Unknown,Medium,C020,"Um, there was just a semi going, what is that? Red arrow going down."
+AUD-021,Audio,Traffic collision,DC,Unknown,Medium,C021,"I'm a quality breakthrough, and I'm a"
+AUD-022,Audio,Medical emergency,California,Unknown,High,C022,You can see the
+AUD-023,Audio,Homicide / death investigation,"90301 South Texas Street, Wisconsin",Unknown,High,C023,"Yes, I live at 90301 South Texas Street. Mm-hmm. I've got a gentle..."
+AUD-024,Audio,Stabbing / assault,"Fairfield, Connecticut",Unknown,High,C024,"where's your emergency? Any ambulance to 101, colony. Okay, what's the reason to leave? What's going on? One thing."
+AUD-025,Audio,Shooting / gun violence,New Jersey,Unknown,High,C025,"Hi, I'm speaking to my boyfriend as he was entering his home and I heard loud screaming and now be good"
+AUD-026,Audio,Water emergency / drowning,Colorado,Unknown,High,C026,"Yeah, this is from, I had a little girl that fell on the ball and..."
+AUD-027,Audio,Stabbing / assault,"Before Broward County, Florida",Unknown,High,C027,"Yep. Hi, I'm trying to save up your family and I'm asking them all in those alternatives to my health."
+AUD-028,Audio,Non-emergency / misuse of 911,Location not provided in source data,Unknown,Low,C028,I'm out here right here and I lost my keys in my car. Is there any way that someone can imagine?
+AUD-029,Audio,Non-emergency / misuse of 911,Location not provided in source data,Unknown,Low,C029,It's not an emergency. The only way I know how I get in touch with this woman is...
+AUD-030,Audio,Non-emergency / misuse of 911,Location not provided in source data,Unknown,Low,C030,What's going on there? Does he hide?
+AUD-031,Audio,Non-emergency / misuse of 911,Location not provided in source data,Unknown,Low,C031,Now one one where is your emergency?
+AUD-032,Audio,Non-emergency / misuse of 911,Location not provided in source data,Unknown,Low,C032,I hear you.
+AUD-033,Audio,Non-emergency / misuse of 911,Location not provided in source data,Unknown,Low,C033,I'm sorry but the farm works bill on. I'm sorry you cannot call 911 for that.
+AUD-034,Audio,Stabbing / assault,Florida,Unknown,High,C034,"Please, thank you. Yes. No. I want to report a drug overdose. A drug overdose."
+AUD-035,Audio,Shooting / gun violence,Wisconsin,Unknown,High,C035,"emergency. Uh, five. Zero zero one. Here's man. We'll be in gun. Five zero."
+AUD-036,Audio,Burglary / robbery / intruder,Florida,Unknown,High,C036,I'm going to want somebody to just walk into our house while they're going to be focused. That's what I'm going to have now.
+AUD-037,Audio,Medical emergency,Texas,Unknown,High,C037,floor. You're going to cover up. Sure be on the floor. Okay. I'm going to tell you how to help deliver the baby. Okay.
+AUD-038,Audio,Homicide / death investigation,"Rineyville, Kentucky",Unknown,High,C038,It's already about going to a house. But I don't know.
+AUD-039,Audio,Missing person / abduction,Ohio,Unknown,Medium,C039,"Hello, I'm going down to the back one with my baby. Okay, where are you?"
+AUD-040,Audio,Water emergency / drowning,Minnesota,Unknown,High,C040,all night long. Let alone one one in the future. Perhaps one in this early winter camp.
+AUD-041,Audio,Missing person / abduction,"Spring Lake, North Carolina",Unknown,Medium,C041,The address is 1160 Ray Road. We have a baby missing out of a crib.
+AUD-042,Audio,Burglary / robbery / intruder,Texas,Unknown,High,C042,"See, uh, Bartlett was breaking into a house next door. What's the address there, sir? 74."
+AUD-043,Audio,Medical emergency,"Morristown, Tennessee",Unknown,High,C043,I think it's an Indian director after the period during the current purple winter space after he took down or something. I don't know.
+AUD-044,Audio,Shooting / gun violence,"Omaha, Nebraska",Unknown,High,C044,"Hello, my Royal One."
+AUD-045,Audio,Threat / suspicious activity,"Hernando County, Florida",Unknown,Medium,C045,I don't know if the gun cannot wait.
+AUD-046,Audio,Shooting / gun violence,Colorado,Unknown,High,C046,"Yes, this guy is following us with shotgun and he's trying to run us off the road. We're standing up."
+AUD-047,Audio,Medical emergency,"a cross street, Florida",Unknown,High,C047,"Hey, let's go on a cross street from the new Deaf Trail, you know, people in jail. Go go go."
+AUD-048,Audio,Medical emergency,California,Unknown,High,C048,"Please. You just have further to get that breath. Give me address first, ma'am. Now."
+AUD-049,Audio,Homicide / death investigation,Texas,Unknown,High,C049,What's going on man?
+AUD-050,Audio,Traffic collision,Wisconsin,Unknown,Medium,C050,I think I'm also going to follow me all because somebody thinks she's a finger and can't drive all straight.
+AUD-051,Audio,Traffic collision,"Corona, California",Unknown,Medium,C051,and we found air cream just went down awesome in Corona. An airplane.
+AUD-052,Audio,Rescue / person trapped,Pennsylvania,Unknown,High,C052,"I'm gonna be able to go jump down the road and jump, and I'm gonna cry. At the end of the car, I can't hear you."
+AUD-053,Audio,Missing person / abduction,Texas,Unknown,Medium,C053,"Yes, she's a bitch. Because she wanted to know me. I don't know where you are."
+AUD-054,Audio,Shooting / gun violence,California,Unknown,High,C054,"There's a killing over here, pardon? And what's going..."
+AUD-055,Audio,Traffic collision,North Carolina,Unknown,Medium,C055,"Hey, I just thought of God fired two shots after..."
+AUD-056,Audio,Shooting / gun violence,Florida,Unknown,High,C056,"Okay, I got a female shot, one set in a 831, some avenue apartment."
+AUD-057,Audio,Threat / suspicious activity,Connecticut,Unknown,Medium,C057,Hello sir. Yeah. Did you dial 911 a little while ago?
+AUD-058,Audio,Public safety / unusual incident,Arizona,Unknown,Low,C058,"Yeah, for me. I'm glad you're here. How's what's going on? What's going on? I want to put my vehicle ahead of me."
+AUD-059,Audio,Missing person / abduction,California,Unknown,Medium,C059,"Yeah, we just I need a report. Okay, nothing we can't nothing what happened"
+AUD-060,Audio,Homicide / death investigation,Wisconsin,Unknown,High,C060,"Hi, I called a little guy, I believe I talked to you, Stacy."
+AUD-061,Audio,Shooting / gun violence,"Warren County, New York",Unknown,High,C061,I'm working.
+AUD-062,Audio,Water emergency / drowning,"Charleston County, South Carolina",Unknown,High,C062,"Yes, ma'am. Any somebody that come to Penicryklandin? Okay."
+AUD-063,Audio,Homicide / death investigation,"185 Highland, Connecticut",Unknown,High,C063,My name is Mary Lyons. I'm the banking center manager at Bank of America at 185 Highland
+AUD-064,Audio,Stabbing / assault,Arizona,Unknown,High,C064,"You mean somebody can still ask it on my mom? Yeah, I don't even, she just pulled out."
+AUD-065,Audio,Shooting / gun violence,Maryland,Unknown,High,C065,This is the hospital at where am I at? I'm at dog
+AUD-066,Audio,Animal attack,"Lake Wenatchee, Washington",Unknown,Medium,C066,The Old North Shore Road and my husband's been at Skye Bear.
+AUD-067,Audio,Shooting / gun violence,Florida,Unknown,High,C067,"Somebody, somebody just pulled up and saw our shoe, and they left us shot by two pieces. Okay, we're getting some up."
+AUD-068,Audio,Building fire,Ohio,Unknown,High,C068,"Oh my gosh, the flag. Hello? You're up at where inside."
+AUD-069,Audio,Shooting / gun violence,"21st Street, Texas",Unknown,High,C069,on 21st Street. This is Tony Guzman on the staffer and he was overhead towards
+AUD-070,Audio,Traffic collision,"the airport at 83rd Street, Illinois",Unknown,Medium,C070,"High, a little airplane, a little one engineer plane took off on the airport at 83rd Street in Kress."
+AUD-071,Audio,Missing person / abduction,"Hickory, North Carolina",Unknown,Medium,C071,"I'm sorry. I'm sorry. I'm sorry. I'm sorry. Get out of order. Things? Yes, ma'am."
+AUD-072,Audio,Homicide / death investigation,Louisiana,Unknown,High,C072,"and they can. Okay, what do you need to play?"
+AUD-073,Audio,Homicide / death investigation,Utah,Unknown,High,C073,"Yes, I need to please, please, at my house. Flatt us. I think we need an ambulance."
+AUD-074,Audio,Shooting / gun violence,Iowa,Unknown,High,C074,Okay. We need a person back in the meat department to get out of the meat.
+AUD-075,Audio,Medical emergency,"Barnstable County, Massachusetts",Unknown,High,C075,What do you need? You need the police? You need the police.
+AUD-076,Audio,Burglary / robbery / intruder,Washington,Unknown,High,C076,"Somebody go into my house, there's a house there. What's your address? Yeah, but..."
+AUD-077,Audio,Shooting / gun violence,North Carolina,Unknown,High,C077,We just got a lot of to come apart. I'm making it with a gun. Shot one of our employees. And uh...
+AUD-078,Audio,Building fire,"Henderson County, North Carolina",Unknown,High,C078,My dad is fell in the floor and his visor is in
+AUD-079,Audio,Rescue / person trapped,"Volusia County, Florida",Unknown,High,C079,"Oh, my mom's actually doctor. You're not at the doctor. Are you there alone?"
+AUD-080,Audio,Public safety / unusual incident,"Orange County, California",Unknown,Low,C080,I'm not going to want to miss that show right up. I'm going to take a look and I'm going to wipe them.
+AUD-081,Audio,Homicide / death investigation,Florida,Unknown,High,C081,"Oh, that's a thing. I'm assuming. Who's been shot, man? I'll be right."
+AUD-082,Audio,Traffic collision,Indiana,Unknown,Medium,C082,one.
+AUD-083,Audio,Burglary / robbery / intruder,"Volusia County, Florida",Unknown,High,C083,This is the book will be a bank of 1302 with the I should have seen my clothes on. We're being robbed.
+AUD-084,Audio,Stabbing / assault,Wisconsin,Unknown,High,C084,"Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, "
+AUD-085,Audio,Shooting / gun violence,Florida,Unknown,High,C085,"Yes, we're at the Nelson building and there's some men here with the dogs to do the same into the board meeting. Okay, you're at the..."
+AUD-086,Audio,Domestic disturbance,Connecticut,Unknown,Medium,C086,"Listen, will we be in the room? Okay, so come on, pass my seatbelt. You gotta attack my seatbelt."
+AUD-087,Audio,Domestic disturbance,Connecticut,Unknown,Medium,C087,See? Thank you.
+AUD-088,Audio,Rescue / person trapped,"Green Lake County, Wisconsin",Unknown,High,C088,"I'm locked in the field, I don't know if I can't. You're walking in the field, okay, I need to just stop, okay, I'm gonna try to decide."
+AUD-089,Audio,Shooting / gun violence,"Orange County, California",Unknown,High,C089,"I'm going to get the emergency. Somebody just set the police up at the... I'll put the address, ma'am."
+AUD-090,Audio,Shooting / gun violence,"Orange County, California",Unknown,High,C090,I've got to almost a wee shot down here. I'll put on...
+AUD-091,Audio,Shooting / gun violence,"Orange County, California",Unknown,High,C091,"If you're out to the big county, we'll go to the fort."
+AUD-092,Audio,Shooting / gun violence,"Orange County, California",Unknown,High,C092,"Yes, there's two subs here that's being on the ground. Okay, he just got stopped."
+AUD-093,Audio,Traffic collision,Hawaii,Unknown,Medium,C093,"I mean, I wait on the car, there's a wire turn off."
+AUD-094,Audio,Homicide / death investigation,Ohio,Unknown,High,C094,"On the heretic, I'm heretic of police vision and a recall."
+AUD-095,Audio,Shooting / gun violence,"Williamsburg County, South Carolina",Unknown,High,C095,"Yes, I need to please quickly, gently. So, change."
+AUD-096,Audio,Homicide / death investigation,Arizona,Unknown,High,C096,Hello? Hello? Hello? Hello?
+AUD-097,Audio,Building fire,"Hyattsville, Maryland",Unknown,High,C097,"Um, of course, 4709, 4709. Do you want to have our energy catching pads?"
+AUD-098,Audio,Shooting / gun violence,California,Unknown,High,C098,"Hi, I need somebody escorted out of my store right away. He's causing problems."
+AUD-099,Audio,Medical emergency,Oregon,Unknown,High,C099,Hello? Hello 911?
+AUD-100,Audio,Animal attack,"Arizona City, Arizona",Unknown,Medium,C100,"I got three pit balls, the second people. Thank you. You're attacking kids? Yes, sir."
+AUD-101,Audio,Burglary / robbery / intruder,Florida,Unknown,High,C101,"Hey, um, they just broke into my house. They had guns. They told us to just be on the floor. There's pounds in my..."
+AUD-102,Audio,Homicide / death investigation,"Catawba County, North Carolina",Unknown,High,C102,"Um, I took some pills and I'm the pills when I made my mad mom."
+AUD-103,Audio,Traffic collision,"Lafayette, Indiana",Unknown,Medium,C103,"Alright, well the thing is, I was just playing with my buddy. You were sliding? Slide."
+AUD-104,Audio,Rescue / person trapped,"Hialeah, Florida",Unknown,High,C104,"There's somebody who's a guy at home alone and he's talking to my daughter, she's Anybody here quick?"
+AUD-105,Audio,Building fire,Iowa,Unknown,High,C105,My house is on fire. I don't know how to sleep in and I'll go home and do them and I'll go home.
+AUD-106,Audio,Public safety / unusual incident,California,Unknown,Low,C106,"Hi, my name is Maria. I'm calling because my teacher, Mr. Haines,"
+AUD-107,Audio,Shooting / gun violence,Florida,Unknown,High,C107,"Yes, I have a gun and I don't swim out like I loaded and some of the shots."
+AUD-108,Audio,Homicide / death investigation,South Carolina,Unknown,High,C108,"I have a friend who's been drinking, I've been trying to call him since, and today he is now loading several weapons in a box."
+AUD-109,Audio,Shooting / gun violence,Massachusetts,Unknown,High,C109,"I need police at, uh, with a heck of a 291 water town street immediately. We just said bullet."
+AUD-110,Audio,Building fire,"Provo, Utah",Unknown,High,C110,I'm not sure my friend has called and basically told me she's going to kill herself and I can probably will.
+AUD-111,Audio,Building fire,"Provo, Utah",Unknown,High,C111,What's the address? 750 south of Tippie West.
+AUD-112,Audio,Building fire,"Provo, Utah",Unknown,High,C112,emergency files. Put some locations.
+AUD-113,Audio,Medical emergency,"Georgetown, Ohio",Unknown,High,C113,"It's been a while, I believe I haven't made it as possible. Everyone over goes."
+AUD-114,Audio,Shooting / gun violence,"Athens-Clarke County, Georgia",Unknown,High,C114,"Yeah man, I'm up there next to the end. We're going to roll. We're going to see the gap."
+AUD-115,Audio,Traffic collision,"Campbell County, Virginia",Unknown,Medium,C115,something that's 29 and a comeback would fall just and I can bring a card just coming down the wrong lane.
+AUD-116,Audio,Burglary / robbery / intruder,"Livingston, Michigan",Unknown,High,C116,"I was a good woman, and I was a good woman."
+AUD-117,Audio,Shooting / gun violence,"Sylva, North Carolina",Unknown,High,C117,Please come out here. What's your... I don't know where I dress. You're gonna have to be in the dress.
+AUD-118,Audio,Traffic collision,"Monroe County, Ohio",Unknown,Medium,C118,"What could we get out of play? No one down in my computer. A plane going down, months in part. We got out."
+AUD-119,Audio,Homicide / death investigation,Texas,Unknown,High,C119,"I saw somebody in the middle, and someone helped. What are you doing here?"
+AUD-120,Audio,Shooting / gun violence,"Oakland County, Michigan",Unknown,High,C120,"somebody trying to rob us who got Tigret now we're holding your doubt. Okay, what address you at?"
+AUD-121,Audio,Traffic collision,"Waynesville, Ohio",Unknown,Medium,C121,"Hello? Hello, I'm floating down the river in my car. Okay, what river are you on?"
+AUD-122,Audio,Medical emergency,"Ridge Manor, Florida",Unknown,High,C122,"Yes, I need an ambulance on my heart sound. Okay, we can't hear. We can't hear."
+AUD-123,Audio,Water emergency / drowning,"Cushing, Oklahoma",Unknown,High,C123,"with that little boy missing. Have you had any reports on one? No, I'm sure have it."
+AUD-124,Audio,Threat / suspicious activity,"County Road, Texas",Unknown,Medium,C124,"May it please help me. I'm in County Road, 96600 will be on the TV and"
+AUD-125,Audio,Shooting / gun violence,"Miramar, Florida",Unknown,High,C125,I'm going to be right here at the mirror. I don't need to log just my big.
+AUD-126,Audio,Homicide / death investigation,"Arlington Heights, Illinois",Unknown,High,C126,"I'm not a suspect but I need to have somebody go to my brother, my house."
+AUD-127,Audio,Medical emergency,"Seminole, Oklahoma",Unknown,High,C127,"Come on, run. Stay. My friend has had a better feature. Going out."
+AUD-128,Audio,Burglary / robbery / intruder,Oklahoma,Unknown,High,C128,Hello? Yes. Maybe just be wrong. We're at... He's 22.
+AUD-129,Audio,Shooting / gun violence,Florida,Unknown,High,C129,Hi friends community school I called my one on a few minutes ago we have I heard several time shots outside.
+AUD-130,Audio,Medical emergency,"South Reno, Oklahoma",Unknown,High,C130,"Yeah, I need a name to go to 12-mark in South Reno. Okay, let's go on."
+AUD-131,Audio,Medical emergency,Tennessee,Unknown,High,C131,I believe it is dangerous to the cold view. That's what is the address. And not cold view.
+AUD-132,Audio,Burglary / robbery / intruder,"Westminster, Colorado",Unknown,High,C132,49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 49. 
+AUD-133,Audio,Public safety / unusual incident,Georgia,Unknown,Low,C133,It's been a demolicing of a half in there. He's a woman inside and we need the one to come
+AUD-134,Audio,Shooting / gun violence,"Watsonville, California",Unknown,High,C134,"I hope you. Hi, this is LaTisha from Store Big Five on Green Valley. I have a person that is robbing me."
+AUD-135,Audio,Traffic collision,Georgia,Unknown,Medium,C135,"Yes ma'am, my neighbor just ran over so it's saying so I tried to kill her in her house. I don't know what?"
+AUD-136,Audio,Stabbing / assault,"Arlington Heights, Illinois",Unknown,High,C136,I don't want my dad here to bring us since he threw me in the motion when he abused me
+AUD-137,Audio,Building fire,"Volusia County, Florida",Unknown,High,C137,"Yeah, I got kind of like my father don't leave the little bit of head. He's 79 years old."
+AUD-138,Audio,Building fire,"Volusia County, Florida",Unknown,High,C138,"Oh, my husband is up in the attic and he's not responding."
+AUD-139,Audio,Homicide / death investigation,Pennsylvania,Unknown,High,C139,"I need to report a murder. Okay, where is that sir? 157 red scum."
+AUD-140,Audio,Shooting / gun violence,Florida,Unknown,High,C140,"Yes, it's doing my bed in the back. I just don't know where you are."
+AUD-141,Audio,Medical emergency,"Salt Lake City, Utah",Unknown,High,C141,"Hey, I told her some valley. We've got a medical a bird that's 4500."
+AUD-142,Audio,Homicide / death investigation,North Carolina,Unknown,High,C142,I just got about four. I'm going to target. I'm going to three three.
+AUD-143,Audio,Medical emergency,Kentucky,Unknown,High,C143,"Yes, we need an ambulance. We're at Westport Shopping Center right outside."
+AUD-144,Audio,Shooting / gun violence,Florida,Unknown,High,C144,"Yeah! Yeah, yeah, yeah!"
+AUD-145,Audio,Traffic collision,"South Brunswick, New Jersey",Unknown,Medium,C145,"Yes, excuse me, so I'm sending a couple of these cameras down. How would a copter came down?"
+AUD-146,Audio,Traffic collision,"South Brunswick, New Jersey",Unknown,Medium,C146,"Yes, I will helicopter just crash. A helicopter just crash? Yes, sir. Okay."
+AUD-147,Audio,Homicide / death investigation,"Copley, Ohio",Unknown,High,C147,"Good enough, Aben. Someone is running around the neighborhood shooting a gun. Okay, they're all in a car."
+AUD-148,Audio,Stabbing / assault,"Lorain County, Ohio",Unknown,High,C148,"Hey, where's it? Sure, Thomas, can I help you? Yeah, this is Ben, he was it."
+AUD-149,Audio,Missing person / abduction,"Aurora, Colorado",Unknown,Medium,C149,"of your emergency. I want to open to my office and let's find a tight face. Please come ahead. Okay, what's your address?"
+AUD-150,Audio,Traffic collision,"third avenue, Colorado",Unknown,Medium,C150,"Oh my god, I'm on third avenue to railroad track. Somebody just tried to jump on the train and seven for late."
+AUD-151,Audio,Shooting / gun violence,Nevada,Unknown,High,C151,"Ah, there's a curtain going on. Ah, we're shooting. We're shooting, we're shooting, we're shooting, we're shooting."
+AUD-152,Audio,Shooting / gun violence,North Carolina,Unknown,High,C152,I think this is how you are to see it.
+AUD-153,Audio,Homicide / death investigation,Canada,Unknown,High,C153,I have just some other eye-w
+AUD-154,Audio,Animal attack,"A-shift Manatee County, Florida",Unknown,Medium,C154,"We're on the boat right now. Our spring says, God, they're five sharks. We're also made."
+AUD-155,Audio,Shooting / gun violence,"59 31, Washington",Unknown,High,C155,"Yes, I got I just shot someone in my business. I'm at 59 31"
+AUD-156,Audio,Shooting / gun violence,"Still Beach, California",Unknown,High,C156,"We got some shootings over here in Still Beach. OK, where? It's a salon in the Meritosh."
+AUD-157,Audio,Shooting / gun violence,New York,Unknown,High,C157,"I just hope someone 100, around 40."
+AUD-158,Audio,Traffic collision,"Los Angeles County, California",Unknown,Medium,C158,"Okay, yes, there would be a transferring searching in the city of La Criceta as her accelerator specs he kept up the vehicle."
+AUD-159,Audio,Shooting / gun violence,California,Unknown,High,C159,"I got to report the shooting. Okay, where? Lehigh Hanson from an entity."
+AUD-160,Audio,Shooting / gun violence,California,Unknown,High,C160,"We need to believe here. Okay, what's the address of the emergency? Yeah."
+AUD-161,Audio,Homicide / death investigation,"Elyria, New York",Unknown,High,C161,I want to tell you what's happening first. I just killed my wife.
+AUD-162,Audio,Homicide / death investigation,Idaho,Unknown,High,C162,"What do we say? What happens? Um, something. I think what about that?"
+AUD-163,Audio,Shooting / gun violence,"Charleston, South Carolina",Unknown,High,C163,We have been shot at a house and book and into we have three children and we leave somebody here now.
+AUD-164,Audio,Stabbing / assault,Illinois,Unknown,High,C164,"Yes, I can get from the concert."
+AUD-165,Audio,Traffic collision,"Jacksonville, Florida",Unknown,Medium,C165,"And I'm behind a notes and wheel for VAD-U, like in plate C-E-G-A-1-4-8, and we've been all over the road."
+AUD-166,Audio,Burglary / robbery / intruder,Colorado,Unknown,High,C166,for 202-molar circle. Two men have just cost my 10th of track.
+AUD-167,Audio,Shooting / gun violence,"Orlando, Florida",Unknown,High,C167,What city are you in?
+AUD-168,Audio,Traffic collision,"New Orleans, Louisiana",Unknown,Medium,C168,of mine going eastbound on I-10 between LA30 and LA40. Cool.
+AUD-169,Audio,Homicide / death investigation,Texas,Unknown,High,C169,"Yes, we'd also right now there's a man's children at the stage. We need a cop. We're at. We're at."
+AUD-170,Audio,Shooting / gun violence,"Irwindale, California",Unknown,High,C170,"Yes, ma'am. This is a joke. Hold on. You can read a great story. Just tell yourself."
+AUD-171,Audio,Traffic collision,"Orange County, Florida",Unknown,Medium,C171,"Okay, I called this one and I already came back. Alright, so I'll be gone."
+AUD-172,Audio,Homicide / death investigation,"Hernando County, Florida",Unknown,High,C172,"Yeah, I'm turning myself in for my husband, the number."
+AUD-173,Audio,Shooting / gun violence,"Vance County, North Carolina",Unknown,High,C173,"I'm almost pregnant in my house. Wish I'd read. Sausage 6, Sethland, May 3. Sile what?"
+AUD-174,Audio,Shooting / gun violence,"Norton, Massachusetts",Unknown,High,C174,"I know, I'm sorry, brother. I don't want to miss you, shut doors. I can go..."
+AUD-175,Audio,Shooting / gun violence,"Brownsville, Texas",Unknown,High,C175,I am sorry I have missed middle school where the students are done to help us out please. We will call BSE Police also.
+AUD-176,Audio,Homicide / death investigation,"Stark County, Ohio",Unknown,High,C176,I'm on your own with your bike train. Why was your tip by train? My train. Where are you?
+AUD-177,Audio,Shooting / gun violence,Wisconsin,Unknown,High,C177,an ambulance to the south side Walmart immediately. What's going on? I have a man shot.
+AUD-178,Audio,Shooting / gun violence,"Ypsilanti County, Michigan",Unknown,High,C178,"Remember to go to the office right now, and see you next time. Bye bye. You shot?"
+AUD-179,Audio,Burglary / robbery / intruder,"Valinda, California",Unknown,High,C179,I'm happy. I didn't do that one day and I think someone's trying to come in.
+AUD-180,Audio,Homicide / death investigation,"Romulus, Michigan",Unknown,High,C180,I need a new grade bill to please I don't care. The 15 to 6 12.
+AUD-181,Audio,Stabbing / assault,Illinois,Unknown,High,C181,"We have a, I think we have a dead person in here. Okay. I don't know what happens."
+AUD-182,Audio,Burglary / robbery / intruder,Ohio,Unknown,High,C182,I'm just the one that brought the US bank and I just need to be sure to turn myself in.
+AUD-183,Audio,Child welfare / unattended child,"Hartford, Connecticut",Unknown,Medium,C183,Why you? I'm the emergency hotline. Who are you?
+AUD-184,Audio,Domestic disturbance,North Carolina,Unknown,Medium,C184,It's a business. I believe it's been robbed. What's the name of the business? Flying Biscuits.
+AUD-185,Audio,Shooting / gun violence,Ohio,Unknown,High,C185,"What is your emergency? Hi, my name is Nikki. I'm the manager of the McDonalds. I'm very intrigued. Yeah. There's a woman here so she has a-"
+AUD-186,Audio,Traffic collision,"Gainesville, Florida",Unknown,Medium,C186,"I think we are in the 75th, I 75th. Yes, I do."
+AUD-187,Audio,Shooting / gun violence,North Carolina,Unknown,High,C187,Something is going on. Do you know the house number?
+AUD-188,Audio,Stabbing / assault,Illinois,Unknown,High,C188,"One. Thank you. Blue drone. We have blue. Okay, I'm sorry you have white."
+AUD-189,Audio,Burglary / robbery / intruder,Florida,Unknown,High,C189,emergency. My focus is on the address. What's the area.
+AUD-190,Audio,Homicide / death investigation,"Sarasota County, Florida",Unknown,High,C190,We're going to be home. We're just like told us all about the health.
+AUD-191,Audio,Shooting / gun violence,Oregon,Unknown,High,C191,Have you gone? I rock somebody downtown.
+AUD-192,Audio,Burglary / robbery / intruder,Utah,Unknown,High,C192,"Um, we have somebody. Sorry. Sorry."
+AUD-193,Audio,Burglary / robbery / intruder,Michigan,Unknown,High,C193,I think somebody is working in the house. We just came home from school and put our jobs on. We really scared.
+AUD-194,Audio,Medical emergency,Ohio,Unknown,High,C194,I always offer guys my mom's on the board.
+AUD-195,Audio,Shooting / gun violence,"Hillsborough County, Florida",Unknown,High,C195,emergency. I'll just shot my wife. Can you tell me the address that you're at?
+AUD-196,Audio,Shooting / gun violence,Oklahoma,Unknown,High,C196,I think we need to place at the Walmart Super Center on campus Kobe. That's what we got.
+AUD-197,Audio,Burglary / robbery / intruder,Oklahoma,Unknown,High,C197,"Yeah, I need to pull it with a 963 history six tree or somebody in the house of a for a blow."
+AUD-198,Audio,Traffic collision,Colorado,Unknown,Medium,C198,I'm one 19 and counting on one we just saw a plane go down.
+AUD-199,Audio,Traffic collision,Colorado,Unknown,Medium,C199,"I'll plain just, uh, clash. Okay, you said three miles south of Union Reservoir?"
+AUD-200,Audio,Missing person / abduction,Ohio,Unknown,Medium,C200,I know there's an umbrella on the TV for this look boy. Okay. And there is a young man.
+AUD-201,Audio,Traffic collision,"Raymond, Wisconsin",Unknown,Medium,C201,I will just witness the collection and on the in the talk down.
+AUD-202,Audio,Traffic collision,"7 mile fair in Highway, Wisconsin",Unknown,Medium,C202,There's a horrible accident on 7 mile fair in Highway 94.
+AUD-203,Audio,Traffic collision,"Raymond, Wisconsin",Unknown,Medium,C203,"Hi, there was a accident. Are we just witnessed three cars just in slow motion?"
+AUD-204,Audio,Traffic collision,"Oxford, Iowa",Unknown,Medium,C204,I was told to call when my dad did tell whatever I had.
+AUD-205,Audio,Shooting / gun violence,"Magna, Utah",Unknown,High,C205,"He only found his dad's tortoises, but I don't know, I don't."
+AUD-206,Audio,Shooting / gun violence,Washington,Unknown,High,C206,Hello?
+AUD-207,Audio,Homicide / death investigation,Michigan,Unknown,High,C207,There has been a murder suicide. There is no survivors. Please send a phone. What's going on?
+AUD-208,Audio,Suicide / self-harm,"Allegan County, Michigan",Unknown,High,C208,"Yeah, then you gotta put these in there. What? I bet you can put these in there. Please, please."
+AUD-209,Audio,Shooting / gun violence,"Sunset Beach, North Carolina",Unknown,High,C209,"Yeah, so I'd like to report a shooting please. Okay. See you tomorrow, sir."
+AUD-210,Audio,Shooting / gun violence,"Mason County, Washington",Unknown,High,C210,"I just shot my wife. Okay, and what's your address?"
+AUD-211,Audio,Homicide / death investigation,Illinois,Unknown,High,C211,He's got it out! Please! That's a good one. Please! Please!
+AUD-212,Audio,Homicide / death investigation,"Dalton, Georgia",Unknown,High,C212,a woman came in her with a child screaming that her son had shot for her husband.
+AUD-213,Audio,Homicide / death investigation,"Jessup, Iowa",Unknown,High,C213,"Hi, my girlfriend just pulled up and there's a guy that pull up and truck behind her. We think he has a gun."
+AUD-214,Audio,Shooting / gun violence,"Jacksonville, Florida",Unknown,High,C214,"Hi, I'm done, Chats. We're all in the forest. You do what? They think I'm Chats."
+AUD-215,Audio,Building fire,"Midwest City, Oklahoma",Unknown,High,C215,"I'm not crying, I'm coming in here and I'm going to be there."
+AUD-216,Audio,Homicide / death investigation,Connecticut,Unknown,High,C216,"Someone was murdered, I think. Where are you? I'm not sleeping, I'm not sleeping. I'm not sleeping."
+AUD-217,Audio,Homicide / death investigation,"Gilbert, Arizona",Unknown,High,C217,"But it was good, just and my mom and my niece and my sister-in-law. What would I be sure to-"
+AUD-218,Audio,Burglary / robbery / intruder,"Todd, North Carolina",Unknown,High,C218,"I have a gun shop victim here. Okay, tell me that."
+AUD-219,Audio,Homicide / death investigation,Florida,Unknown,High,C219,I just come in and pick it out my trash and my manager's in and out of these idiots. I've got a new...
+AUD-220,Audio,Burglary / robbery / intruder,Canada,Unknown,High,C220,to person.
+AUD-221,Audio,Shooting / gun violence,"Brevard County, Florida",Unknown,High,C221,I'm going to go to the park.
+AUD-222,Audio,Shooting / gun violence,"Bucks County, Pennsylvania",Unknown,High,C222,I would like state police.
+AUD-223,Audio,Burglary / robbery / intruder,"The Polk County, Florida",Unknown,High,C223,I had a guy kicking in my door or trying to kick in my front door. I don't know what his problem was
+AUD-224,Audio,Shooting / gun violence,Washington,Unknown,High,C224,and 59 to Kathy Rases. There's been a shooting. Somebody came in and shot a bunch of people. I'm hiding in a bit after a month.
+AUD-225,Audio,Stabbing / assault,Florida,Unknown,High,C225,exit of this game coming from the beach. There's a guy that's completely naked through his clothes all over.
+AUD-226,Audio,Stabbing / assault,Florida,Unknown,High,C226,there's a naked man or the MacArthur's car's ring at the end of the car's way coming towards this case.
+AUD-227,Audio,Non-emergency / misuse of 911,"East Hartford, Connecticut",Unknown,Low,C227,"So hi, I'm Maria C. I'm just a photographer. I'm my great-for-delly."
+AUD-228,Audio,Medical emergency,"Racine County, Wisconsin",Unknown,High,C228,"I have a boy that was underwater and he's not breathing. How old is the boy? Ah, four."
+AUD-229,Audio,Rescue / person trapped,"Hollywood, Florida",Unknown,High,C229,Are you inside the house? Yeah. Are you alone inside the house? Yes.
+AUD-230,Audio,Burglary / robbery / intruder,North Carolina,Unknown,High,C230,someone on my back or to black man. And what is your address? 3 6 1 3 8 little.
+AUD-231,Audio,Burglary / robbery / intruder,Texas,Unknown,High,C231,"Thank you, like I'm putting. How the power of this kid. I'm rolling for the ripple of the nose."
+AUD-232,Audio,Shooting / gun violence,"Sanger, California",Unknown,High,C232,I'm going to come with us. Where are you at? I'm on end.
+AUD-233,Audio,Homicide / death investigation,Florida,Unknown,High,C233,Look in my parents are shocked. You know what? My parents were shocked. You panicked with shots.
+AUD-234,Audio,Burglary / robbery / intruder,North Carolina,Unknown,High,C234,We had several police hire earlier and did a report based on...
+AUD-235,Audio,Shooting / gun violence,Colorado,Unknown,High,C235,"Oh, my brother is having a great time to note that. Okay."
+AUD-236,Audio,Stabbing / assault,"Alliance, Ohio",Unknown,High,C236,"Well, I just strangled my girlfriend. You strangled your girlfriend? Yep. What's your name?"
+AUD-237,Audio,Stabbing / assault,"Moore Haven, Florida",Unknown,High,C237,We had an airboat accident. I'm not sure if they're all in trees. I don't know.
+AUD-238,Audio,Homicide / death investigation,"Dare County, Ohio",Unknown,High,C238,"Hey, I think I may have found"
+AUD-239,Audio,Fall / accidental injury,"Palatine, Illinois",Unknown,Medium,C239,I felt this is a lot of... ...and... drink.
+AUD-240,Audio,Shooting / gun violence,Ohio,Unknown,High,C240,"I'm going to make a bomb. Okay, you said the hospital? Yes. Did you ever see now?"
+AUD-241,Audio,Homicide / death investigation,"Milwaukee County, Wisconsin",Unknown,High,C241,"how some guys shooting their gun, some temple or something."
+AUD-242,Audio,Homicide / death investigation,"Milwaukee County, Wisconsin",Unknown,High,C242,I was just going to 6th temple and there was a house in the parking lot and there was a bunch.
+AUD-243,Audio,Stabbing / assault,New Jersey,Unknown,High,C243,"I'm always learning to sing. Um, yes. Somebody just said my baby. Please be there. They just did what? Say my baby."
+AUD-244,Audio,Homicide / death investigation,Kentucky,Unknown,High,C244,"All this, it looks like a dead man in the car. I'm gonna put him in here."
+AUD-245,Audio,Burglary / robbery / intruder,"Clark County, Washington",Unknown,High,C245,Can I help you? Somebody who broke with our daughter's train to break into my bedroom. What's your address?
+AUD-246,Audio,Shooting / gun violence,New Jersey,Unknown,High,C246,"Please, please work. I'll get there for the maturity here. They're hearing, we're aware and they're shooting."
+AUD-247,Audio,Medical emergency,"Washington County, Oregon",Unknown,High,C247,"Please, Farron. 911, this man's been having a hard attack. Brooke, we're going to start CPR on the hem, okay? I'm going to jump."
+AUD-248,Audio,Shooting / gun violence,Florida,Unknown,High,C248,you. I'll be good you off at the shot. What agency sir?
+AUD-249,Audio,Homicide / death investigation,"Parker County, Texas",Unknown,High,C249,I just killed my mom and my sister. What? I just killed my mom and my sister.
+AUD-250,Audio,Traffic collision,Ohio,Unknown,Medium,C250,I'll call them me because I'm at a party. My son is fit. What park are you at?
+AUD-251,Audio,Traffic collision,"Westchester County, New York",Unknown,Medium,C251,We have two boards. Two boards. We have one. We have one. We have one. We have two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two boards. Two board
+AUD-252,Audio,Medical emergency,"Bakersfield, California",Unknown,High,C252,"that then with gardens and cinnings possible in the ladies at the moment. But yeah, I think that it had a hard problem. What is a mad address?"
+AUD-253,Audio,Shooting / gun violence,Washington,Unknown,High,C253,I just committed a father's worst thing. Okay. I just shot my daughter.
+AUD-254,Audio,Medical emergency,"Ector County, Texas",Unknown,High,C254,"Yes, I have a three-year-old who's not breathing. To address, ma'am. 1-6-097 North Walgher."
+AUD-255,Audio,Building fire,"Kanawha County, West Virginia",Unknown,High,C255,I have an emergency. I have three dead people up on top of cold. Here we sweat a wolf tent. My name is
+AUD-256,Audio,Homicide / death investigation,Utah,Unknown,High,C256,"Those penetrating. Okay, who is shot?"
+AUD-257,Audio,Medical emergency,"Macomb County, Michigan",Unknown,High,C257,"I don't, a guy standing here, I think his wife is, is, is, strong with his wife."
+AUD-258,Audio,Shooting / gun violence,"Newaygo County, Michigan",Unknown,High,C258,We need help! We need help! Hasn't just happened at my son. I'm trying to figure it out. Please!
+AUD-259,Audio,Shooting / gun violence,Oklahoma,Unknown,High,C259,late this is a day of war back record to eleven or seven by call the budget or then my shop to eleven or seven
+AUD-260,Audio,Homicide / death investigation,Colorado,Unknown,High,C260,"I'm not a good guy. What's in my vehicle, man? Nobody wants you to know where you're at. Where are you?"
+AUD-261,Audio,Building fire,"North Rock, Texas",Unknown,High,C261,"have you got any reports of a building exposure? Yes, we have. It's going to be Jerry Maswick in North Rock."
+AUD-262,Audio,Building fire,"West, Texas",Unknown,High,C262,"I like the movie, I like the movie, I like the movie, I like the movie, I like the movie,"
+AUD-263,Audio,Building fire,"West, Texas",Unknown,High,C263,We just have the explosion and the fire. Yes sir. The
+AUD-264,Audio,Building fire,"West, Texas",Unknown,High,C264,"Gary Marcia, grab all the house blew up. Not the windshield out of my pickup."
+AUD-265,Audio,Building fire,"West, Texas",Unknown,High,C265,"Yes, we're West Texas. Our fertilizer plant is blown up and our waste hole."
+AUD-266,Audio,Building fire,"West, Texas",Unknown,High,C266,"Look, I'm out! Blow it! Okay, what's the end like? 1879!"
+AUD-267,Audio,Shooting / gun violence,Virginia,Unknown,High,C267,"Oh, do the guy with the costume of the new gear ball right now. Do the chum go with the balls right now. Okay, hand right."
+AUD-268,Audio,Homicide / death investigation,California,Unknown,High,C268,My name is Hans Walters. I work for a lot to take as much upon a police department.
+AUD-269,Audio,Shooting / gun violence,"La Salle High School, Ohio",Unknown,High,C269,"I'm out with the high school, losing everything on. It's very thankful. Lots of fun."
+AUD-270,Audio,Missing person / abduction,Ohio,Unknown,Medium,C270,You need police fire ambulance.
+AUD-271,Audio,Shooting / gun violence,Oregon,Unknown,High,C271,We have a tutor in the store. Okay. Do you know if anybody's injured? I'm not sure. I'm not sure.
+AUD-272,Audio,Shooting / gun violence,Oregon,Unknown,High,C272,"Okay, I need to get yourself to a safe location."
+AUD-273,Audio,Shooting / gun violence,Oregon,Unknown,High,C273,Okay. We're at the town center. We're at me. We're at me. We're at me. We're at me.
+AUD-274,Audio,Shooting / gun violence,Oregon,Unknown,High,C274,"by one one. Crackham-and-town center for the Cappella Woods fired in the mask. OK, they'll be on her way."
+AUD-275,Audio,Stabbing / assault,"New Hanover County, North Carolina",Unknown,High,C275,"Hi, I'm a suicidal teenager at House 503 Night Hawkeye. I need an ambulance immediately."
+AUD-276,Audio,Shooting / gun violence,Utah,Unknown,High,C276,"500 feet, roll the cough, throw an ambulance, shot fired, a baby's been hit in the head."
+AUD-277,Audio,Shooting / gun violence,"Stafford County, Virginia",Unknown,High,C277,"Can you get an ambulance in a cop? Go up the over to 59, older would drive. 59, what? Older."
+AUD-278,Audio,Burglary / robbery / intruder,"Richland County, Wisconsin",Unknown,High,C278,"Hi, Madenah"
+AUD-279,Audio,Burglary / robbery / intruder,"Manatee County, Florida",Unknown,High,C279,So hurry up because it's a five-way happen. This is a five-way he came from on to my door earlier.
+AUD-280,Audio,Medical emergency,"St. Clair County, Illinois",Unknown,High,C280,"We went to the quails on the minute. In the last night, the spring of mine here looks like you hit it head."
+AUD-281,Audio,Shooting / gun violence,California,Unknown,High,C281,"Here at the empty over here, someone's been shot. 1220 photograph, Avenue. 1220."
+AUD-282,Audio,Shooting / gun violence,"Kalamazoo County, Michigan",Unknown,High,C282,"I'm a 69, 69 East Main. My son did shot his wife."
+AUD-283,Audio,Traffic collision,Georgia,Unknown,Medium,C283,I'm going to go to the floor. I'll just go right now. 5-4-8-3. 5-4-1.
+AUD-284,Audio,Shooting / gun violence,"Weber County, Utah",Unknown,High,C284,"Yes, Sam. Shots fired, St. James."
+AUD-285,Audio,Stabbing / assault,"Trumbull County, Ohio",Unknown,High,C285,"Yeah, I just attempted to kill my mother and my father. Okay, where are you at?"
+AUD-286,Audio,Medical emergency,"Delaware County, Oklahoma",Unknown,High,C286,"Yes, we're at a pool and I have a little girl that keeps down and she's not breathing. Trying to keep you all right now."
+AUD-287,Audio,Building fire,"312 Washington Avenue, California",Unknown,High,C287,"My neighbors helped us bring down at 312 Washington Avenue. We're on our way, is anybody inside?"
+AUD-288,Audio,Medical emergency,"Davis County, Utah",Unknown,High,C288,I can see why I knew that I was happy with you. I love you.
+AUD-289,Audio,Building fire,California,Unknown,High,C289,I'm reporting an airplane crash at the phone. An airplane crash at the phone? Yeah.
+AUD-290,Audio,Building fire,"Cisco Airport, California",Unknown,High,C290,"Hi, we just, where's the camp in Cisco Airport in our airplane just crashed upon landing."
+AUD-291,Audio,Medical emergency,"Palm Coast, Florida",Unknown,High,C291,I'm going to have a number one way to work through them.
+AUD-292,Audio,Homicide / death investigation,Kansas,Unknown,High,C292,"Yeah, this is the emergency, I'm a cab driver, this guy. He's saying..."
+AUD-293,Audio,Shooting / gun violence,Utah,Unknown,High,C293,"Can't believe. Can't believe. What happened to me, son? I don't know. I'm anywhere. Please."
+AUD-294,Audio,Threat / suspicious activity,Illinois,Unknown,Medium,C294,Help me help me quick. I'll be at the end of the conversation.
+AUD-295,Audio,Building fire,California,Unknown,High,C295,I want to merge anybody right now.
+AUD-296,Audio,Building fire,California,Unknown,High,C296,There's a fire on the Famicel Bridge if the one was ready. And on the Famicel.
+AUD-297,Audio,Shooting / gun violence,"second avenue, Georgia",Unknown,High,C297,"Yes ma'am, I'm on second avenue in the school and the gentleman said tell them to hold down to police officer."
+AUD-298,Audio,Shooting / gun violence,Iowa,Unknown,High,C298,He's in the house. He's in the house. He's in the house. He's in the house. He's in the house. He's in the house.
+AUD-299,Audio,Rescue / person trapped,"Monticello County, Arkansas",Unknown,High,C299,"Yes, I'm using the help. I'm trapped in the backside of this forest fire."
+AUD-300,Audio,Non-emergency / misuse of 911,Georgia,Unknown,Low,C300,I'm working at Mike Donald up here in our overnight seven bro
+AUD-301,Audio,Shooting / gun violence,"Washington County, Oregon",Unknown,High,C301,"Yes, I didn't tact by a man in the woods while I was hunting. Please send the police to my location."
+AUD-302,Audio,Stabbing / assault,"Joint Base Lewis-McChord, Washington",Unknown,High,C302,We're going to stop with the radio lighting and electric supply building. Rainier lighting and electric.
+AUD-303,Audio,Shooting / gun violence,Nevada,Unknown,High,C303,"Yes, this is a treasure. It's really a huge and sweet to you, school. I will. I'll hear you."
+AUD-304,Audio,Traffic collision,"York County, North Carolina",Unknown,Medium,C304,Here seems to be a bad fight. Next door.
+AUD-305,Audio,Missing person / abduction,"South Daytona, Florida",Unknown,Medium,C305,I am thinking of that and we are being followed. It's the honey we kill me.
+AUD-306,Audio,Shooting / gun violence,North Carolina,Unknown,High,C306,"I think some people are shooting. Okay, and this is text. Okay."
+AUD-307,Audio,Shooting / gun violence,Canada,Unknown,High,C307,"I'm about to kill people. You're about to kill people? Yes. I had a deadly weapon, I..."
+AUD-308,Audio,Stabbing / assault,"Orange County, Florida",Unknown,High,C308,"Oh, hello. Hello."
+AUD-309,Audio,Stabbing / assault,Ohio,Unknown,High,C309,"Um, my friend, it was my very first trip through and out to now."
+AUD-310,Audio,Missing person / abduction,"Washtenaw County, Michigan",Unknown,Medium,C310,"I'm going to have to go on my side with a good nap. What's your address, ma'am? I'm glad you're..."
+AUD-311,Audio,Suicide / self-harm,"Greenwood, South Carolina",Unknown,High,C311,"Oh, I'm just very about."
+AUD-312,Audio,Shooting / gun violence,North Carolina,Unknown,High,C312,"I guess it was a long-distance workout and the way you come running out fods and some man is in there, it's eating everywhere."
+AUD-313,Audio,Animal attack,Oregon,Unknown,Medium,C313,"Okay, I met a wild cat who's in. We've had a one of our keepers."
+AUD-314,Audio,Shooting / gun violence,Arizona,Unknown,High,C314,This might go to five weeks after. I got the peak with my yard and the dog is in my yard.
+AUD-315,Audio,Shooting / gun violence,"Prescott, Arizona",Unknown,High,C315,"I've been called over to my father-in-law, because he ought to fall with my mother-in-law. He's been flacing up himself."
+AUD-316,Audio,Homicide / death investigation,"Clarksville, Indiana",Unknown,High,C316,"My girlfriend is right and I think she's dead. I need someone here now. Okay, she breathing."
+AUD-317,Audio,Shooting / gun violence,Connecticut,Unknown,High,C317,"I'm sorry. Anyhoc's cool. I think there's somebody shooting in here. Anyhoc's cool. Okay, what makes you..."
+AUD-318,Audio,Shooting / gun violence,Connecticut,Unknown,High,C318,"Hey, look at all the magic school. 12 Bickets and Drive. Yeah, I've got that. What's going on down there? I believe that you..."
+AUD-319,Audio,Shooting / gun violence,Connecticut,Unknown,High,C319,"I'm a teacher in the school. Okay, where are you in the school?"
+AUD-320,Audio,Shooting / gun violence,Iowa,Unknown,High,C320,"Yes, my husband's on phone. There's a car here within a cell rifle shooting it's police and they've never had a house"
+AUD-321,Audio,Shooting / gun violence,Illinois,Unknown,High,C321,"Oh, please, please. This is one nine Wind him court with"
+AUD-322,Audio,Shooting / gun violence,Illinois,Unknown,High,C322,"by the door. If anybody comes down here, I'm sure you're here. Okay, don't. We don't want to shoot anybody else, okay?"
+AUD-323,Audio,Medical emergency,"the court, Washington",Unknown,High,C323,We got a two-and-a-half wait on the court moaning.
+AUD-324,Audio,Medical emergency,"Barnstable, Massachusetts",Unknown,High,C324,I have a nine week old infant and he just stopped breathing. Okay.
+AUD-325,Audio,Shooting / gun violence,Nevada,Unknown,High,C325,We believe that there is a shooter. We are looking to stop.
+AUD-326,Audio,Shooting / gun violence,Nevada,Unknown,High,C326,I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a camera. I'm wearing a ca
+AUD-327,Audio,Shooting / gun violence,Arizona,Unknown,High,C327,The gunshot wound to the chest. Thank you.
+AUD-328,Audio,Shooting / gun violence,Arizona,Unknown,High,C328,Can you hold for just a second? I just saw somebody run into the Compass Bank on Thomas in 20.
+AUD-329,Audio,Building fire,"Casselton, North Dakota",Unknown,High,C329,"no railroad tracks, you've got to train that key rail to the National Fire."
+AUD-330,Audio,Medical emergency,"Reedsburg, Wisconsin",Unknown,High,C330,"I have a baby who is sleeping. My everything is done. I have a hooded, I have a coffee TV. She's a big head."
+AUD-331,Audio,Shooting / gun violence,New Jersey,Unknown,High,C331,"And the emergency. Yes, there's no word to see us. I'm going to go down to the small parking lot. I'm going to go down to the parking lot. I'm going to go down to the parking lot."
+AUD-332,Audio,Stabbing / assault,South Carolina,Unknown,High,C332,"I'm going to have a water to see the band out. Alright, hold on, first you're a self-esteem. I'm going to hold."
+AUD-333,Audio,Shooting / gun violence,"Pasco County, Florida",Unknown,High,C333,"So there's when it goes shot at the Comse Theater, Burry Theater, Cobb and West Chapel Gunshots are checked."
+AUD-334,Audio,Shooting / gun violence,Maryland,Unknown,High,C334,I'm gonna come over with what is your name? What is your name? I'm gonna have you! I'm gonna have you!
+AUD-335,Audio,Stabbing / assault,North Carolina,Unknown,High,C335,"Look right here. He's been stabbed really bad. Okay, if he breathe a man"
+AUD-336,Audio,Burglary / robbery / intruder,Illinois,Unknown,High,C336,"I'm going to go for a party, a party, a party, a party, a party, a party."
+AUD-337,Audio,Stabbing / assault,Wisconsin,Unknown,High,C337,"My daughter took a hand-out-bouncy ball. Okay, and you're at 25, 25 North 10th Street? Yes."
+AUD-338,Audio,Homicide / death investigation,Florida,Unknown,High,C338,"Well, I'm 41 going south and I'm going to do a cross-street right now."
+AUD-339,Audio,Building fire,"Livingston County, Michigan",Unknown,High,C339,I have a dream to do better! Where's the fire at? I'm not. Where's not?
+AUD-340,Audio,Shooting / gun violence,Michigan,Unknown,High,C340,a bad police chief with having a vehicle pulled across the street in the resident. Come out and shot it.
+AUD-341,Audio,Homicide / death investigation,Florida,Unknown,High,C341,"I've been taken out of my house at gunpoint. I'm going to head to this, I'm going to head to the police station."
+AUD-342,Audio,Homicide / death investigation,Kentucky,Unknown,High,C342,"and my neighbor is not from my door. And our husband's mission, we went down to where the mail box is."
+AUD-343,Audio,Shooting / gun violence,North Carolina,Unknown,High,C343,"I'm gonna go just to out of my arms or watch me with me. But I'm gonna cry, I'm shocking to die and be stupid."
+AUD-344,Audio,Medical emergency,Texas,Unknown,High,C344,on. Land is on the ground. I didn't go and check you. At Mel is on the ground? Yes.
+AUD-345,Audio,Shooting / gun violence,"Roanoke, Texas",Unknown,High,C345,this is Kaller with a transfer at your best western. I'm a one-shot can someone has been shot in the next. Go to the next one.
+AUD-346,Audio,Missing person / abduction,North Carolina,Unknown,Medium,C346,We're missing a child. Three years old. You're missing a three year old.
+AUD-347,Audio,Medical emergency,"Sarasota County, Florida",Unknown,High,C347,What happened? My wife's pregnant. She's an excuse to make the hospital. She said she can't read the word.
+AUD-348,Audio,Weather / environmental emergency,"top road, Missouri",Unknown,Medium,C348,emergency yes I am on top road I am in water and it's taken me away yay ma'am we're on the
+AUD-349,Audio,Shooting / gun violence,Florida,Unknown,High,C349,"Okay, 134, transferring it was shooting within three, that fixed seven, few, okay. Yeah, I'm not."
+AUD-350,Audio,Homicide / death investigation,"Boise, Idaho",Unknown,High,C350,My walk up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up up
+AUD-351,Audio,Burglary / robbery / intruder,Massachusetts,Unknown,High,C351,color on the line she's uh... gotta be quiet somebody just broken to our support thirty six low-
+AUD-352,Audio,Shooting / gun violence,"Seminole County, Florida",Unknown,High,C352,"Hello, my mom and dad. Okay, so it's medical. Is it medical, sir?"
+AUD-353,Audio,Burglary / robbery / intruder,Florida,Unknown,High,C353,I've got a woman in my bank pointing a rifle at all of us and all of our customers. I need police now
+AUD-354,Audio,Weather / environmental emergency,"Allegan County, Michigan",Unknown,Medium,C354,We want contact with two carriers with a carrier and come out.
+AUD-355,Audio,Medical emergency,"Tarrant County, Texas",Unknown,High,C355,We need an evidence we're going on. My mom is...
+AUD-356,Audio,Homicide / death investigation,"Concord, North Carolina",Unknown,High,C356,"Okay, what's the problem on rolling all the stuff? What? Something rolling all the stuff, believe it. What do you mean, something?"
+AUD-357,Audio,Medical emergency,Edgecombe County,Unknown,High,C357,"Our little boy stop breathing. Is he breathing now? No, he's not."
+AUD-358,Audio,Shooting / gun violence,Indiana,Unknown,High,C358,"Yes, I'll pass off the map. You put on 10 straight on there for the court. OK, you did."
+AUD-359,Audio,Medical emergency,Oklahoma,Unknown,High,C359,"And then mother said that. Okay, your mama fell down. Yeah. Okay, where are you at?"
+AUD-360,Audio,Homicide / death investigation,Texas,Unknown,High,C360,"My kids have their Mrs. 3 o'clock today, my 7-year-old and my 3-year-old, giving it the"
+AUD-361,Audio,Missing person / abduction,North Carolina,Unknown,Medium,C361,And has been missing since 7 o'clock this morning.
+AUD-362,Audio,Burglary / robbery / intruder,"Orange County, Florida",Unknown,High,C362,I have someone here that I need to be arrested in my home.
+AUD-363,Audio,Non-emergency / misuse of 911,Florida,Unknown,Low,C363,Thank you everyone. And I'll... We'll get in the morning.
+AUD-364,Audio,Public safety / unusual incident,"Fulton County, Florida",Unknown,Low,C364,Thank you everyone. And I'll... We'll get in the morning.
+AUD-365,Audio,Non-emergency / misuse of 911,Florida,Unknown,Low,C365,Thank you everyone. And I'll... We'll get in the morning.
+AUD-366,Audio,Public safety / unusual incident,"Fulton County, Florida",Unknown,Low,C366,Thank you everyone. And I'll... We'll get in the morning.
+AUD-367,Audio,Building fire,Florida,Unknown,High,C367,Thank you. Thank you. Thank you. Thank you. Thank you. Thank you.
+AUD-368,Audio,Water emergency / drowning,"Lebanon, Ohio",Unknown,High,C368,"Oh, my wife, go for you in the dance club and I think she gets."
+AUD-369,Audio,Animal attack,"Anchorage, Alaska",Unknown,Medium,C369,But we have a bear mauling. I am out on the trail. I just am fortunate to start.
+AUD-370,Audio,Stabbing / assault,Texas,Unknown,High,C370,And then I want to show you what I'm saying.
+AUD-371,Audio,Medical emergency,Washington,Unknown,High,C371,This is American squad Mike. I'm a local hot guy. Can I get to it?
+AUD-372,Audio,Traffic collision,Nevada,Unknown,Medium,C372,"North-on figure star looks like we have aircraft, so I'm going to lay down and turn the there's"
+AUD-373,Audio,Traffic collision,Nevada,Unknown,Medium,C373,23-13 what? 23-13 Cab This is 23-13 Cambridge Yes
+AUD-374,Audio,Public safety / unusual incident,"Jefferson County, Tennessee",Unknown,Low,C374,"Oh, I'm sorry, I've got to remember."
+AUD-375,Audio,Non-emergency / misuse of 911,"King County, Washington",Unknown,Low,C375,"Yes, I walked in my car and you're not in your car out of your car. Yes, in my car."
+AUD-376,Audio,Stabbing / assault,Nevada,Unknown,High,C376,It's a little far from here to come. Hello. You get me to come.
+AUD-377,Audio,Child welfare / unattended child,Massachusetts,Unknown,Medium,C377,"So, child has been left on my doorstep. Okay. What's your address?"
+AUD-378,Audio,Medical emergency,Arizona,Unknown,High,C378,I'm going to be in the room.
+AUD-379,Audio,Traffic collision,California,Unknown,Medium,C379,"There's a big crew of plaques, maybe. So it's connoza pole of art in the 180."
+AUD-380,Audio,Traffic collision,California,Unknown,Medium,C380,It was a train just quite outside of our metro link.
+AUD-381,Audio,Rescue / person trapped,Tennessee,Unknown,High,C381,"Yes, my am one name is Special Aegas Richard A. Smith, badge number zero time."
+AUD-382,Audio,Burglary / robbery / intruder,"Tarrant County, Texas",Unknown,High,C382,"We'll be in the office, I'll drive on now. Please, please. We're all bleeding."
+AUD-383,Audio,Medical emergency,Massachusetts,Unknown,High,C383,"Well, it's a staple piece in the channel. Let's go for this having a baby right now. Okay, sir."
+AUD-384,Audio,Medical emergency,"Central County, Missouri",Unknown,High,C384,I don't know if I'll make it. I'm trying to...
+AUD-385,Audio,Stabbing / assault,Florida,Unknown,High,C385,My book runs outside. He's been stabbed. Okay. And he's...
+AUD-386,Audio,Shooting / gun violence,California,Unknown,High,C386,I'm the guy that's in a big trouble right now. You're in pretty big trouble? What's your name?
+AUD-387,Audio,Burglary / robbery / intruder,Indiana,Unknown,High,C387,"Yes, I think somebody's breaking into my house. Please, okay, stay on the phone. Why did you think someone's trying to break it?"
+AUD-388,Audio,Traffic collision,Texas,Unknown,Medium,C388,I like going to the fabric where I got land over by the rail going.
+AUD-389,Audio,Burglary / robbery / intruder,"Stark County, Ohio",Unknown,High,C389,I think my son's been looking. We're at. We're in the Evergrip.
+AUD-390,Audio,Shooting / gun violence,North Carolina,Unknown,High,C390,"be not very as warm, crazy. I think you're going to try to tell yourself. I need an aim."
+AUD-391,Audio,Rescue / person trapped,Virginia,Unknown,High,C391,"Well, I sent an emergency computer wide on one leg on one side at the cam drawbridge on 95."
+AUD-392,Audio,Public safety / unusual incident,"Milwaukee County, Wisconsin",Unknown,Low,C392,Come on. Yeah! More now! Yeah! Nothing more about it!
+AUD-393,Audio,Medical emergency,Texas,Unknown,High,C393,or you into the TFA agent that looked like you're giving a heart attack or stroke or something is just rushing.
+AUD-394,Audio,Shooting / gun violence,Colorado,Unknown,High,C394,"Well, I just got a phone call saying that my friend, she was in a basement apartment in that house. And apparently the bl-"
+AUD-395,Audio,Stabbing / assault,California,Unknown,High,C395,There's a fire way here off of Broadway. Broadway and Poyce.
+AUD-396,Audio,Homicide / death investigation,Utah,Unknown,High,C396,on there. We just came in to my sister's house and she's on the floor for the girl's image.
+AUD-397,Audio,Homicide / death investigation,"Carlsbad, New Mexico",Unknown,High,C397,My girlfriend went left last night. We were at the Stephen Ball and Stephen Hill.
+AUD-398,Audio,Stabbing / assault,Oregon,Unknown,High,C398,My cat attacked our seven-month-old child.
+AUD-399,Audio,Medical emergency,Florida,Unknown,High,C399,and my friend is out with drinking and she woke me up and she sick and now she's not responding.
+AUD-400,Audio,Building fire,"Jersey City, New Jersey",Unknown,High,C400,and it's a fire at somebody else called the show. I'm going to go to the Avenue. It's not very alumnus.
+AUD-401,Audio,Building fire,"Jersey City, New Jersey",Unknown,High,C401,"28 grand. We need for money from all you'd need to find you at the house. We need a grand in any apartment or... Yes, please, please."
+AUD-402,Audio,Homicide / death investigation,"Anderson, South Carolina",Unknown,High,C402,"We've seen somebody just, I've seen one by following, showing just a little bit."
+AUD-403,Audio,Water emergency / drowning,California,Unknown,High,C403,I am very very happy to be here. I am very very happy to be here. I am very very happy to be here.
+AUD-404,Audio,Building fire,"Washington County, Oregon",Unknown,High,C404,It's somebody got shot at? Somebody got shot at?
+AUD-405,Audio,Medical emergency,"Cleveland, Ohio",Unknown,High,C405,"You want daughter or not, please. Okay, what's the address? System of 40."
+AUD-406,Audio,Building fire,"An Orange County, California",Unknown,High,C406,"The bedroom is on fire. My house is going fast. Okay, we're on the way."
+AUD-407,Audio,Homicide / death investigation,"Cambridge, North Carolina",Unknown,High,C407,"How are you doing? I'd like to report like a double motor in Cambridge, Orange. Okay, do you know that?"
+AUD-408,Audio,Shooting / gun violence,"the inside. 1-75 air bore road, Georgia",Unknown,High,C408,1-6-25 air bore road on the inside. 1-75 air bore road.
+AUD-409,Audio,Homicide / death investigation,New York,Unknown,High,C409,I work. I work on the bed. Let me come up and shoot me. Ah?
+AUD-410,Audio,Medical emergency,"Deltona, Florida",Unknown,High,C410,I need them help. What's going on?
+AUD-411,Audio,Building fire,New York,Unknown,High,C411,If there's a fire. Give a fire what address man?
+AUD-412,Audio,Traffic collision,"Hanscom Airport, Massachusetts",Unknown,Medium,C412,I something just exploded at the end of say that okay is here any
+AUD-413,Audio,Burglary / robbery / intruder,Florida,Unknown,High,C413,I think I'm just trying to break into my home.
+AUD-414,Audio,Medical emergency,"Gaston County, North Carolina",Unknown,High,C414,"Oh, my famous grandmother has been a lot of help from. He's unconscious and a fool. Okay, man."
+AUD-415,Audio,Homicide / death investigation,"Clackamas County, Oregon",Unknown,High,C415,I just shot my mother and my... You shot your mother?
+AUD-416,Audio,Shooting / gun violence,"third avenue, Washington",Unknown,High,C416,I guess we'll just ask a shooting on third avenue and Nickerson.
+AUD-417,Audio,Weather / environmental emergency,Florida,Unknown,Medium,C417,"Hi, I'm not going to see you right now. You're so glad I made you. I'm going to blow from you."
+AUD-418,Audio,Traffic collision,Florida,Unknown,Medium,C418,Airport. We have an aircraft declaring an emergency that's going to land on the beach at Venice. Close to the airport. I'm not sure it got...
+AUD-419,Audio,Rescue / person trapped,"Rossmoor, California",Unknown,High,C419,I want to show I think someone's in. Can you hear the front door? I'm hearing those front door.
+AUD-420,Audio,Homicide / death investigation,Florida,Unknown,High,C420,"We heard them looked in, the garage door was up. I thought the gentleman was backing out and I went back."
+AUD-421,Audio,Burglary / robbery / intruder,"Wilmington, North Carolina",Unknown,High,C421,all the bars we've been robbed we've been beaten and the family dollars I'm bleeding
+AUD-422,Audio,Shooting / gun violence,Nevada,Unknown,High,C422,I have a gun range officer that got shot in the head. We're at a temperature to point
+AUD-423,Audio,Shooting / gun violence,"Charleston County, South Carolina",Unknown,High,C423,"I need a 10 minutes right now for you. Okay, what's the address?"
+AUD-424,Audio,Traffic collision,"Muskegon, Michigan",Unknown,Medium,C424,"We go up to this lady, she's laying in the road. I think she would hit by a car. You got to head in, Dree."
+AUD-425,Audio,Shooting / gun violence,"Guilford County, North Carolina",Unknown,High,C425,"I don't really know where I'm at, but more on my crew, this guy Rob, did he got shot? Okay. Fun."
+AUD-426,Audio,Stabbing / assault,Colorado,Unknown,High,C426,She's got me. Who got you? There's home now. Hold on.
+AUD-427,Audio,Shooting / gun violence,Arizona,Unknown,High,C427,"Please have me, please try to get my house. I wonder what are they doing? They've tied my fund on my schedule right now."
+AUD-428,Audio,Shooting / gun violence,New Mexico,Unknown,High,C428,"There's been a shooting on the shot in the end of the cat. It will be... Stop, stop, okay. It's the enders."
+AUD-429,Audio,Missing person / abduction,"Bountiful, Utah",Unknown,Medium,C429,"I love me, I do have a lawyer. Are you at a house? Where's the house? Are you?"
+AUD-430,Audio,Homicide / death investigation,"Gilchrist County, Florida",Unknown,High,C430,"Yes, man, I just shot my daughter and shot all my grandkids."
+AUD-431,Audio,Shooting / gun violence,"Northbound on Redwood Road, Utah",Unknown,High,C431,I'm not finding ways to work on Northbound on Redwood Road.
+AUD-432,Audio,Shooting / gun violence,California,Unknown,High,C432,I don't want to be here.
+AUD-433,Audio,Building fire,Oklahoma,Unknown,High,C433,I've got a ride from someone with teeth for a cold. My 35-7.
+AUD-434,Audio,Shooting / gun violence,Ohio,Unknown,High,C434,"And there was a guy and it was a pesto, you know, it was probably a friend, but he's like pointing at everybody."
+AUD-435,Audio,Shooting / gun violence,North Carolina,Unknown,High,C435,"I'll shut my husband. Please fill the shots with me. Okay, hold on for me. Okay."
+AUD-436,Audio,Missing person / abduction,"Seminole County, Florida",Unknown,Medium,C436,"I'm sorry, there's a situation here. We have residents that I think they store a car."
+AUD-437,Audio,Water emergency / drowning,"Cherokee County, Georgia",Unknown,High,C437,I'm in a glowing lake where I look away.
+AUD-438,Audio,Homicide / death investigation,Arizona,Unknown,High,C438,I think it's murder. What makes you think that? Because
+AUD-439,Audio,Medical emergency,California,Unknown,High,C439,So under in my husband's head eyes are rolling back. He is just not breathing.
+AUD-440,Audio,Burglary / robbery / intruder,"New Britain, Connecticut",Unknown,High,C440,I just received a call for a few minutes ago from one of our VP's who states that he's
+AUD-441,Audio,Animal attack,"the park 31st Avenue, Arizona",Unknown,Medium,C441,There's a Dig Man at the park 31st Avenue in Valmont.
+AUD-442,Audio,Shooting / gun violence,"Riverside County, California",Unknown,High,C442,"Yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, "
+AUD-443,Audio,Shooting / gun violence,North Carolina,Unknown,High,C443,There has been four done for us. Close to a second. And it doesn't fail.
+AUD-444,Audio,Homicide / death investigation,"Warren County, New Jersey",Unknown,High,C444,"Oh, and I cut my wife. Oh, we're gonna dance up and I think she gets. I want you at the address."
+AUD-445,Audio,Missing person / abduction,North Carolina,Unknown,Medium,C445,"We just found the body of a baby, my grandson."
+AUD-446,Audio,Shooting / gun violence,"Lincoln County, North Carolina",Unknown,High,C446,I would have brought behind him and his brother-in-law went off and I called down there because I was saying this.
+AUD-447,Audio,Missing person / abduction,"Orange County, Florida",Unknown,Medium,C447,We have a different us counting utilities emergency this back we found a human skull. Oh my gosh.
+AUD-448,Audio,Shooting / gun violence,"West Palm Beach, Florida",Unknown,High,C448,I don't want to want to emergency. I need a police to come to my...
+AUD-449,Audio,Shooting / gun violence,Florida,Unknown,High,C449,Hello? Like that in my uncle just got shot. Okay. I don't know how to let go. Two people shot it this time.
+AUD-450,Audio,Building fire,California,Unknown,High,C450,"on the side of the dive. And you can tell my little cousin right now. Okay, can you tell us?"
+AUD-451,Audio,Shooting / gun violence,North Carolina,Unknown,High,C451,We're gonna be my brother. He was playing like gluten. I went this gun and he ain't...
+AUD-452,Audio,Medical emergency,Kansas,Unknown,High,C452,My brother's drowning. Where are you at? I don't have a hat.
+AUD-453,Audio,Homicide / death investigation,"Putnam County, Florida",Unknown,High,C453,"My god, my girlfriend is here today. Call him out, sir. He'll breathe it."
+AUD-454,Audio,Shooting / gun violence,"LaPorte County, Indiana",Unknown,High,C454,"We have a gunshot wound accidental in the household. Okay, how old?"
+AUD-455,Audio,Stabbing / assault,"Onslow County, North Carolina",Unknown,High,C455,Somebody's a- somebody's a kid in my house. What did I get her in the head with? I- I don't wanna-
+AUD-456,Audio,Shooting / gun violence,"Walton County, Florida",Unknown,High,C456,There's a cleaning out of rock your road at 9.6.
+AUD-457,Audio,Medical emergency,Ohio,Unknown,High,C457,"I don't know what this kid has done, she's like going into a seizure or something, and I don't know, magic."
+AUD-458,Audio,Shooting / gun violence,"Portage County, Indiana",Unknown,High,C458,"I got my gun out. There's somebody trying to get him on home. Okay, alright, let's go."
+AUD-459,Audio,Fall / accidental injury,"English. Volusia County, Florida",Unknown,Medium,C459,I can hear your screen.
+AUD-460,Audio,Medical emergency,California,Unknown,High,C460,"I'm going to bathe the orange boulder creek. We need to get the sutter. Okay, what's problem? Something exactly what happened?"
+AUD-461,Audio,Building fire,"Woods Cross, Utah",Unknown,High,C461,"Where's your emergency? I'll get a fire, a sewer-ring or a fire-ring toy. Hold on just a second. Slow down. What's the address?"
+AUD-462,Audio,Domestic disturbance,"Dane County, Wisconsin",Unknown,Medium,C462,I just came home the door was busted in and my girlfriend's in shock.
+AUD-463,Audio,Traffic collision,New York,Unknown,Medium,C463,"It just flashed into the Hudson River, a U.S. there."
+AUD-464,Audio,Public safety / unusual incident,Florida,Unknown,Low,C464,I have the guy he just sees. He's really interested in him. It was screaming in the details. He's a monster. Okay.
+AUD-465,Audio,Shooting / gun violence,Tennessee,Unknown,High,C465,I've got a burger. A burger. Yes I am. Hand the burger.
+AUD-466,Audio,Public safety / unusual incident,"Sarasota County, Florida",Unknown,Low,C466,"Okay, here's the baby. We're not going to be on the damn alien cabin move. 12-80 Island."
+AUD-467,Audio,Water emergency / drowning,Utah,Unknown,High,C467,"Can I help you? Sir, we have a couple of people who've kicked over in the great sult-lake. I've got them on the line."
+AUD-468,Audio,Building fire,"Contra Costa County, California",Unknown,High,C468,"and I am not a student, I am a bad student and in she can't."
+AUD-469,Audio,Non-emergency / misuse of 911,Florida,Unknown,Low,C469,"I'm coming here to write something. I listen to that. When I get that, I'm in the window."
+AUD-470,Audio,Threat / suspicious activity,Texas,Unknown,Medium,C470,"Yeah, I will try to find out if I need to bring like any chick stubs or a"
+AUD-471,Audio,Shooting / gun violence,Maryland,Unknown,High,C471,"I see some activity going on in the car and I don't think it's proper. Okay, well, for that activity, is it, sir? It looks like..."
+AUD-472,Audio,Building fire,"Buck County, Pennsylvania",Unknown,High,C472,It's the emergency 911 emergency 340 oil.
+AUD-473,Audio,Burglary / robbery / intruder,"Columbus, Ohio",Unknown,High,C473,You saw this door. Someone what? We just got this office door.
+AUD-474,Audio,Stabbing / assault,"Stamford, Connecticut",Unknown,High,C474,What's wrong with me? What's wrong with me?
+AUD-475,Audio,Traffic collision,"Marshfield, Wisconsin",Unknown,Medium,C475,It does crash. What plane? A plane crashed on 17th and Lincoln in houses.
+AUD-476,Audio,Homicide / death investigation,"Forest County, Wisconsin",Unknown,High,C476,like gunshots being fired. Okay. I don't know where they're coming from. It was too-
+AUD-477,Audio,Shooting / gun violence,"Wheatridge, Colorado",Unknown,High,C477,"My girlfriend, she has a sex boyfriend and she's been talking to hell out of her. Okay, just talking, I'll be-"
+AUD-478,Audio,Building fire,"Cushing, Oklahoma",Unknown,High,C478,"We just got to call back somebody at shock, somebody in the health of Moses."
+AUD-479,Audio,Homicide / death investigation,"Pearland, Texas",Unknown,High,C479,"with me, all of a kid nothing from my kids. So, we'll get that."
+AUD-480,Audio,Shooting / gun violence,Indiana,Unknown,High,C480,of gentlemen in the center room. I think a big epox allowed it to go through.
+AUD-481,Audio,Homicide / death investigation,Massachusetts,Unknown,High,C481,"I have been doing the same at the end of the day, two thousand million gas at a five-year."
+AUD-482,Audio,Homicide / death investigation,"the highway, Texas",Unknown,High,C482,But then the man lying on the highway. He's lying down at the area of the blood on his arm.
+AUD-483,Audio,Shooting / gun violence,Florida,Unknown,High,C483,He's coming! He's coming! He's coming!
+AUD-484,Audio,Stabbing / assault,"Kent County, Michigan",Unknown,High,C484,I am a bamboo jap for your new neck and a broken neck and I am sick here. What? I am king.
+AUD-485,Audio,Non-emergency / misuse of 911,Florida,Unknown,Low,C485,I ordered a stupid chicken leg at the wooden floor by.
+AUD-486,Audio,Burglary / robbery / intruder,Texas,Unknown,High,C486,somebody just somebody just come in and put us out of the car and put us on the car. Somebody needs all on each day.
+AUD-487,Audio,Threat / suspicious activity,California,Unknown,Medium,C487,Help me. I was by me. My son is my thing. I'm going crazy. So I'm going crazy.
+AUD-488,Audio,Homicide / death investigation,South Carolina,Unknown,High,C488,"I'm getting into cop. I'm doing shot. Two, four, two, one, go. Give a shot. We're back up."
+AUD-489,Audio,Shooting / gun violence,"Berkeley County, South Carolina",Unknown,High,C489,Brian Tessen's 7-1 back form circle and he is wrestling us to get in my house.
+AUD-490,Audio,Shooting / gun violence,Tennessee,Unknown,High,C490,"I can't make a belief like that, I'm not happy. Yes, man, we just got, we just got to avoid breaking in our corner."
+AUD-491,Audio,Stabbing / assault,Florida,Unknown,High,C491,My boyfriend just stabbed the hell out of me and started in my head and my nerve in my head.
+AUD-492,Audio,Building fire,Oklahoma,Unknown,High,C492,"My apartment is on fire, you can't hear it! Okay, stay on the line with me, don't leave it. Don't leave it!"
+AUD-493,Audio,Building fire,"Parsippany, New Jersey",Unknown,High,C493,"I'm a March American fan. Oh, this is going to come! It doesn't take no doubt."
+AUD-494,Audio,Traffic collision,"Gaithersburg, Maryland",Unknown,Medium,C494,"talking them. Yes, I am playing just with them. I think he had a parachute on him, a I'd like to take care of students."
+AUD-495,Audio,Building fire,New York,Unknown,High,C495,"What's the problem there? There's a fire on pregnant. There's a fire on the house. There's a fire on the house. Yes, please. Okay, get outside."
+AUD-496,Audio,Stabbing / assault,Connecticut,Unknown,High,C496,My wife has now...
+AUD-497,Audio,Homicide / death investigation,Florida,Unknown,High,C497,I have a quick story for a co-worker. She just called in and sounded very...
+AUD-498,Audio,Medical emergency,Florida,Unknown,High,C498,"a wide female pastor pass out on one of our vehicles, which was 2122."
+AUD-499,Audio,Non-emergency / misuse of 911,"Haltom City, Texas",Unknown,Low,C499,"I'm going to turn this to a 25-hour bus here. I'll just hit the 2-hour bus, so I'll tell you something."
+AUD-500,Audio,Homicide / death investigation,California,Unknown,High,C500,"I don't know there's a lady laying out here on the sidewalk. Okay, are you with the lady?"
+AUD-501,Audio,Burglary / robbery / intruder,"Palm Beach County, Florida",Unknown,High,C501,"Hi, my name is Gene Thomas. I'm watching my home online monitor and there's a black man in my house and he's robbing"
+AUD-502,Audio,Medical emergency,"Collier County, Florida",Unknown,High,C502,"I'm going to start getting them out and out and be funny black. I'm going to get them away and what's me, are you with them now?"
+AUD-503,Audio,Shooting / gun violence,"Botetourt County, Virginia",Unknown,High,C503,There is a strange man outside our home and he's taller.
+AUD-504,Audio,Stabbing / assault,"Prescott, Arizona",Unknown,High,C504,"We're ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, ready, r"
+AUD-505,Audio,Medical emergency,"Montcalm County, Michigan",Unknown,High,C505,"man, my wife is in the bathroom, she's bleeding over the place, she thinks she's having a"
+AUD-506,Audio,Shooting / gun violence,Ohio,Unknown,High,C506,"and since they didn't read and we just got robbed. Okay, what do you look like?"
+AUD-507,Audio,Public safety / unusual incident,California,Unknown,Low,C507,I've got a person here who is not fit to drive and needs to be taken faster.
+AUD-508,Audio,Shooting / gun violence,"Temecula, California",Unknown,High,C508,"because my chain of lady, she was yelling for half. It looked like she had a blood all over."
+AUD-509,Audio,Shooting / gun violence,"Temecula, California",Unknown,High,C509,"There's somebody killed someone. Okay, ask her where the suspect is."
+AUD-510,Audio,Shooting / gun violence,Wisconsin,Unknown,High,C510,He said that shot the gunfire. Where are we? Can you go out to my east?
+AUD-511,Audio,Domestic disturbance,"Hoffman Estates, Illinois",Unknown,Medium,C511,I need an ambulance to do it. Somebody just come and click to have a test.
+AUD-512,Audio,Weather / environmental emergency,Tennessee,Unknown,Medium,C512,It is confirmed rotation on the ground. It's run a warehouse off of three quits.
+AUD-513,Audio,Weather / environmental emergency,Tennessee,Unknown,Medium,C513,way into the north I've seen a funnel cloud just reporting my first exciting driving.
+AUD-514,Audio,Weather / environmental emergency,Tennessee,Unknown,Medium,C514,We just got in the tornado and the chorus list and the windows were seen and we're bleeding.
+AUD-515,Audio,Weather / environmental emergency,Tennessee,Unknown,Medium,C515,"I told you this camera crows, they're safe 24. Thank you."
+AUD-516,Audio,Weather / environmental emergency,Tennessee,Unknown,Medium,C516,"Yeah, I have a rotating cloud coming in the southwest of Regis Eap Park."
+AUD-517,Audio,Weather / environmental emergency,Tennessee,Unknown,Medium,C517,Are you a little bit tornadoes down off the broad and moral are you heart-car now? I'm looking at
+AUD-518,Audio,Weather / environmental emergency,Tennessee,Unknown,Medium,C518,We can see a tornado we're at 914-year-old Chris. We have about five adults.
+AUD-519,Audio,Medical emergency,"Ada County, Idaho",Unknown,High,C519,I'm my mom. She's sick and she's telling us that. She can't wake up.
+AUD-520,Audio,Traffic collision,"Rochester, New York",Unknown,Medium,C520,We stand up and eat the meals to the college. We're out of the green people. We're out of the green people. We're out of the green people. We're out of the green people.
+AUD-521,Audio,Shooting / gun violence,Iowa,Unknown,High,C521,Where's the guy with a gun in the case of the range? Which case is the Lincoln Y one?
+AUD-522,Audio,Shooting / gun violence,New York,Unknown,High,C522,I just wanted to sit in this house like this. You can't even hear this. Who is that? That's the course to be my side.
+AUD-523,Audio,Missing person / abduction,Florida,Unknown,Medium,C523,[No intelligible speech detected]
+AUD-524,Audio,Stabbing / assault,Wisconsin,Unknown,High,C524,"Okay, so I might be fine. Okay, six, one, five. Okay. Okay."
+AUD-525,Audio,Building fire,Ohio,Unknown,High,C525,"and then Warren there's a fire back here at someone's front porch. Okay, where you need the fire department ma'am."
+AUD-526,Audio,Public safety / unusual incident,"Jersey City, New Jersey",Unknown,Low,C526,We just saw a big airliner to see if it could have had two hard planes and bullets.
+AUD-527,Audio,Public safety / unusual incident,"Jersey City, New Jersey",Unknown,Low,C527,"So we'll we'll we'll we'll turn. Okay, thank you."
+AUD-528,Audio,Public safety / unusual incident,"Jersey City, New Jersey",Unknown,Low,C528,emergency. Oh that's the F-18 chasing a big commercial plane around and around almost downtown Jersey. Yeah.
+AUD-529,Audio,Public safety / unusual incident,"Jersey City, New Jersey",Unknown,Low,C529,"Yes, I just had two unusual aircraft fly really close."
+AUD-530,Audio,Shooting / gun violence,"Santa Clara County, California",Unknown,High,C530,I am Mrs. Anna and I'm Mrs. Anna and I'm Mrs. Anna and I'm Mrs. Anna What are your address? What are you address?
+AUD-531,Audio,Building fire,Wisconsin,Unknown,High,C531,I'm by the way the dog doesn't know in the water. And we can't get out. Oh my God.
+AUD-532,Audio,Shooting / gun violence,Georgia,Unknown,High,C532,just walk up and then we're several done job. Okay sir. Stay with me okay?
+AUD-533,Audio,Homicide / death investigation,Maryland,Unknown,High,C533,"If not, I'm calling from the Sheraton Gulf of Wernher. Yes, sir. We have a dead body in one of our roosians."
+AUD-534,Audio,Stabbing / assault,"Rochester, New York",Unknown,High,C534,"because they just jumped back 13-year-old the water, and it's about to be on a 4-week-old one."
+AUD-535,Audio,Shooting / gun violence,Texas,Unknown,High,C535,We got off the dam. What do you mean you have an old- I don't have a whole bunch off the dam. What do you-
+AUD-536,Audio,Shooting / gun violence,Texas,Unknown,High,C536,We got a motherfucker.
+AUD-537,Audio,Shooting / gun violence,Texas,Unknown,High,C537,"you know, love you to shut down. You heard what? I think love you is quite down."
+AUD-538,Audio,Shooting / gun violence,"Sandusky, Ohio",Unknown,High,C538,It's too late. And the high-range head...
+AUD-539,Audio,Homicide / death investigation,North Carolina,Unknown,High,C539,we have a dead body right out in front of our school on the grassy area but we're at the John C. Dorothy B. Johnson location
+AUD-540,Audio,Shooting / gun violence,New York,Unknown,High,C540,[No intelligible speech detected]
+AUD-541,Audio,Homicide / death investigation,"Cascade County, Montana",Unknown,High,C541,I just called over to my sister's house and I have a felon.
+AUD-542,Audio,Shooting / gun violence,"Madison County, Illinois",Unknown,High,C542,The one man followed me from the adaptation. Sam? Did he show the gun to you?
+AUD-543,Audio,Burglary / robbery / intruder,"Pima County, Arizona",Unknown,High,C543,I'm somebody just coming and shot my daughter and my husband. They shot them? Please let me check. I love my kids.
+AUD-544,Audio,Shooting / gun violence,Wisconsin,Unknown,High,C544,I'm watching TV in a heard five shots and there's only an MITRE on yard. A woman's seat.
+AUD-545,Audio,Stabbing / assault,Arizona,Unknown,High,C545,I just killed my family. Looks nice. All over me. What's your name? Michael Miller.
+AUD-546,Audio,Medical emergency,Florida,Unknown,High,C546,"Why not? Sorry, let me get down here, Jesus. Where are you? No, no, God, I'm dead."
+AUD-547,Audio,Shooting / gun violence,Florida,Unknown,High,C547,I'm going to need to increase my ambulance. I need to decrease my brother's trunk and eat to accrue my whole face.
+AUD-548,Audio,Shooting / gun violence,Utah,Unknown,High,C548,"I'm pulled over in the road, my husband's in the middle of the road having a serious like cycle."
+AUD-549,Audio,Medical emergency,Nevada,Unknown,High,C549,"Well, my husband's not, I can't seem to wake him up."
+AUD-550,Audio,Threat / suspicious activity,Texas,Unknown,Medium,C550,Now listen here. I've got two people here help us to do it. Okay. Now you know
+AUD-551,Audio,Stabbing / assault,Florida,Unknown,High,C551,"She made, we have a Burmese high-tard, and she's about 12 foot long, she got out of the cage last night and got into"
+AUD-552,Audio,Domestic disturbance,"Charleston County, South Carolina",Unknown,Medium,C552,"We were just said and talking my wife feel a problem and then she fell on the floor. Okay, what?"
+AUD-553,Audio,Homicide / death investigation,North Carolina,Unknown,High,C553,I'm going to put out a million streets up here by one of our kitcheners. Where are you at?
+AUD-554,Audio,Homicide / death investigation,Tennessee,Unknown,High,C554,"So, that's been shot. I'm not the head that I have to check the vinyls."
+AUD-555,Audio,Shooting / gun violence,"Jeffersontown, Kentucky",Unknown,High,C555,"There's a guy there with a gun. Yeah. A black and white, a black and white."
+AUD-556,Audio,Shooting / gun violence,"Jeffersontown, Kentucky",Unknown,High,C556,plant that drats and guys walk around I'm talking about looking from the work that I've done he's just I can make some money to get my address please
+AUD-557,Audio,Shooting / gun violence,"Jeffersontown, Kentucky",Unknown,High,C557,The man on the phone says there's a man on his property with a gun. Okay. And that's where the person is supposed to be.
+AUD-558,Audio,Animal attack,Florida,Unknown,Medium,C558,I just have been bitten by a red tail fox up in red reef park.
+AUD-559,Audio,Homicide / death investigation,"Butler County, Iowa",Unknown,High,C559,"We had a, I think a student right now on those bus born on the high school."
+AUD-560,Audio,Homicide / death investigation,Wisconsin,Unknown,High,C560,out. Maybe not working. It's not working. My babies are in there. Oh my god. I'm going to get it.
+AUD-561,Audio,Burglary / robbery / intruder,Arizona,Unknown,High,C561,I'm putting this pin in front of my daughter and my husband. They shot them? They shot them? What's your act of like a...
+AUD-562,Audio,Medical emergency,North Carolina,Unknown,High,C562,"If it's cold, it's not breathing. If it's trying to get it to CPR. Okay. Is there any way you can get..."
+AUD-563,Audio,Shooting / gun violence,"21 12 years, Washington",Unknown,High,C563,"Yeah, there's been a bunch of guns out to my house. I think a bunch of people were shot. We're at 21 12 years"
+AUD-564,Audio,Medical emergency,"Spanish., Texas",Unknown,High,C564,I am going to go to the hospital. I am going to go to the hospital. I am going to go to the hospital.
+AUD-565,Audio,Water emergency / drowning,Utah,Unknown,High,C565,I want to be your host of all the hands. We'll go to the place of the craft aid. So go and jump in after it.
+AUD-566,Audio,Traffic collision,"Bumcombe County, North Carolina",Unknown,Medium,C566,I think I just tried to get out of his car and he tried in my truck.
+AUD-567,Audio,Burglary / robbery / intruder,"Santa Fe County, New Mexico",Unknown,High,C567,"but he's been shot by calling the police and an ambulance. Yeah, does he let the horse you?"
+AUD-568,Audio,Public safety / unusual incident,"Cambridge, Massachusetts",Unknown,Low,C568,happening. I just had an older woman standing there and she had noticed two gentlemen trying to get in a house.
+AUD-569,Audio,Stabbing / assault,Texas,Unknown,High,C569,I'm not my sister! I'm not my sister! I'm not my sister!
+AUD-570,Audio,Sexual assault / stalking,Tennessee,Unknown,High,C570,I have been in the news recently about being on in a hotel naked.
+AUD-571,Audio,Shooting / gun violence,Wisconsin,Unknown,High,C571,There's a armed robbery going right on right now. I've been shot in the back and I believe you've been shot in the back Okay
+AUD-572,Audio,Stabbing / assault,"Maitland, Florida",Unknown,High,C572,My father stabbed me. He just stabbed me.
+AUD-573,Audio,Homicide / death investigation,"Orange County, Oklahoma",Unknown,High,C573,emergency. I grew up and just jumped off the back of our hotel room.
+AUD-574,Audio,Shooting / gun violence,"Bird Naut Avenue, North Carolina",Unknown,High,C574,"Yes, other guys in the shot. Okay, right here on Bird Naut Avenue and I wanted to see if the animal"
+AUD-575,Audio,Burglary / robbery / intruder,"Livingston County, Michigan",Unknown,High,C575,"No, there's people trying to break in my house. Okay, they're there right now. Right now, they just spoke a basement window."
+AUD-576,Audio,Building fire,Ohio,Unknown,High,C576,I told my girlfriend. Excuse me. Did you hear me? I want you to read.
+AUD-577,Audio,Shooting / gun violence,Tennessee,Unknown,High,C577,three black men in the middle of Russell Boulevard and one of them has like a
+AUD-578,Audio,Shooting / gun violence,Tennessee,Unknown,High,C578,"Let me see. Okay, I'm right. It's right, my wife."
+AUD-579,Audio,Shooting / gun violence,Tennessee,Unknown,High,C579,We've already got some money on the way. Can you give me any kind of description?
+AUD-580,Audio,Shooting / gun violence,"Clackamas County, Oregon",Unknown,High,C580,"There are three black gentlemen that are there. Her last in the women, Aptie."
+AUD-581,Audio,Shooting / gun violence,"Clackamas County, Oregon",Unknown,High,C581,I was at a late title. I picked $10 and these guys gave me one burger and a fries
+AUD-582,Audio,Shooting / gun violence,"Clackamas County, Oregon",Unknown,High,C582,I gave you guys 10 hours and they gave me 1 burger and a fry and told me that it's hard.
+AUD-583,Audio,Traffic collision,Iowa,Unknown,Medium,C583,"I've been running over. I've been running over. Oh, they only use real chat for..."
+AUD-584,Audio,Stabbing / assault,Ohio,Unknown,High,C584,"Yes, my husband is a Batman, I stabbed him. Okay, what's your address? 94.95."
+AUD-585,Audio,Traffic collision,"Sarasota, Florida",Unknown,Medium,C585,I'm driving and I have somebody chasing me and they just hit my car.
+AUD-586,Audio,Shooting / gun violence,North Carolina,Unknown,High,C586,"Well, I'm Jeremy Drom now, I'm just trying to figure out a thing when you get..."
+AUD-587,Audio,Fall / accidental injury,Idaho,Unknown,Medium,C587,Why don't you see what's the matter? I meant the court. I got to...
+AUD-588,Audio,Homicide / death investigation,Florida,Unknown,High,C588,I have a quick story for a co-worker. She just called in and sounded very...
+AUD-589,Audio,Homicide / death investigation,"Glynn County, Georgia",Unknown,High,C589,"I can't stand problem, you can't stand where he is at that. He's trying to himself, so I can't understand. I have a song over there."
+AUD-590,Audio,Shooting / gun violence,Utah,Unknown,High,C590,"That's been part of it and so many things out. So I'm gonna shout out. Yeah, you can shout out to her over."
+AUD-591,Audio,Shooting / gun violence,Ohio,Unknown,High,C591,Someone is getting my house within the summer.
+AUD-592,Audio,Missing person / abduction,"Ogden, Utah",Unknown,Medium,C592,I just saw a guy go into a room.
+AUD-593,Audio,Traffic collision,California,Unknown,Medium,C593,Uh-huh. It looks good. I'm sorry? I'm sorry. I like how I just stuck. Wow.
+AUD-594,Audio,Homicide / death investigation,"Boone County, Kentucky",Unknown,High,C594,just been shot through in my parents. You've been shot? Just right. Where have you been shot at? I'm in my leg.
+AUD-595,Audio,Shooting / gun violence,Wisconsin,Unknown,High,C595,Nobody just broke into a house with the address. They have to miss with the address. Shut up. You shy out?
+AUD-596,Audio,Stabbing / assault,California,Unknown,High,C596,I had just fed my daughters and myself. You just did one? I found my daughters. You stopped.
+AUD-597,Audio,Shooting / gun violence,Kentucky,Unknown,High,C597,"Wish 10 people in the house, do they have weapons? Huh? Yes. We'll catch the water."
+AUD-598,Audio,Shooting / gun violence,"Huron County, Ohio",Unknown,High,C598,"Hi, my name is Steven Rodwold and I just heard a few of my dad."
+AUD-599,Audio,Medical emergency,"Seminole County, Florida",Unknown,High,C599,The baby was breathing the mother. I had...
+AUD-600,Audio,Traffic collision,"Canyon County, Idaho",Unknown,Medium,C600,My name is Casey and I'm driving toward Don Carrio and a car went off into the media at mile marker 22.
+AUD-601,Audio,Shooting / gun violence,Arizona,Unknown,High,C601,"I just can't come back to the window. It's not too close. Is anybody hurting your house? I don't know yet, but..."
+AUD-602,Audio,Medical emergency,"Sedona, Arizona",Unknown,High,C602,Do you see that? I was breathing. It was no cold. Yes.
+AUD-603,Audio,Shooting / gun violence,"Harris County, Texas",Unknown,High,C603,What's going on? I don't know somebody put the window on now. And your house or your car?
+AUD-604,Audio,Burglary / robbery / intruder,Wisconsin,Unknown,High,C604,I'm going to tell you what's going on. I'm going to tell you what's going on. I'm going to tell you what's going on.
+AUD-605,Audio,Building fire,Florida,Unknown,High,C605,and there were some kids over here around just another kid who found another kid in all of that
+AUD-606,Audio,Building fire,Florida,Unknown,High,C606,So we'll break this car on fire and you jump inside of the swimming pool. Go see address.
+AUD-607,Audio,Homicide / death investigation,"Warren County, Ohio",Unknown,High,C607,"Oh, and I cut my wife. Oh, we're gonna dance up and I think she gets. I want you at the address."
+AUD-608,Audio,Shooting / gun violence,Minnesota,Unknown,High,C608,"that's right now. She does gone and I need them all. It's itself. Okay, what do we mean shooting?"
+AUD-609,Audio,Shooting / gun violence,Utah,Unknown,High,C609,I just killed my father anyway. You just did one?
+AUD-610,Audio,Shooting / gun violence,Iowa,Unknown,High,C610,"Yeah, I have a black guy and he says it's gonna rub the store and anyone says to give him he says he has a gun on him"
+AUD-611,Audio,Non-emergency / misuse of 911,Florida,Unknown,Low,C611,Hello? Anybody else have to? Hello? Anybody who has to have to have to?
+AUD-612,Audio,Shooting / gun violence,Florida,Unknown,High,C612,"I'm so sorry for the shooting, there's people running out of my building at work, where"
+AUD-613,Audio,Shooting / gun violence,Florida,Unknown,High,C613,"Yes ma'am, I'm having a shot. Aaaaah! Aaaaah! Please! I'm sorry, words."
+AUD-614,Audio,Stabbing / assault,New Jersey,Unknown,High,C614,"and say. Thank you, everybody. I'm watching today, everybody. I'm watching an Avenue."
+AUD-615,Audio,Burglary / robbery / intruder,"Venice, Florida",Unknown,High,C615,I'm bringing a teacher max right now. I work at Sweet Bay and a couple of ladies who work there just ran down here telling me.
+AUD-616,Audio,Burglary / robbery / intruder,"Venice, Florida",Unknown,High,C616,"We were closing with Laura and his guy, Jamie, were mad at John. I think..."
+AUD-617,Audio,Building fire,Connecticut,Unknown,High,C617,"No, sir, my neighbor came. You understand her? What's inside the baby out fire? I don't know, the lady's..."
+AUD-618,Audio,Burglary / robbery / intruder,Florida,Unknown,High,C618,"People just broken my neighbor's house. I see address, but see address."
+AUD-619,Audio,Shooting / gun violence,"West Palm Beach, Florida",Unknown,High,C619,"I think I got shot. Damn me, he repair 4203 Lake Avenue with Humbie."
+AUD-620,Audio,Shooting / gun violence,Ohio,Unknown,High,C620,"The old black one behind, shoulders with the guard. Run towards the..."
+AUD-621,Audio,Medical emergency,"Charles County, Maryland",Unknown,High,C621,"Mommy's full. If your mommy's sick, does she need a damn deal in? Mommy."
+AUD-622,Audio,Missing person / abduction,North Carolina,Unknown,Medium,C622,I woke up this morning and my daughter was not in the house. I don't know if she woke up.
+AUD-623,Audio,Shooting / gun violence,New Mexico,Unknown,High,C623,I just killed my daughter. You what? I just killed my daughter. I just killed my daughter.
+AUD-624,Audio,Stabbing / assault,Texas,Unknown,High,C624,"Mr. Schumer, thank you. Man, man, man, man, man, man, man, man, man, man."
+AUD-625,Audio,Building fire,"Palm Bay, Florida",Unknown,High,C625,I need to honor anyone quickly and honor fire fire inclusion
+AUD-626,Audio,Building fire,"Palm Bay, Florida",Unknown,High,C626,"The house is on fire, the house is blowing up. Can you dial me? Listen, we've already got a car. Is it on a lap?"
+AUD-627,Audio,Burglary / robbery / intruder,"Lincoln County, Oklahoma",Unknown,High,C627,There's a man at my back door he's trying to get in.
+AUD-628,Audio,Shooting / gun violence,Ohio,Unknown,High,C628,We're going to eat!
+AUD-629,Audio,Building fire,"Naples, Florida",Unknown,High,C629,He's trying to get his friends and coaches. He's trying to get his friends and coaches. He's trying to get his friends and coaches.
+AUD-630,Audio,Building fire,"Naples, Florida",Unknown,High,C630,"that's heading south on 951. Yeah, it's a new model truck. Looks like a Dodge or a Ford."
+AUD-631,Audio,Public safety / unusual incident,Canada,Unknown,Low,C631,"We've found an elephant walking down the street near the community center, the right 20."
+AUD-632,Audio,Homicide / death investigation,California,Unknown,High,C632,"Oh, somebody's passed out! Somebody what? Somebody's passed out!"
+AUD-633,Audio,Shooting / gun violence,Oklahoma,Unknown,High,C633,radio I have in there in the lobby with the gun. Alright is everybody okay everybody away from them?
+AUD-634,Audio,Non-emergency / misuse of 911,"Livingston County, Michigan",Unknown,Low,C634,"Can we meet a police assistance for this student? Okay, what's going on?"
+AUD-635,Audio,Domestic disturbance,"Lawton, Oklahoma",Unknown,Medium,C635,"My mom and her boyfriend, and her boyfriend, so can I have a warm up."
+AUD-636,Audio,Shooting / gun violence,"Shephersville, Kentucky",Unknown,High,C636,"accidentally shot my husband. You accidentally shot your husband? Yeah. Okay, see breathing."
+AUD-637,Audio,Medical emergency,"Reno, Nevada",Unknown,High,C637,[No intelligible speech detected]
+AUD-638,Audio,Homicide / death investigation,"Payson, Utah",Unknown,High,C638,"These came up for a bit when I made her father's father. And I said, there were not many people."
+AUD-639,Audio,Shooting / gun violence,DC,Unknown,High,C639,"and they're coming across to me at gunpoint and the 3,400 block that high would drive southeast."
+AUD-640,Audio,Homicide / death investigation,"Brooksville, Florida",Unknown,High,C640,"I think someone came in and started shooting. I don't know where I'm at, one winter's drawing. It works really long."
+AUD-641,Audio,Medical emergency,"3301 West Noelle Drive, Indiana",Unknown,High,C641,We got a baby that's not responsive. We're at 3301 West Noelle Drive.
+AUD-642,Audio,Rescue / person trapped,"Warren, Ohio",Unknown,High,C642,"I'm not many things right now, but it's all urgent. These people, they came through my door."
+AUD-643,Audio,Homicide / death investigation,"Linvingston County, Michigan",Unknown,High,C643,I'd like to call it the central robbery and my mother's a missing perk. I don't know. Yeah.
+AUD-644,Audio,Homicide / death investigation,"Kent County, Michigan",Unknown,High,C644,"Okay, let's do it."
+AUD-645,Audio,Traffic collision,"Winter Garden, Florida",Unknown,Medium,C645,"I went up the road, I'm in a retention pond right now. You're in the retention pond? Yeah."
+AUD-646,Audio,Shooting / gun violence,"Macomb, Illinois",Unknown,High,C646,your emergency? I've got a gentleman in quarantine with a gun. I need someone here right now on the So many.
+AUD-647,Audio,Stabbing / assault,Iowa,Unknown,High,C647,I need to file a proof leave your board to be sent off to my house.
+AUD-648,Audio,Threat / suspicious activity,Oklahoma,Unknown,Medium,C648,and quickly help me from my turn to a moment and quickly hurry with your address.
+AUD-649,Audio,Shooting / gun violence,"Brevard County, Florida",Unknown,High,C649,"shooting out, come to the fucking house! That's a way!"
+AUD-650,Audio,Homicide / death investigation,"Glynn County, Georgia",Unknown,High,C650,"I just killed my teachers. What's your name, Mel? Julia Murray. What is it?"
+AUD-651,Audio,Building fire,"30 turn 4 stops with 8 clues, Illinois",Unknown,High,C651,the building on 30 turn 4 stops with 8 clues on fire. Report of a house fire. House fire.
+AUD-652,Audio,Building fire,Illinois,Unknown,High,C652,"There's a house on fire. There's a house on fire? 30 seconds, 48 seconds."
+AUD-653,Audio,Homicide / death investigation,"Brevard County, Florida",Unknown,High,C653,"I think they should be the murder. Okay, and where is the person out that is the victim?"
+AUD-654,Audio,Burglary / robbery / intruder,"Daytona Beach, Florida",Unknown,High,C654,I'm going to call him. Whoa.
+AUD-655,Audio,Shooting / gun violence,Ohio,Unknown,High,C655,"The former Flickr store, there's a fight workout and the liquor store. Here's a customer folding him back. You guys need to..."
+AUD-656,Audio,Shooting / gun violence,"Edgewater, Florida",Unknown,High,C656,and just stop me. Your husband shot you where at man. And there's some links if you
+AUD-657,Audio,Traffic collision,"Livingston, Louisiana",Unknown,Medium,C657,I've got a black man here that's so good in our house. Your band is...
+AUD-658,Audio,Stabbing / assault,"Seaworld Orlando, Florida",Unknown,High,C658,We have a trainer in the water with one of our whales. The whale that's been up to be in the water with. Okay.
+AUD-659,Audio,Burglary / robbery / intruder,"Norwalk, California",Unknown,High,C659,"Oh, there's some call. There's some guy. There's a guy with a human mom and dad. Can you close?"
+AUD-660,Audio,Building fire,"Spotsylvania County, Virginia",Unknown,High,C660,"I think the house is on fire. Okay, what name where is it? 1, 2, 2, 1, 8."
+AUD-661,Audio,Homicide / death investigation,"Vineland, New Jersey",Unknown,High,C661,I just killed somebody. You what? I just killed somebody. You killed somebody? Yeah.
+AUD-662,Audio,Homicide / death investigation,Florida,Unknown,High,C662,"and shock, which has fired at the public's forever orange in the high lock."
+AUD-663,Audio,Homicide / death investigation,"Canada, Florida",Unknown,High,C663,"or in Canada there's somebody in the store. Okay, or in Canada anywhere."
+AUD-664,Audio,Missing person / abduction,Florida,Unknown,Medium,C664,the media leader the guy with a knife for me is on my own brown token don't run nay
+AUD-665,Audio,Building fire,Florida,Unknown,High,C665,"I've been wearing a breeze. Okay, you've got a single family home or an apartment, man."
+AUD-666,Audio,Shooting / gun violence,Florida,Unknown,High,C666,"I'm not playing that shot. Alright, Santa, I'm going to come in with three and three over the rescue."
+AUD-667,Audio,Shooting / gun violence,"Orangeburg County, South Carolina",Unknown,High,C667,"I'm gonna go to the pool hall. If you wouldn't be there, this is doing..."
+AUD-668,Audio,Burglary / robbery / intruder,"Palm Beach Gardens, Florida",Unknown,High,C668,"I don't have money inside this thing. So, so, so. I don't have..."
+AUD-669,Audio,Homicide / death investigation,Arizona,Unknown,High,C669,This is my one one. Do you need police or medicine?
+AUD-670,Audio,Missing person / abduction,"Winter Springs, Florida",Unknown,Medium,C670,"Okay, I'm in the middle."
+AUD-671,Audio,Shooting / gun violence,"Liberty, Ohio",Unknown,High,C671,"I'm not staring my arm, mom, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, arm, a"
+AUD-672,Audio,Traffic collision,Texas,Unknown,Medium,C672,there's been an explosion on I-30 on the sorry 183 research.
+AUD-673,Audio,Traffic collision,Texas,Unknown,Medium,C673,"a plane just crashed. Okay, what kind of plane was it? How big was it, sir? It looked like a decina, like a prop."
+AUD-674,Audio,Shooting / gun violence,"Platte County, Missouri",Unknown,High,C674,"I know it's less evident I'm getting ready to kill somebody. No, it's less rare. Evertons. Evertons."
+AUD-675,Audio,Burglary / robbery / intruder,Georgia,Unknown,High,C675,"No, everyone be on Broadway. College town, we're a mystery. By the way, we forget what we do. And we're going to school. We have a high school."
+AUD-676,Audio,Shooting / gun violence,Florida,Unknown,High,C676,I just saw my best friend on the second hand. Just go on my car. I just saw your best friend had it. Where is it?
+AUD-677,Audio,Sexual assault / stalking,Florida,Unknown,High,C677,"And then for Coyote's file with me. Okay, okay. I love that."
+AUD-678,Audio,Fall / accidental injury,"Port Richey, Florida",Unknown,Medium,C678,"My dad calls in a duck. Here, here dad."
+AUD-679,Audio,Domestic disturbance,"Clark County, Ohio",Unknown,Medium,C679,I went out broke. I'll see what that person I was getting here is. See what I get.
+AUD-680,Audio,Stabbing / assault,"Harford County, Maryland",Unknown,High,C680,I can't see anything that I was shook with a bottle and I'm a police...
+AUD-681,Audio,Traffic collision,"Yavapai County, Arizona",Unknown,Medium,C681,"I'll bring you in with that. Okay, are you?"
+AUD-682,Audio,Stabbing / assault,North Carolina,Unknown,High,C682,We had someone come in and ask them for down 911 that they're a woman yelling.
+AUD-683,Audio,Sexual assault / stalking,"Saratoga Springs, Utah",Unknown,High,C683,"Okay, it's a mind. Ma'am? Yes. What's the emergency? I..."
+AUD-684,Audio,Rescue / person trapped,Oregon,Unknown,High,C684,There's someone on my door and he keeps on knocking on the door and he tried opening it.
+AUD-685,Audio,Homicide / death investigation,"The Hill County, Texas",Unknown,High,C685,I just killed my children. Excuse me? I just killed my children. Where are you?
+AUD-686,Audio,Non-emergency / misuse of 911,Florida,Unknown,Low,C686,you about. I got the ordered food which is totally really Good to listen again.
+AUD-687,Audio,Domestic disturbance,Colorado,Unknown,Medium,C687,It sounded like gunshot behind the door.
+AUD-688,Audio,Traffic collision,Florida,Unknown,Medium,C688,"This is the American Sea. My car is in the water right off the chest, the Mullins car."
+AUD-689,Audio,Homicide / death investigation,"Pierce County, Washington",Unknown,High,C689,I'd like to report gunshot wound. Someone got a shot where?
+AUD-690,Audio,Homicide / death investigation,New Jersey,Unknown,High,C690,I just came home and my girlfriend's and her mother's somebody hurt them and I know who to have that simple adherp.
+AUD-691,Audio,Medical emergency,"Hillsborough County, Florida",Unknown,High,C691,Awardable congratulations about how to be okay
+AUD-692,Audio,Homicide / death investigation,"Spring Hill, Florida",Unknown,High,C692,"My brother killed my brother. I heard this street name, but you guys are side in somewhere second."
+AUD-693,Audio,Traffic collision,"the road, Florida",Unknown,Medium,C693,"the guy laying on the road and bleeding. Okay, ma'am, is even hit by a car? I don't know."
+AUD-694,Audio,Child welfare / unattended child,Arizona,Unknown,Medium,C694,I can't play my son. I'll tell you what is your address.
+AUD-695,Audio,Stabbing / assault,Texas,Unknown,High,C695,"Yeah, I feel my birthday. I'm sorry. I feel my birthday. They are dying. I"
+AUD-696,Audio,Domestic disturbance,New Mexico,Unknown,High,C696,There's a report of somebody shooting you. I don't know where. You know if anybody's hurt right now? Yeah.
+AUD-697,Audio,Domestic disturbance,New Mexico,Unknown,Medium,C697,"Where's your emergency? We're at. We're at. We're at here in 1600. 1,600."
+AUD-698,Audio,Burglary / robbery / intruder,California,Unknown,High,C698,"We're at our house and trying to break into our house. Okay, where's your mom at? She got one."
+AUD-699,Audio,Building fire,"Hartford, Connecticut",Unknown,High,C699,The shoe over there. That's why you're surfing. I'm in the boat.
+AUD-700,Audio,Animal attack,Texas,Unknown,Medium,C700,There are bees like hundreds swarming around a guy who can't get up off the ground thousand.
+AUD-701,Audio,Water emergency / drowning,Iowa,Unknown,High,C701,20 feet underwater. They don't really need to get out of here. Out of here. It's 9.0.
+AUD-702,Audio,Animal attack,"Lorain, Ohio",Unknown,Medium,C702,"Alright, so we can fit By an even more"
+AUD-703,Audio,Stabbing / assault,Ohio,Unknown,High,C703,"I do need to be right down. Alright, we will be right up."
+AUD-704,Audio,Child welfare / unattended child,"Del Ray Beach, Florida",Unknown,Medium,C704,One of the kids who met them from South India on the van will see I wear a wear ton of chitok here
+AUD-705,Audio,Building fire,South Carolina,Unknown,High,C705,"I'm fine, this is smoking away. You say Green Park and Dogwood?"
+AUD-706,Audio,Shooting / gun violence,"Los Angeles County, California",Unknown,High,C706,She's not waking up. Okay. What's her address?
+AUD-707,Audio,Homicide / death investigation,"Visalia, California",Unknown,High,C707,"I just shot the morning vision over here until area. You did? Yes, it is. Your name is..."
+AUD-708,Audio,Domestic disturbance,"Murray County, Georgia",Unknown,Medium,C708,And this guy has a gun in my head. I need the car. The guy has got a gun in the car.
+AUD-709,Audio,Homicide / death investigation,Arizona,Unknown,High,C709,"So, I reach a lot of times before the part of the road. Out there. And come on."
+AUD-710,Audio,Medical emergency,"Grand Lake, Colorado",Unknown,High,C710,"I'm going to see the black animals by a loose, okay? And if you can't just in breathing."
+DOC-001,PDF,Training Proposal,the Benton County Sheriff,26-May-15,Low,RPT_001,The purpose of obtaining this vehicle is for it to be utilized by the Benton County
+DOC-002,PDF,Training Proposal,the Benton County Sheriff,2015/04/10,Low,RPT_002,Equipment request: tactical gear listed
+DOC-003,PDF,Training Proposal,Benton County Sheriff,2015/04/10,Low,RPT_003,PURPOSE:
+DOC-004,PDF,Training Proposal,the MRAP must be parked in an area designated by the commander at the Benton County Sheriff,2015/04/10,Low,RPT_004,Equipment request: tactical gear listed
+DOC-005,PDF,Training Proposal,Benton Police Department,2015/04/10,Low,RPT_005,Equipment request: tactical gear listed
+DOC-006,PDF,Request,Benton Police Department,2015/04/10,Medium,RPT_006,Equipment request: tactical gear listed
+DOC-007,PDF,Training Proposal,Personnel who are assigned the responsibility of operating the ARV shall complete training approved by BNPD,2015/04/10,Low,RPT_007,Equipment request: tactical gear listed
+DOC-008,PDF,Training Proposal,Arkansas PD,2015/04/10,Low,RPT_008,Equipment request: tactical gear listed
+DOC-009,PDF,Application,STATE OF ARKANSAS  Commission,01-Jul-14,Low,RPT_009,Equipment request: tactical gear listed
+DOC-010,PDF,Training Proposal,Bryant Police Department,2015/04/10,Low,RPT_010,Equipment request: tactical gear listed
+DOC-011,PDF,Training Proposal,CABOT POLICE DEPARTMENT,2015/04/10,Low,RPT_011,Purpose: Mine Resistant Ambush Protected Vehicle (MRAP)
+DOC-012,PDF,Training Proposal,Arkansas PD,2015/04/10,Low,RPT_012,Equipment request: tactical gear listed
+DOC-013,PDF,Training Proposal,All documented training on the MRAP will be forwarded to the Team Commander and the Cabot Police Department,2015/04/10,Low,RPT_013,Equipment request: tactical gear listed
+DOC-014,PDF,Training Proposal,Cabot Police Department,2015/04/10,Low,RPT_014,Equipment request: tactical gear listed
+DOC-015,PDF,Training Proposal,Sheriff,29-May-15,Low,RPT_015,Equipment request: tactical gear listed
+DOC-016,PDF,Training Proposal,Chief Deputy  Craighead County Sheriff,2015/04/10,Low,RPT_016,Equipment request: tactical gear listed
+DOC-017,PDF,Training Proposal,Craighead County Sheriff,2015/04/10,Low,RPT_017,Equipment request: tactical gear listed
+DOC-018,PDF,Training Proposal,Hours Deputy Sheriff,2015/04/10,Low,RPT_018,Equipment request: tactical gear listed
+DOC-019,PDF,Training Proposal,Craighead County Sheriff,2015/04/10,Low,RPT_019,Purpose: Special Response and Tactics / Operations
+DOC-020,PDF,Request,Crawford County Sheriff,2015/04/10,Medium,RPT_020,Equipment request: tactical gear listed
+DOC-021,PDF,Training Proposal,Crawford County Sheriff,27-Jan-15,Low,RPT_021,Equipment request: tactical gear listed
+DOC-022,PDF,Training Proposal,MRAP  Crawford County Sheriff,2015/04/10,Low,RPT_022,Purpose: Special Response and Tactics / Operations
+DOC-023,PDF,Training Proposal,Arkansas PD,2015/04/10,Low,RPT_023,Equipment request: tactical gear listed
+DOC-024,PDF,Training Proposal,Fort Smith Police Department,19-Jan-15,Low,RPT_024,Equipment request: tactical gear listed
+DOC-025,PDF,Training Proposal,Fort Smith Police Department,2015/04/10,Low,RPT_025,Purpose: Special Response and Tactics / Operations
+DOC-026,PDF,Training Proposal,Arkansas PD,2015/04/10,Low,RPT_026,Equipment request: tactical gear listed
+DOC-027,PDF,Training Proposal,Hot Springs Police Department,2015/04/10,Low,RPT_027,Equipment request: tactical gear listed
+DOC-028,PDF,Training Proposal,Hot Springs Police Department,2015/04/10,Low,RPT_028,Equipment request: tactical gear listed
+DOC-029,PDF,Training Proposal,Hot Springs Police Department,2015/04/10,Low,RPT_029,Equipment request: tactical gear listed
+DOC-030,PDF,Training Proposal,Arkansas PD,2015/04/10,Low,RPT_030,Equipment request: tactical gear listed
+DOC-031,PDF,Training Proposal,Sheriff,2015/04/10,Low,RPT_031,The purpose of
+DOC-032,PDF,Training Proposal,which was allocated to the Jacksonville AR Police Department,14-Jan-15,Low,RPT_032,Equipment request: tactical gear listed
+DOC-033,PDF,Training Proposal,Arkansas PD,2015/04/10,Low,RPT_033,Equipment request: tactical gear listed
+DOC-034,PDF,Training Proposal,The Jefferson County Sheriff,13-Jan-15,Low,RPT_034,PURPOSE:
+DOC-035,PDF,Training Proposal,Arkansas PD,2015/04/10,Low,RPT_035,Equipment request: tactical gear listed
+DOC-036,PDF,Training Proposal,LITTLE ROCK POLICE DEPARTMENT,2015/04/10,Low,RPT_036,Equipment request: tactical gear listed
+DOC-037,PDF,Training Proposal,and Rules and Regulations of the Little Rock Police Department,2015/04/10,Low,RPT_037,Equipment request: tactical gear listed
+DOC-038,PDF,Training Proposal,program in which government property may be obtained for the police department,2015/04/10,Low,RPT_038,Equipment request: tactical gear listed
+DOC-039,PDF,Request,Arkansas PD,2015/04/10,Medium,RPT_039,Equipment request: tactical gear listed
+DOC-040,PDF,Training Proposal,Arkansas PD,2015/04/10,Low,RPT_040,Equipment request: tactical gear listed
+DOC-041,PDF,Request,Arkansas PD,2015/04/10,Medium,RPT_041,Equipment request: tactical gear listed
+DOC-042,PDF,Training Proposal,Arkansas PD,5600/12/16,Low,RPT_042,Equipment request: tactical gear listed
+DOC-043,PDF,Training Proposal,Arkansas PD,2015/04/10,Low,RPT_043,Equipment request: tactical gear listed
+DOC-044,PDF,Training Proposal,Arkansas PD,2015/04/10,Low,RPT_044,Equipment request: tactical gear listed
+DOC-045,PDF,Request,Arkansas PD,2015/04/10,Medium,RPT_045,the purpose of
+DOC-046,PDF,Request,Arkansas PD,5600/12/10,Medium,RPT_046,Equipment request: tactical gear listed
+DOC-047,PDF,Request,prescribe general policies to all Police Department,5600/12/11,Medium,RPT_047,The purpose of this section is to provide information and
+DOC-048,PDF,Request,Arkansas PD,5600/12/12,Medium,RPT_048,The purpose of a special VFR clearance is
+DOC-049,PDF,Training Proposal,Arkansas PD,5600/12/13,Low,RPT_049,Equipment request: tactical gear listed
+DOC-050,PDF,Training Proposal,Arkansas PD,5600/12/14,Low,RPT_050,The purpose of the
+DOC-051,PDF,Training Proposal,Arkansas PD,5600/12/15,Low,RPT_051,Equipment request: tactical gear listed
+DOC-052,PDF,Request,Aviation Unit personnel shall respond to all requests for service made by members of the Police Department,5600/12/17,Medium,RPT_052,Equipment request: tactical gear listed
+DOC-053,PDF,Request,LITTLE ROCK POLICE DEPARTMENT,21-May-15,Medium,RPT_053,Equipment request: tactical gear listed
+DOC-054,PDF,Request,NY  City of Little Rock  Police Department,17-Jun-14,Medium,RPT_054,Equipment request: tactical gear listed
+DOC-055,PDF,Request,When the Department of Defense Surplus Program started issuing local police and sheriff,2015/04/10,Medium,RPT_055,Equipment request: tactical gear listed
+DOC-056,PDF,Training Proposal,Arkansas PD,2015/04/10,Low,RPT_056,Equipment request: tactical gear listed
+DOC-057,PDF,Application,Arkansas Law,2015/04/10,Low,RPT_057,Equipment request: tactical gear listed
+DOC-058,PDF,Training Proposal,Arkansas PD,2015/04/10,Low,RPT_058,Equipment request: tactical gear listed
+DOC-059,PDF,Training Proposal,Arkansas PD,2015/04/10,Low,RPT_059,Equipment request: tactical gear listed
+DOC-060,PDF,Training Proposal,Arkansas PD,2015/04/10,Low,RPT_060,Equipment request: tactical gear listed
+DOC-061,PDF,Training Proposal,Arkansas PD,2015/04/10,Low,RPT_061,Equipment request: tactical gear listed
+DOC-062,PDF,Request,LITTLE ROCK POLICE DEPARTMENT,2015/04/10,Medium,RPT_062,Equipment request: tactical gear listed
+DOC-063,PDF,Request,ARKANSAS zip,2015/04/10,Medium,RPT_063,Equipment request: tactical gear listed
+DOC-064,PDF,Training Proposal,LITTLE ROCK POLICE DEPARTMENT,19-Feb-15,Low,RPT_064,Equipment request: tactical gear listed
+DOC-065,PDF,Request,The Little Rock Police Department,2015/04/10,Medium,RPT_065,Equipment request: tactical gear listed
+DOC-066,PDF,Training Proposal,Lonoke County Sheriff,2015/04/10,Low,RPT_066,Equipment request: tactical gear listed
+DOC-067,PDF,Training Proposal,Lonoke County Sheriff,2015/04/10,Low,RPT_067,Equipment request: tactical gear listed
+DOC-068,PDF,Training Proposal,Lonoke County Sheriff,2015/04/10,Low,RPT_068,Equipment request: tactical gear listed
+DOC-069,PDF,Training Proposal,County of Mississippi State of Arkansas  SHERIFF,17-Dec-14,Low,RPT_069,Equipment request: tactical gear listed
+DOC-070,PDF,Training Proposal,Pulaski County  Office of the Sheriff,08-Jun-15,Low,RPT_070,The purpose of the vehicle is for use by the PCSO Special Weapons and Tactics (SWAT) Team in
+DOC-071,PDF,Training Proposal,James Ray Arkansas Department,2015/04/10,Low,RPT_071,Equipment request: tactical gear listed
+DOC-072,PDF,Training Proposal,Arkansas PD,2015/04/10,Low,RPT_072,Equipment request: tactical gear listed
+DOC-073,PDF,Training Proposal,Arkansas PD,2015/04/10,Low,RPT_073,Equipment request: tactical gear listed
+DOC-074,PDF,Training Proposal,AMERICAN ROAD  SHERIFF,01-Jun-15,Low,RPT_074,The purpose of this
+DOC-075,PDF,Training Proposal,Sheriff,2015/04/10,Low,RPT_075,Equipment request: tactical gear listed
+IMG-001,Image,Smoke Scene,Scene photograph,Unknown,Medium,IMG_001,smoke:1.00
+IMG-002,Image,Smoke Scene,Scene photograph,Unknown,Medium,IMG_002,smoke:1.00
+IMG-003,Image,Smoke Scene,Scene photograph,Unknown,Medium,IMG_003,smoke:1.00
+IMG-004,Image,Fire and Smoke Scene,Scene photograph,Unknown,High,IMG_004,fire:1.00; smoke:1.00
+IMG-005,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_005,
+IMG-006,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_006,
+IMG-007,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_007,
+IMG-008,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_008,
+IMG-009,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_009,
+IMG-010,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_010,
+IMG-011,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_011,
+IMG-012,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_012,
+IMG-013,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_013,
+IMG-014,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_014,
+IMG-015,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_015,
+IMG-016,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_016,
+IMG-017,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_017,
+IMG-018,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_018,
+IMG-019,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_019,
+IMG-020,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_020,
+IMG-021,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_021,
+IMG-022,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_022,
+IMG-023,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_023,
+IMG-024,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_024,
+IMG-025,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_025,
+IMG-026,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_026,
+IMG-027,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_027,
+IMG-028,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_028,
+IMG-029,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_029,
+IMG-030,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_030,
+IMG-031,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_031,
+IMG-032,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_032,
+IMG-033,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_033,
+IMG-034,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_034,
+IMG-035,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_035,
+IMG-036,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_036,
+IMG-037,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_037,
+IMG-038,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_038,
+IMG-039,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_039,
+IMG-040,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_040,
+IMG-041,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_041,
+IMG-042,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_042,
+IMG-043,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_043,
+IMG-044,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_044,
+IMG-045,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_045,
+IMG-046,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_046,
+IMG-047,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_047,
+IMG-048,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_048,
+IMG-049,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_049,
+IMG-050,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_050,
+IMG-051,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_051,
+IMG-052,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_052,
+IMG-053,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_053,
+IMG-054,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_054,
+IMG-055,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_055,
+IMG-056,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_056,
+IMG-057,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_057,
+IMG-058,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_058,
+IMG-059,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_059,
+IMG-060,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_060,
+IMG-061,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_061,
+IMG-062,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_062,
+IMG-063,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_063,
+IMG-064,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_064,
+IMG-065,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_065,
+IMG-066,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_066,
+IMG-067,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_067,
+IMG-068,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_068,
+IMG-069,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_069,
+IMG-070,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_070,
+IMG-071,Image,No-fire / Unknown Scene,Scene photograph,Unknown,High,IMG_071,
+IMG-072,Image,Fire Scene,Scene photograph,Unknown,High,IMG_072,fire:1.00
+IMG-073,Image,Fire and Smoke Scene,Scene photograph,Unknown,High,IMG_073,bus:0.30; fire:1.00; person:0.72; smoke:0.99; truck:0.32
+IMG-074,Image,Fire and Smoke Scene,Scene photograph,Unknown,High,IMG_074,fire:1.00; person:0.66; smoke:1.00
+IMG-075,Image,Fire Scene,Scene photograph,Unknown,High,IMG_075,car:0.29; fire:1.00
+IMG-076,Image,Fire and Smoke Scene,Scene photograph,Unknown,High,IMG_076,fire:1.00; smoke:1.00
+IMG-077,Image,Fire and Smoke Scene,Scene photograph,Unknown,High,IMG_077,fire:1.00; person:0.79; smoke:1.00
+IMG-078,Image,Fire Scene,Scene photograph,Unknown,High,IMG_078,fire:1.00; person:0.38
+IMG-079,Image,Fire and Smoke Scene,Scene photograph,Unknown,High,IMG_079,fire:1.00; person:0.90; smoke:1.00
+IMG-080,Image,Fire Scene,Scene photograph,Unknown,High,IMG_080,fire:1.00
+IMG-081,Image,Smoke Scene,Scene photograph,Unknown,Medium,IMG_081,car:0.39; smoke:1.00
+IMG-082,Image,Fire and Smoke Scene,Scene photograph,Unknown,High,IMG_082,car:0.33; fire:1.00; smoke:1.00; truck:0.48
+IMG-083,Image,Smoke Scene,Scene photograph,Unknown,Medium,IMG_083,smoke:1.00; truck:0.82
+IMG-084,Image,Fire Scene,Scene photograph,Unknown,High,IMG_084,fire:1.00
+IMG-085,Image,Smoke Scene,Scene photograph,Unknown,Medium,IMG_085,smoke:1.00
+IMG-086,Image,Smoke Scene,Scene photograph,Unknown,Medium,IMG_086,smoke:1.00
+IMG-087,Image,Smoke Scene,Scene photograph,Unknown,Medium,IMG_087,car:0.50; person:0.73; smoke:1.00; truck:0.62
+IMG-088,Image,Fire and Smoke Scene,Scene photograph,Unknown,High,IMG_088,car:0.59; fire:1.00; smoke:1.00
+IMG-089,Image,Smoke Scene,Scene photograph,Unknown,Medium,IMG_089,car:0.75; person:0.92; smoke:1.00
+IMG-090,Image,Fire Scene,Scene photograph,Unknown,High,IMG_090,fire:1.00; truck:0.72
+IMG-091,Image,Smoke Scene,Scene photograph,Unknown,Medium,IMG_091,smoke:1.00
+IMG-092,Image,Fire Scene,Scene photograph,Unknown,High,IMG_092,car:0.80; fire:1.00; truck:0.41
+IMG-093,Image,Smoke Scene,Scene photograph,Unknown,Medium,IMG_093,smoke:1.00
+IMG-094,Image,Fire Scene,Scene photograph,Unknown,High,IMG_094,fire:1.00; person:0.90
+IMG-095,Image,Fire Scene,Scene photograph,Unknown,High,IMG_095,car:0.41; fire:1.00
+IMG-096,Image,Smoke Scene,Scene photograph,Unknown,Medium,IMG_096,car:0.28; smoke:1.00; truck:0.32
+IMG-097,Image,Fire and Smoke Scene,Scene photograph,Unknown,High,IMG_097,fire:1.00; smoke:1.00
+IMG-098,Image,Fire Scene,Scene photograph,Unknown,High,IMG_098,fire:1.00; person:0.88
+IMG-099,Image,Smoke Scene,Scene photograph,Unknown,Medium,IMG_099,person:0.75; smoke:1.00
+IMG-100,Image,Smoke Scene,Scene photograph,Unknown,Medium,IMG_100,car:0.52; person:0.65; smoke:1.00; truck:0.46
+IMG-101,Image,Fire and Smoke Scene,Scene photograph,Unknown,High,IMG_101,fire:1.00; smoke:1.00
+IMG-102,Image,Smoke Scene,Scene photograph,Unknown,Medium,IMG_102,person:0.76; smoke:1.00
+TXT-001,Text,Arrest / Investigation,JeffTusc Co,Unknown,High,TXT_001,"Active crime scene on I-59/20 near Jeff/Tusc Co line. One dead, one injured; shooting involved. Police search in the area; traffic stopped"
+TXT-002,Text,Arrest / Investigation,"Monday, Word Tabernacle Church",Unknown,High,TXT_002,Police have arrested a suspect in the Monday shooting at the basketball courts behind Word Tabernacle Church. http://t.co/X67i7jajij
+TXT-003,Text,Public Disturbance,Chicago Police,Unknown,High,TXT_003,Lawsuit alleges Chicago Police strip-searched trio in public http://t.co/NGVCe42BUW via @suntimes
+TXT-004,Text,Arrest / Investigation,New NRA Advice,Unknown,High,TXT_004,New NRA Advice: Don't Cooperate With Police If Your Gun Shows Up At A Crime Scene;  http://t.co/f96jCNY3wV #patriots #liberty
+TXT-005,Text,Public Disturbance,FGM,Unknown,High,TXT_005,"Police failing to stamp out ‘honour crimes’, from domestic violence and forced marriage to FGM and murder http://t.co/SLuXLgbQbU"
+TXT-006,Text,Public Disturbance,Unknown,Unknown,High,TXT_006,"Today's front page: 
+Police failing to stamp out ‘honour crimes’ http://t.co/SLuXLgbQbU http://t.co/w7ft9HW4Vx"
+TXT-007,Text,Theft / Robbery,Town of Tonawanda Police Search for Bank Robbery Suspect,Unknown,High,TXT_007,"Town of Tonawanda Police Search for Bank Robbery Suspect
+http://t.co/4aJxs3Mv9G http://t.co/320mwHfuPl"
+TXT-008,Text,Public Disturbance,Unknown,Unknown,High,TXT_008,"Due to lack of police protection, #Christians in #Pakistan become easy targets for crime and abuse. http://t.co/6Ld0Zs9h29 ^ws"
+TXT-009,Text,Arrest / Investigation,Unknown,Unknown,High,TXT_009,New #NRA Advice: Don't Cooperate With Police If Your Gun Shows Up At A Crime Scene http://t.co/ldIDJ75Did
+TXT-010,Text,Public Disturbance,"Commish Batts, marijuana, Baltimore",Unknown,Medium,TXT_010,Commish Batts makes a strong case for legalizing marijuana - to end the violent MJ trade in Baltimore. @baltimoresun http://t.co/A0TRUflAYl
+TXT-011,Text,Arrest / Investigation,Redbridge,Unknown,High,TXT_011,Police swoop on the homeless taking sleeping bags and food parcels in co-ordinated raids in Redbridge http://t.co/ZWmE54jhBP
+TXT-012,Text,Public Disturbance,Unknown,Unknown,High,TXT_012,#NRAadvice: Don’t cooperate with police if your gun shows up at a crime scene: http://t.co/c96U10ed1l
+TXT-013,Text,Arrest / Investigation,Devon Cornwall,Unknown,Medium,TXT_013,#Police : Become a Special Constable and help cut crime http://t.co/taxFZeQ4Vx Devon Cornwall
+TXT-014,Text,Arrest / Investigation,Badger Guns,Unknown,High,TXT_014,BREAKING NEWS: Judge’s ruling favors officers in Badger Guns suit: http://t.co/QcQP0vLtd4
+TXT-015,Text,Public Disturbance,Unknown,Unknown,High,TXT_015,Woman police sergeant dives in river to drag drowning woman to safety http://t.co/WKSZ2Obw1k via @MailOnline Just #crime fighters? Nope!!!
+TXT-016,Text,Public Disturbance,"RT So AAP, Delhi",Unknown,High,TXT_016,RT @blackmagicgal1: So AAP will continue to cry foul at Delhi police whenever a crime is reported rather than take responsibility like a go…
+TXT-017,Text,Public Disturbance,"RT CrimeLawlessness, Delhi Home, Delhi Police",Unknown,High,TXT_017,RT @shiven_gaur: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blami…
+TXT-018,Text,Public Disturbance,"RT CrimeLawlessness, Delhi Home, Delhi Police",Unknown,High,TXT_018,RT @shiven_gaur: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blami…
+TXT-019,Text,Public Disturbance,"RT CrimeLawlessness, Delhi Home, Delhi Police",Unknown,High,TXT_019,RT @shiven_gaur: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blami…
+TXT-020,Text,Arrest / Investigation,"RT Cause, RT Police",Unknown,High,TXT_020,RT @CherryFlavoredd: Cause there isn't any real crime anywhere.. RT @DrinkingTicket: Police around capstone dorm arresting kids looking dru…
+TXT-021,Text,Public Disturbance,"RT CrimeLawlessness, Delhi Home, Delhi Police",Unknown,High,TXT_021,RT @shiven_gaur: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blami…
+TXT-022,Text,Arrest / Investigation,"RT Cause, RT Police",Unknown,High,TXT_022,RT @CherryFlavoredd: Cause there isn't any real crime anywhere.. RT @DrinkingTicket: Police around capstone dorm arresting kids looking dru…
+TXT-023,Text,Public Disturbance,Unknown,Unknown,High,TXT_023,RT @DemandAction: #NRAadvice: Don’t cooperate with police if your gun shows up at a crime scene: http://t.co/c96U10ed1l
+TXT-024,Text,Public Disturbance,"RT CrimeLawlessness, Delhi Home, Delhi Police",Unknown,High,TXT_024,RT @shiven_gaur: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blami…
+TXT-025,Text,Arrest / Investigation,RT Police,Unknown,High,TXT_025,Cause there isn't any real crime anywhere.. RT @DrinkingTicket: Police around capstone dorm arresting kids looking drunk coming back home...
+TXT-026,Text,Arrest / Investigation,"India News, Delhi",Unknown,High,TXT_026,"India News Delhi Police arrests three  in Rs 8 cr heist, some cash recovered, mastermind absconding http://t.co/HiyzKtG4cN"
+TXT-027,Text,Arrest / Investigation,"India News Police, Mumbai, 10 years",Unknown,High,TXT_027,"India News Police sniffer dog's bark lands man in Mumbai jail for 10 years, High Court orders his release http://t.co/KAd6IIFW7r"
+TXT-028,Text,Theft / Robbery,"CrimeLawlessness, Delhi Home, Delhi Police, Media shud",Unknown,High,TXT_028,Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blaming AAP.
+TXT-029,Text,Arrest / Investigation,Worlds Scariest Police Chases 4 Crime Documentary,Unknown,Medium,TXT_029,I added a video to a @YouTube playlist http://t.co/cir6DgKsvp World's Scariest Police Chases 4 (Crime Documentary)
+TXT-030,Text,Arrest / Investigation,New Remedy Against Police Activities,Unknown,High,TXT_030,New #Legal Remedy Against Police Activities Within Criminal Investigations - Mondaq News Alerts (registration) http://t.co/S1XdGyPOUE
+TXT-031,Text,Fire,Unknown,Unknown,High,TXT_031,"Police seek witnesses to grass fires (Delahey  - VIC):
+http://t.co/7OEdJQvhMi"
+TXT-032,Text,Arrest / Investigation,Unknown,Unknown,High,TXT_032,It's so shallow as for evry crime police is being blamed in #capital by govnment!they mean police has to b present ther b4 crime take place.
+TXT-033,Text,Arrest / Investigation,Onitsha,Unknown,High,TXT_033,Police swoop on kidnappers’ den in Onitsha - http://t.co/HeOoghHHKt http://t.co/AuQrW32iil
+TXT-034,Text,Arrest / Investigation,"US News, June 1998",Unknown,High,TXT_034,"RT @Gun_Shots: ""95% of the time police arrive too late to prevent a crime or arrest the suspect."" - US News and World Report, 17 June 1998"
+TXT-035,Text,Arrest / Investigation,Carrie,Unknown,High,TXT_035,"@BansheeTvShow The entire police department, the bartender, the gay tech all were in the showdown but only Carrie is charged with a crime?"
+TXT-036,Text,Public Disturbance,Unknown,Unknown,High,TXT_036,"Police union wants lock out zones expanded:
+http://t.co/hu8zOehB7G"
+TXT-037,Text,Arrest / Investigation,Petaluma,Unknown,High,TXT_037,Alert issued in Petaluma after men posing as police enter woman's home:  http://t.co/Gq7RrjkwXs
+TXT-038,Text,Arrest / Investigation,"Bay Area, 17th",Unknown,High,TXT_038,Bay Area journos on crime beat: there are 4 police cars &amp; yellow tape at sunny spot med. MJ shop on 17th right now. Don't know what's up.
+TXT-039,Text,Arrest / Investigation,RT Police,Unknown,High,TXT_039,"RT @Darius_Suber95: Police are supposed to be fighting crime on the streets, not sitting in a hiding spot waiting to give someone a hoe ass…"
+TXT-040,Text,Arrest / Investigation,Peel Male Arrested,Unknown,High,TXT_040,"Peel #Police - Male Arrested on Attempt Murder Warrant http://t.co/tDQE83bFXX
+ #crime"
+TXT-041,Text,Arrest / Investigation,Belmar,Unknown,Medium,TXT_041,Belmar named St. Louis County police chief http://t.co/MXbeCRaJ5K
+TXT-042,Text,Public Disturbance,"RT Is Mr, Delhi Police, Shiela Dikshits",Unknown,High,TXT_042,RT @geophyraj: Is Mr @ArvindKejriwal going to blame Delhi Police for every crime in the city? Then what was Shiela Dikshit's fault?
+TXT-043,Text,Theft / Robbery,Unknown,Unknown,High,TXT_043,"""Men posing as police: Petaluma home invasion.""
+
+Uh, I'm not letting any cop in w/out a badge number confirmed.
+
+http://t.co/90vu7IBTx1"
+TXT-044,Text,Theft / Robbery,Unknown,Unknown,High,TXT_044,"#NidoTaniam paid for breaking the glass, why were the shopkeepers not made to pay for their crime of beating him.#Delhi police must answer"
+TXT-045,Text,Assault / Shooting,"The Times Picayune Police, Pontchartrain Park",Unknown,High,TXT_045,The Times Picayune - Police investigating shooting in Pontchartrain Park http://t.co/iVehmyxnys
+TXT-046,Text,Theft / Robbery,Unknown,Unknown,High,TXT_046,"#NidoTaniam paid for breaking the glass, why were the shopkeepers not made to pay for their crime of beating him.#Delhi police must answer"
+TXT-047,Text,Public Disturbance,"RT So AAP, Delhi",Unknown,High,TXT_047,RT @blackmagicgal1: So AAP will continue to cry foul at Delhi police whenever a crime is reported rather than take responsibility like a go…
+TXT-048,Text,Arrest / Investigation,"US Marshals Task Force, Toledo Police Arrest Final Suspect",Unknown,High,TXT_048,#Justice U.S. Marshals Task Force and Toledo Police Arrest Final Suspect in Murder Case: Tole... http://t.co/c5u4Mw7Feq #crime #HiTechCJ
+TXT-049,Text,Arrest / Investigation,Petaluma,Unknown,High,TXT_049,Alert issued in Petaluma after men posing as police enter woman's home http://t.co/lVcwrHXthc #bayarea
+TXT-050,Text,Arrest / Investigation,Unknown,Unknown,High,TXT_050,Watching crime and investigation and one of the police audio analysis investigators is wearing a pair of beats audio headphones.
+TXT-051,Text,Public Disturbance,Petaluma,Unknown,High,TXT_051,Alert issued in Petaluma after men posing as police enter woman's home: Petaluma police issued a prowler alert... http://t.co/2iQRugpWfn
+TXT-052,Text,Arrest / Investigation,Pontchartrain Park,Unknown,High,TXT_052,via @NOLAnews Police investigating shooting in Pontchartrain Park http://t.co/ikLjlj9V6V
+TXT-053,Text,Arrest / Investigation,"James Craig, Detroit",Unknown,High,TXT_053,Police Chief James Craig: More guns could equal less crime in Detroit http://t.co/CACeNrG6Kt
+TXT-054,Text,Public Disturbance,Unknown,Unknown,High,TXT_054,Again port st lucie!i know there's crime everywhere but they just stupid here http://t.co/qdSW6gWSA4
+TXT-055,Text,Arrest / Investigation,Unknown,Unknown,High,TXT_055,Crime reports offered online http://t.co/gW087y5ELT
+TXT-056,Text,Arrest / Investigation,Unknown,Unknown,High,TXT_056,Crime reports offered online http://t.co/tmzdPaJaWi
+TXT-057,Text,Arrest / Investigation,Lincolnshire,Unknown,Medium,TXT_057,"Safeguarding: Investigation into 'why Lincolnshire police marked one third of all reported rapes as 'no crime'':
+http://t.co/MvMGf8Ehzv"
+TXT-058,Text,Public Disturbance,Petaluma,Unknown,High,TXT_058,Alert issued in Petaluma after men posing as police enter woman's home: Petaluma police issued a prowler alert... http://t.co/Gq7RrjkwXs
+TXT-059,Text,Public Disturbance,Unknown,Unknown,High,TXT_059,RT @Sissy2814: Some ppl are unfit to deserve such loyal companion. This is a crime if you see this call police. http://t.co/IDcRLIDO5L WHO …
+TXT-060,Text,Public Disturbance,Unknown,Unknown,High,TXT_060,RT @Sissy2814: Some ppl are unfit to deserve such loyal companion. This is a crime if you see this call police. http://t.co/IDcRLIDO5L WHO …
+TXT-061,Text,Arrest / Investigation,Unknown,Unknown,High,TXT_061,Suburban Crime Log: 2-01 http://t.co/bCWfqPZo0W
+TXT-062,Text,Arrest / Investigation,Unknown,Unknown,High,TXT_062,Suburban Crime Log: 2-01 http://t.co/rf5vK5sh5X
+TXT-063,Text,Arrest / Investigation,Unknown,Unknown,Medium,TXT_063,UPDATED: Big data: police given access to British army's crime-fighting software http://t.co/XkU8xSx6vV
+TXT-064,Text,Public Disturbance,Unknown,Unknown,High,TXT_064,RT @DemandAction: #NRAadvice: Don’t cooperate with police if your gun shows up at a crime scene: http://t.co/c96U10ed1l
+TXT-065,Text,Arrest / Investigation,"Delhi Police, Zee News",Unknown,High,TXT_065,"Arunachal student death: Delhi Police files murder case, magisterial probe ordered - Zee News http://t.co/nJewusvPbX"
+TXT-066,Text,Public Disturbance,Unknown,Unknown,High,TXT_066,"What if instead of police dogs, there were giant man-sized police spiders.
+
+There would never be crime."
+TXT-067,Text,Arrest / Investigation,"RT Police, Pontchartrain Park",Unknown,High,TXT_067,RT @NOLAnews: Police investigating shooting in Pontchartrain Park http://t.co/JFassdU7iv
+TXT-068,Text,Arrest / Investigation,"RT Police, Pontchartrain Park",Unknown,High,TXT_068,RT @NOLAnews: Police investigating shooting in Pontchartrain Park http://t.co/JFassdU7iv
+TXT-069,Text,Arrest / Investigation,Pontchartrain Park,Unknown,High,TXT_069,Police investigating shooting in Pontchartrain Park http://t.co/JFassdU7iv
+TXT-070,Text,Assault / Shooting,"Clarksville, CPD",Unknown,High,TXT_070,"Tip helps Clarksville police foil school shooting, CPD says http://t.co/69W4Bkxaf4"
+TXT-071,Text,Arrest / Investigation,"Simi Valley, Friday, Simi Valleys",Unknown,High,TXT_071,Simi Valley sees second-safest year on record: Police said Friday that Simi Valley's crime rate fell to 14.8... http://t.co/QZbDdUzHT5
+TXT-072,Text,Assault / Shooting,"Gentilly, Saturday Jan 31 night",Unknown,High,TXT_072,Police investigating shooting in Pontchartrain Park: Man shot in Gentilly neighborhood Saturday (Jan. 31) night. http://t.co/k55h9KWFdZ
+TXT-073,Text,Public Disturbance,RT Imagine if Police,Unknown,High,TXT_073,RT @awkwardposts: Imagine if Police had giant police spiders instead of police dogs. There would be no crime.
+TXT-074,Text,Public Disturbance,Unknown,Unknown,High,TXT_074,"Behind teen’s heroin overdose death, a troubling trend http://t.co/cxb8uv4giR"
+TXT-075,Text,Arrest / Investigation,Unknown,Unknown,High,TXT_075,Police searching for victims in alleged child porn bust http://t.co/bFxRozE3FW
+TXT-076,Text,Arrest / Investigation,Pontchartrain Park,Unknown,High,TXT_076,Police investigating shooting in Pontchartrain Park http://t.co/BzP5fIOhAo
+TXT-077,Text,Arrest / Investigation,Springfield,Unknown,Medium,TXT_077,"Police: Drugs, definitions behind crime rise: The number of serious crimes reported to Springfield police... http://t.co/CagUK9Pc4q"
+TXT-078,Text,Arrest / Investigation,NewsLeader Police Drugs,Unknown,High,TXT_078,"News-Leader: Police: Drugs, definitions behind crime rise http://t.co/F9w3NAuM2K"
+TXT-079,Text,Arrest / Investigation,"RT Yeshv, Delhi",Unknown,High,TXT_079,"RT @SinghRPN: .@AngellicAribam Yes,hv spoken to Delhi police for full and speedy probe,it is the most dastardly crime.shames all of us as I…"
+TXT-080,Text,Arrest / Investigation,Unknown,Unknown,High,TXT_080,West Yorkshire’s police commissioner announces two per cent council tax hike: WEST Yorkshire’s police and crime... http://t.co/05x0dIeq57
+TXT-081,Text,Arrest / Investigation,San Francisco,Unknown,High,TXT_081,"""San Francisco police don’t keep crime stats as well as #Oakland"" http://t.co/IcDYOF9VgI"
+TXT-082,Text,Public Disturbance,Unknown,Unknown,High,TXT_082,"RT @girlweena: Just heard a police detective say ""interwishin'"" instead of ""intuition"" and am now considering a life of crime."
+TXT-083,Text,Arrest / Investigation,Unknown,Unknown,Medium,TXT_083,"@stephgrain My response won't change from ""no comment."" If u have knowledge of a crime report to http://t.co/o0J6860Dun local police twitter"
+TXT-084,Text,Public Disturbance,McLean High School,Unknown,High,TXT_084,McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/tqZiCJ0ReA
+TXT-085,Text,Public Disturbance,McLean High School,Unknown,High,TXT_085,McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/IcOKW2gOiz
+TXT-086,Text,Public Disturbance,McLean High School,Unknown,High,TXT_086,McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/V8DiQnF9aG
+TXT-087,Text,Public Disturbance,McLean High School,Unknown,High,TXT_087,McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/aCmS22XMt4
+TXT-088,Text,Public Disturbance,McLean High School,Unknown,High,TXT_088,McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/cuhrnmsmtn
+TXT-089,Text,Public Disturbance,McLean High School,Unknown,High,TXT_089,McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/lmetostVCT
+TXT-090,Text,Public Disturbance,McLean High School,Unknown,High,TXT_090,McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/dSIiQNTVwz
+TXT-091,Text,Public Disturbance,Unknown,Unknown,High,TXT_091,"Crime prevention education, animal control services &amp; house watch are just a few ways our police force makes citizens feel safe &amp; secure."
+TXT-092,Text,Public Disturbance,"BigotryIrrationalityMisogyny a Way o, Crimegt",Unknown,High,TXT_092,@Vote4AAP @AamAadmiParty @MSisodia&gt;RSS etc's Bigotry-Irrationality-Misogyny a Way o Life-80% Ppl w/ NO Civic SENSE-Police Partners of Crime&gt;
+TXT-093,Text,Arrest / Investigation,Perugias,Unknown,High,TXT_093,@pataz1 Her DNA was not found mixed all over the crime scene. Also Perugia's police allowed crime scene to be traipsed over multiple times.
+TXT-094,Text,Public Disturbance,"RT Now Greens Hansen Young, Mt Thomas",Unknown,High,TXT_094,RT @ABCNews24_: Now: Greens Hansen Young says closure of Mt Thomas police station reckless and will increase crime from Ramsay Street to Su…
+TXT-095,Text,Road Accident,Unknown,Unknown,Medium,TXT_095,2/2 Police will assist with injured animals when they are on a highway or where a crime is suspected
+TXT-096,Text,Public Disturbance,Unknown,Unknown,High,TXT_096,@NoMoreDemocracy there's crime in it but no police or anything like that.
+TXT-097,Text,Arrest / Investigation,"RT Yeshv, Delhi",Unknown,High,TXT_097,"RT @SinghRPN: .@AngellicAribam Yes,hv spoken to Delhi police for full and speedy probe,it is the most dastardly crime.shames all of us as I…"
+TXT-098,Text,Arrest / Investigation,"Heroin, McDonalds Happy Meals Police",Unknown,High,TXT_098,Heroin sold in McDonald's Happy Meals: Police http://t.co/4ZLnMPX3rc @bskousen we could of been rich!
+TXT-099,Text,Arrest / Investigation,Samaritan,Unknown,High,TXT_099,Man sentenced for fraud: FLORENCE — A man who police said took advantage of a good Samaritan has been sentence... http://t.co/ZySyaI2YFh
+TXT-100,Text,Missing Person,Unknown,Unknown,Low,TXT_100,#police #judgment #crime #court http://t.co/yXXZSpnmGO notes 6 #Laws You've Broken Without Even Realizing It http://t.co/cfuzHBt8kN
+TXT-101,Text,Arrest / Investigation,"RT Yeshv, Delhi",Unknown,High,TXT_101,"RT @SinghRPN: .@AngellicAribam Yes,hv spoken to Delhi police for full and speedy probe,it is the most dastardly crime.shames all of us as I…"
+TXT-102,Text,Public Disturbance,Unknown,Unknown,High,TXT_102,RT @DemandAction: #NRAadvice: Don’t cooperate with police if your gun shows up at a crime scene: http://t.co/c96U10ed1l
+TXT-103,Text,Arrest / Investigation,"RT Yeshv, Delhi",Unknown,High,TXT_103,"RT @SinghRPN: .@AngellicAribam Yes,hv spoken to Delhi police for full and speedy probe,it is the most dastardly crime.shames all of us as I…"
+TXT-104,Text,Arrest / Investigation,Baby Boy Death,Unknown,High,TXT_104,Baby Boy Death:  3 Arrested Over Murder http://t.co/rVZCBbtAEi #News #Crime #Police #PoliceAppeal
+TXT-105,Text,Arrest / Investigation,"RT Richland Police Convicted, Richland Crime",Unknown,High,TXT_105,"RT @AbusedChildren: Richland: Police: Convicted child rapist living in Richland | Crime, fires &amp; court news |... http://t.co/7qfXmTza0l"
+TXT-106,Text,Arrest / Investigation,Unknown,Unknown,High,TXT_106,"RT @AsperCat: French police arrest the man who tortured a cat and recorded it for Facebook: 
+The Frenchman who was captured... http://t.co/…"
+TXT-107,Text,Arrest / Investigation,"RT Richland Police Convicted, Richland Crime",Unknown,High,TXT_107,"RT @AbusedChildren: Richland: Police: Convicted child rapist living in Richland | Crime, fires &amp; court news |... http://t.co/7qfXmTza0l"
+TXT-108,Text,Arrest / Investigation,Lying Bastards Of Baltimore Police,Unknown,High,TXT_108,"RT @BaltoSpectator: I uploaded a new track, ""Lying Bastards Of Baltimore Police"", on @spreaker #baltimore #crime #fascism http://t.co/A8hyR…"
+TXT-109,Text,Public Disturbance,"RT So AAP, Delhi",Unknown,High,TXT_109,RT @blackmagicgal1: So AAP will continue to cry foul at Delhi police whenever a crime is reported rather than take responsibility like a go…
+TXT-110,Text,Arrest / Investigation,"RT BREAKING NEWS Judges, Badger Guns",Unknown,High,TXT_110,RT @bradybuzz: BREAKING NEWS: Judge’s ruling favors officers in Badger Guns suit: http://t.co/QcQP0vLtd4
+TXT-111,Text,Public Disturbance,Unknown,Unknown,High,TXT_111,"Driver blows over legal limit http://t.co/PvczzPY7EB
+ #crime #Police #WestPerth"
+TXT-112,Text,Arrest / Investigation,"RT BREAKING NEWS Judges, Badger Guns",Unknown,High,TXT_112,RT @bradybuzz: BREAKING NEWS: Judge’s ruling favors officers in Badger Guns suit: http://t.co/QcQP0vLtd4
+TXT-113,Text,Arrest / Investigation,"RT Police news, Hamady",Unknown,High,TXT_113,RT @flintjournal: Police news: Billboards tout anonymity of new Crime Stoppers hotline; Hamady janitor accused of sexual relatio... http://…
+TXT-114,Text,Public Disturbance,Unknown,Unknown,High,TXT_114,"RT @girlweena: Just heard a police detective say ""interwishin'"" instead of ""intuition"" and am now considering a life of crime."
+TXT-115,Text,Public Disturbance,"Wyoming Highway Patrol, K9, Casper StarTribune Online",Unknown,High,TXT_115,Wyoming Highway Patrol mourns loss of K-9 unit - Casper Star-Tribune Online http://t.co/w4Iagyh5sx #PoliceNews
