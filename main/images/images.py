@@ -1,3 +1,4 @@
+# Image Analyst pipeline: detects fire/smoke, people/vehicles, extracts OCR text, and exports image_analysis_output.csv.
 import os
 import re
 import argparse
