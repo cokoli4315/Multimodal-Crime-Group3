@@ -1,10 +1,28 @@
-# Image Analyst (main/images/)
-pandas
-opencv-python
-pytesseract
-ultralytics
-inference-sdk
-python-dotenv
+# Shared
+pandas>=2.0.0
+
+# Audio analyst (main/audio/analyze_audio.py)
+librosa>=0.10.0
+openai-whisper>=20231117
+torch>=2.0.0
+
+# Document analyst (main/document/extract.py)
+pdfplumber>=0.11.0
+
+# Image analyst (main/images/images.py)
+opencv-python>=4.8.0
+pytesseract>=0.3.10
+ultralytics>=8.0.0
+python-dotenv>=1.0.0
+# Roboflow SDK – not available on Python 3.13 yet
+inference-sdk>=0.9.0; python_version < "3.13"
+
+# Text analyst (main/text/text_main.py)
+spacy>=3.7.0
+en-core-web-sm>=3.7.0; python_version < "3.13"
+transformers>=4.36.0
+nltk>=3.8.0
+kaggle>=1.6.0
 
 # Integration & dashboard (main/integration/)
 streamlit>=1.32.0
